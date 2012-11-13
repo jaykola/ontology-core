@@ -24,13 +24,11 @@ import au.csiro.ontology.axioms.RoleInclusion;
 import au.csiro.ontology.classification.IProgressMonitor;
 import au.csiro.ontology.importer.IImporter;
 import au.csiro.ontology.importer.SnomedMetadata;
-import au.csiro.ontology.model.AbstractInfo;
 import au.csiro.ontology.model.Concept;
 import au.csiro.ontology.model.Conjunction;
 import au.csiro.ontology.model.Existential;
 import au.csiro.ontology.model.IConcept;
 import au.csiro.ontology.model.Role;
-import au.csiro.ontology.snomed.model.SnomedInfo;
 
 /**
  * Transforms the native RF1 files used in SNOMED into the internal 
@@ -42,10 +40,9 @@ import au.csiro.ontology.snomed.model.SnomedInfo;
  */
 public class RF1Importer implements IImporter {
 
-    private final File conceptsFile;
-    private final File descriptionsFile;
-    private final File relationshipsFile;
-    private final String version;
+    protected final File conceptsFile;
+    protected final File relationshipsFile;
+    protected final String version;
 
     /**
      * Contains the meta-data necessary to transform the distribution form of
@@ -53,12 +50,12 @@ public class RF1Importer implements IImporter {
      */
     protected SnomedMetadata metadata = new SnomedMetadata();
     
-    private final List<String> problems = new ArrayList<>();
-    private final Map<String, String> primitive = new HashMap<>();
-    private final Map<String, Set<String>> parents = new HashMap<>();
-    private final Map<String, Set<String>> children = new HashMap<>();
-    private final Map<String, List<String[]>> rels = new HashMap<>();
-    private final Map<String, Map<String, String>> roles = new HashMap<>();
+    protected final List<String> problems = new ArrayList<>();
+    protected final Map<String, String> primitive = new HashMap<>();
+    protected final Map<String, Set<String>> parents = new HashMap<>();
+    protected final Map<String, Set<String>> children = new HashMap<>();
+    protected final Map<String, List<String[]>> rels = new HashMap<>();
+    protected final Map<String, Map<String, String>> roles = new HashMap<>();
 
     /**
      * Creates a new {@link RF1Importer}.
@@ -68,10 +65,9 @@ public class RF1Importer implements IImporter {
      * @param relationshipsFile
      * @param version The version of this ontology.
      */
-    public RF1Importer(File conceptsFile, File descriptionsFile, 
-            File relationshipsFile, String version) {
+    public RF1Importer(File conceptsFile, File relationshipsFile, 
+            String version) {
         this.conceptsFile = conceptsFile;
-        this.descriptionsFile = descriptionsFile;
         this.relationshipsFile = relationshipsFile;
         this.version = version;
     }
@@ -100,31 +96,6 @@ public class RF1Importer implements IImporter {
             if (!"CONCEPTID".equals(cr.getConceptId()) && 
                     "0".equals(cr.getConceptStatus())) {
                 primitive.put(cr.getConceptId(), cr.getIsPrimitive());
-            }
-        }
-
-        Map<String, AbstractInfo> infoMap = new HashMap<>();
-
-        // Process description rows
-        for (DescriptionRow dr : vr.getDescriptionRows()) {
-            if ("0".equals(dr.getDescriptionStatus())) {
-                String id = dr.getConceptId();
-                SnomedInfo info = (SnomedInfo) infoMap.get(id);
-                if (info == null) {
-                    info = new SnomedInfo();
-                    infoMap.put(id, info);
-                }
-
-                String type = dr.getDescriptionType();
-                if("0".equals(type)) {
-                    // TODO: what to do with these "unspecified" terms?
-                } else if("1".equals(type)) {
-                    info.setPreferredTerm(dr.getTerm());
-                } else if("2".equals(type)) {
-                    info.getSynonyms().add(dr.getTerm());
-                } else if("3".equals(type)) {
-                    info.setFullySpecifiedName(dr.getTerm());
-                }
             }
         }
 
@@ -241,13 +212,13 @@ public class RF1Importer implements IImporter {
         }
         
         Map<String, IOntology<String>> map = new HashMap<>();
-        map.put(vr.getVersionName(), new Ontology<String>(axioms, infoMap));
+        map.put(vr.getVersionName(), new Ontology<String>(axioms));
         res.put("snomed", map);
 
         return res;
     }
 
-    private void populateParent(String src, String tgt) {
+    protected void populateParent(String src, String tgt) {
         Set<String> prs = parents.get(src);
         if (prs == null) {
             prs = new TreeSet<>();
@@ -256,7 +227,7 @@ public class RF1Importer implements IImporter {
         prs.add(tgt);
     }
 
-    private void populateChildren(String src, String tgt) {
+    protected void populateChildren(String src, String tgt) {
         Set<String> prs = children.get(src);
         if (prs == null) {
             prs = new TreeSet<>();
@@ -265,7 +236,7 @@ public class RF1Importer implements IImporter {
         prs.add(tgt);
     }
 
-    private void populateRels(String src, String role, String tgt, String group) {
+    protected void populateRels(String src, String role, String tgt, String group) {
         List<String[]> val = rels.get(src);
         if (val == null) {
             val = new ArrayList<>();
@@ -274,7 +245,7 @@ public class RF1Importer implements IImporter {
         val.add(new String[] { role, tgt, group });
     }
 
-    private void populateRoles(Set<String> roles, String parentSCTID) {
+    protected void populateRoles(Set<String> roles, String parentSCTID) {
         for (String role : roles) {
             Set<String> cs = children.get(role);
             if (cs != null) {
@@ -289,7 +260,7 @@ public class RF1Importer implements IImporter {
         }
     }
 
-    private void populateRoleDef(String code, String rightId, String parentRole) {
+    protected void populateRoleDef(String code, String rightId, String parentRole) {
         Map<String, String> vals = roles.get(code);
         if (vals == null) {
             vals = new HashMap<>();
@@ -299,7 +270,7 @@ public class RF1Importer implements IImporter {
         vals.put("parentrole", parentRole);
     }
 
-    private Set<Set<RoleValuePair>> groupRoles(List<String[]> groups) {
+    protected Set<Set<RoleValuePair>> groupRoles(List<String[]> groups) {
         Map<String, Set<RoleValuePair>> roleGroups = new HashMap<>();
 
         for (String[] group : groups) {
@@ -347,7 +318,7 @@ public class RF1Importer implements IImporter {
         return problems;
     }
 
-    private class RoleValuePair {
+    protected class RoleValuePair {
         String role;
         String value;
 
@@ -457,63 +428,6 @@ public class RF1Importer implements IImporter {
             }
         }
 
-        // Read all the descriptions from the raw data
-        List<DescriptionRow> drs = new ArrayList<>();
-        if(descriptionsFile != null) {
-            try {
-                br = new BufferedReader(new FileReader(descriptionsFile));
-                String line = br.readLine(); // Skip first line
-                while (null != (line = br.readLine())) {
-                    if (line.trim().length() < 1) {
-                        continue;
-                    }
-                    int idx1 = line.indexOf('\t');
-                    int idx2 = line.indexOf('\t', idx1 + 1);
-                    int idx3 = line.indexOf('\t', idx2 + 1);
-                    int idx4 = line.indexOf('\t', idx3 + 1);
-                    int idx5 = line.indexOf('\t', idx4 + 1);
-                    int idx6 = line.indexOf('\t', idx5 + 1);
-    
-                    // 0..idx1 == descriptionId
-                    // idx1+1..idx2 == descriptionStatus
-                    // idx2+1..idx3 == conceptId
-                    // idx3+1..idx4 == term
-                    // idx4+1..idx5 == initialCapitalStatus
-                    // idx5+1..idx6 == descriptionType
-                    // idx6+1..end == languageCode
-    
-                    if (idx1 < 0 || idx2 < 0 || idx3 < 0 || idx4 < 0 || idx5 < 0
-                            || idx6 < 0) {
-                        br.close();
-                        throw new RuntimeException("Concepts: Mis-formatted "
-                                + "line, expected 7 tab-separated fields, "
-                                + "got: " + line);
-                    }
-    
-                    final String descriptionId = line.substring(0, idx1);
-                    final String descriptionStatus = line.substring(idx1 + 1, idx2);
-                    final String conceptId = line.substring(idx2 + 1, idx3);
-                    final String term = line.substring(idx3 + 1, idx4);
-                    final String initialCapitalStatus = line.substring(idx4 + 1, idx5);
-                    final String descriptionType = line.substring(idx5 + 1, idx6);
-                    final String languageCode = line.substring(idx6 + 1);
-    
-                    drs.add(new DescriptionRow(descriptionId, descriptionStatus, 
-                            conceptId, term, initialCapitalStatus, descriptionType, 
-                            languageCode));
-                }
-            } catch (Exception e) {
-                throw new RuntimeException(e);
-            } finally {
-                if (br != null) {
-                    try {
-                        br.close();
-                    } catch (Exception e) {
-                    }
-                }
-            }
-        }
-
         // Read all the relationships from the raw data
         List<RelationshipRow> rrs = new ArrayList<>();
         try {
@@ -575,7 +489,6 @@ public class RF1Importer implements IImporter {
         
         VersionRows vr = new VersionRows(version);
         vr.getConceptRows().addAll(crs);
-        vr.getDescriptionRows().addAll(drs);
         vr.getRelationshipRows().addAll(rrs);
 
         return vr;

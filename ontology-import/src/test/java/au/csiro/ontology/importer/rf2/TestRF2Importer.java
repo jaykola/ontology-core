@@ -15,6 +15,7 @@ import au.csiro.ontology.IOntology;
 import au.csiro.ontology.classification.NullProgressMonitor;
 import au.csiro.ontology.importer.rf2.RF2Importer.ReleaseType;
 
+
 /**
  * Unit tests for {@link RF2Importer}.
  * 
@@ -33,17 +34,17 @@ public class TestRF2Importer {
     @Test
     public void testGetOntologyVersions() {
         try {
-            RF2Importer rf2i = new RF2Importer(new File(TEST_DIR
-                    + "sct2_Concept_Full_INT_20120131.txt"), new File(TEST_DIR
-                    + "sct2_Description_Full-en_INT_20120131.txt"), new File(
-                    TEST_DIR + "sct2_StatedRelationship_Full_INT_20120131.txt"),
-                    new File(TEST_DIR + 
-                            "der2_ssRefset_ModuleDependencyFull_INT_20120131.txt"),
-                    ReleaseType.FULL);
+            RF2Importer rf2i = new RF2Importer(
+                new File(TEST_DIR + "sct2_Concept_Full_INT_20120131.txt"), 
+                new File(TEST_DIR + 
+                        "sct2_StatedRelationship_Full_INT_20120131.txt"),
+                new File(TEST_DIR + 
+                        "der2_ssRefset_ModuleDependencyFull_INT_20120131.txt"),
+                ReleaseType.FULL);
             Map<String, Map<String, IOntology<String>>> ovs = 
                     rf2i.getOntologyVersions(new NullProgressMonitor());
             Assert.assertEquals(1, ovs.keySet().size());
-        } catch(Throwable t) {t.printStackTrace();}
+        } catch(Throwable t) { t.printStackTrace(); }
     }
 
     /**
@@ -55,7 +56,6 @@ public class TestRF2Importer {
     public void testExtractVersionRows() {
         RF2Importer rf2i = new RF2Importer(
                 new File(TEST_DIR + "rf2_full_con_test.txt"), 
-                new File(TEST_DIR + "rf2_full_desc_test.txt"), 
                 new File(TEST_DIR + "rf2_full_rel_test.txt"), 
                 null,
                 ReleaseType.FULL);
@@ -70,22 +70,18 @@ public class TestRF2Importer {
         
         VersionRows vr1 = vMap.get("20020131");
         Assert.assertEquals(2, vr1.getConceptRows().size());
-        Assert.assertEquals(2, vr1.getDescriptionRows().size());
         Assert.assertEquals(1, vr1.getRelationshipRows().size());
 
         VersionRows vr2 = vMap.get("20030131");
         Assert.assertEquals(3, vr2.getConceptRows().size());
-        Assert.assertEquals(3, vr2.getDescriptionRows().size());
         Assert.assertEquals(3, vr2.getRelationshipRows().size());
 
         VersionRows vr3 = vMap.get("20110731");
         Assert.assertEquals(3, vr3.getConceptRows().size());
-        Assert.assertEquals(3, vr3.getDescriptionRows().size());
         Assert.assertEquals(3, vr3.getRelationshipRows().size());
 
         VersionRows vr4 = vMap.get("20120131");
         Assert.assertEquals(3, vr4.getConceptRows().size());
-        Assert.assertEquals(3, vr4.getDescriptionRows().size());
         Assert.assertEquals(3, vr4.getRelationshipRows().size());
     }
 

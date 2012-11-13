@@ -8,6 +8,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -21,8 +22,6 @@ import java.util.SortedSet;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-import org.apache.log4j.Logger;
-
 import au.csiro.ontology.IOntology;
 import au.csiro.ontology.Ontology;
 import au.csiro.ontology.axioms.ConceptInclusion;
@@ -31,7 +30,6 @@ import au.csiro.ontology.axioms.RoleInclusion;
 import au.csiro.ontology.classification.IProgressMonitor;
 import au.csiro.ontology.importer.IImporter;
 import au.csiro.ontology.importer.SnomedMetadata;
-import au.csiro.ontology.model.AbstractInfo;
 import au.csiro.ontology.model.Concept;
 import au.csiro.ontology.model.Conjunction;
 import au.csiro.ontology.model.Existential;
@@ -40,7 +38,6 @@ import au.csiro.ontology.model.IExistential;
 import au.csiro.ontology.model.INamedRole;
 import au.csiro.ontology.model.IRole;
 import au.csiro.ontology.model.Role;
-import au.csiro.ontology.snomed.model.SnomedInfo;
 import au.csiro.ontology.snomed.refset.rf2.IModule;
 import au.csiro.ontology.snomed.refset.rf2.IModuleDependencyRefset;
 
@@ -51,9 +48,6 @@ import au.csiro.ontology.snomed.refset.rf2.IModuleDependencyRefset;
  * 
  */
 public class RF2Importer implements IImporter {
-
-    // Logger
-    private final static Logger log = Logger.getLogger(RF2Importer.class);
     
     /**
      * Prefix prepended to roor module ids to create the ontology identifier.
@@ -74,11 +68,6 @@ public class RF2Importer implements IImporter {
      * The concepts file.
      */
     protected final File conceptsFile;
-
-    /**
-     * The descriptions file.
-     */
-    protected final File descriptionsFile;
 
     /**
      * The relationships file.
@@ -122,15 +111,44 @@ public class RF2Importer implements IImporter {
      * @param relationshipsFile
      * @param moduleDependencyFile
      * @param type
-     * @param top
-     * @param bottom
      */
-    public RF2Importer(File conceptsFile, File descriptionsFile,
-            File relationshipsFile, File moduleDependencyFile, ReleaseType type) {
+    public RF2Importer(File conceptsFile, File relationshipsFile, 
+            File moduleDependencyFile, ReleaseType type) {
         this.conceptsFile = conceptsFile;
-        this.descriptionsFile = descriptionsFile;
         this.relationshipsFile = relationshipsFile;
         this.moduleDependencyFile = moduleDependencyFile;
+    }
+    
+    private VersionRows getVersionRows(Map<String, Module> modules, 
+            IModule module, String version) {
+        VersionRows vr = modules.get(module.getId()).getVersions()
+                .get(module.getVersion());
+        if(vr == null) {
+            // vr might be null when using this importer if the
+            // only changes in the dependency are in the 
+            // descriptions, because the descriptions are not
+            // loaded. In this case we need to find the previous
+            // version.
+            Map<String, VersionRows> m = modules.get(
+                    module.getId()).getVersions();
+            Set<String> keys = m.keySet();
+            String[] keysArr = keys.toArray(
+                    new String[keys.size()]);
+            Arrays.sort(keysArr);
+            
+            // Find previous version in sorted array
+            int index = Arrays.binarySearch(keysArr, 0, 
+                    keysArr.length, module.getVersion());
+            assert(index < 0);
+            // x = (-(insertion point) - 1)
+            // x + 1 = -insertionPoint
+            // -x - 1 = insertionPoint
+            index = (index * -1) - 1;
+            vr = modules.get(module.getId()).getVersions()
+                    .get(keysArr[index - 1]);
+            assert(vr != null);
+        }
+        return vr;
     }
 
     @Override
@@ -138,6 +156,7 @@ public class RF2Importer implements IImporter {
             IProgressMonitor monitor) {
 
         // TODO: do something with the monitor
+        // TODO: refactor this to avoid duplicate code in ExtendedRF2Importer
 
         Map<String, IConcept> ci = new HashMap<>();
         Map<String, INamedRole<String>> ri = new HashMap<>();
@@ -172,8 +191,8 @@ public class RF2Importer implements IImporter {
     
                     // Add the root module to the bundle
                     String version = im.getVersion();
-                    bundle.add(modules.get(moduleId).getVersions().get(
-                            version));
+                    VersionRows vr = getVersionRows(modules, im, version);
+                    bundle.add(vr);
     
                     // Add all the dependencies to the bundle
                     Queue<IModule> depends = new LinkedList<>();
@@ -181,8 +200,8 @@ public class RF2Importer implements IImporter {
     
                     while (!depends.isEmpty()) {
                         IModule depend = depends.poll();
-                        bundle.add(modules.get(depend.getId()).getVersions()
-                                .get(depend.getVersion()));
+                        vr = getVersionRows(modules, depend, version);
+                        bundle.add(vr);
                         depends.addAll(depend.getDependencies());
                     }
     
@@ -257,49 +276,6 @@ public class RF2Importer implements IImporter {
                             primitive.put(cr.getId(), "1");
                         } else {
                             primitive.put(cr.getId(), "0");
-                        }
-                    }
-                }
-
-                Map<String, AbstractInfo> infoMap = new HashMap<>();
-
-                // Process description rows
-                for (DescriptionRow dr : vr.getDescriptionRows()) {
-                    if ("1".equals(dr.getActive())) {
-                        String id = dr.getConceptId();
-                        SnomedInfo info = (SnomedInfo) infoMap.get(id);
-                        if (info == null) {
-                            info = new SnomedInfo();
-                            infoMap.put(id, info);
-                        }
-
-                        String pr = primitive.get(id);
-                        if (pr == null) {
-                            log.trace("No primitive flag for concept "+id);
-                        } else if (pr.equals("1")) {
-                            info.setPrimitive(true);
-                        } else {
-                            info.setPrimitive(false);
-                        }
-
-                        info.setModule(dr.getModuleId());
-
-                        // TODO: we are also currently ignoring case
-                        // sensitivity. Do we need to deal with this?
-                        String typeId = dr.getTypeId();
-                        if (metadata.getFsnId(version).equals(typeId)) {
-                            info.setFullySpecifiedName(dr.getTerm());
-                        } else if (metadata.getSynonymId(version)
-                                .equals(typeId)) {
-                            info.getSynonyms().add(dr.getTerm());
-                        } else if (metadata.getDefinitionId(version).equals(
-                                typeId)) {
-                            // TODO: this description type seems not be used. Do
-                            // we
-                            // need to do something with it?
-                        } else {
-                            throw new RuntimeException(
-                                    "Unknown description type " + typeId);
                         }
                     }
                 }
@@ -443,7 +419,7 @@ public class RF2Importer implements IImporter {
                     res.put(URI_PREFIX+modId, ontVersions);
                 }
                 
-                ontVersions.put(version, new Ontology<String>(axioms, infoMap));
+                ontVersions.put(version, new Ontology<String>(axioms));
             }
         }
 
@@ -516,74 +492,6 @@ public class RF2Importer implements IImporter {
             }
         }
 
-        // Read all the descriptions from the raw data
-        List<DescriptionRow> drs = new ArrayList<>();
-        try {
-            br = new BufferedReader(new FileReader(descriptionsFile));
-            String line = br.readLine(); // Skip first line
-            while (null != (line = br.readLine())) {
-                if (line.trim().length() < 1) {
-                    continue;
-                }
-                int idx1 = line.indexOf('\t');
-                int idx2 = line.indexOf('\t', idx1 + 1);
-                int idx3 = line.indexOf('\t', idx2 + 1);
-                int idx4 = line.indexOf('\t', idx3 + 1);
-                int idx5 = line.indexOf('\t', idx4 + 1);
-                int idx6 = line.indexOf('\t', idx5 + 1);
-                int idx7 = line.indexOf('\t', idx6 + 1);
-                int idx8 = line.indexOf('\t', idx7 + 1);
-
-                // 0..idx1 == id
-                // idx1+1..idx2 == effectiveTime
-                // idx2+1..idx3 == active
-                // idx3+1..idx4 == moduleId
-                // idx4+1..idx5 == conceptId
-                // idx5+1..idx6 == languageCode
-                // idx6+1..idx7 == typeId
-                // idx7+1..idx8 == term
-                // idx8+1..end == caseSignificanceId
-
-                if (idx1 < 0 || idx2 < 0 || idx3 < 0 || idx4 < 0 || idx5 < 0
-                        || idx6 < 0 || idx7 < 0 || idx8 < 0) {
-                    br.close();
-                    throw new RuntimeException("Concepts: Mis-formatted "
-                            + "line, expected 9 tab-separated fields, "
-                            + "got: " + line);
-                }
-
-                final String id = line.substring(0, idx1);
-                final String effectiveTime = line.substring(idx1 + 1, idx2);
-                final String active = line.substring(idx2 + 1, idx3);
-                final String moduleId = line.substring(idx3 + 1, idx4);
-                final String conceptId = line.substring(idx4 + 1, idx5);
-                final String languageCode = line.substring(idx5 + 1, idx6);
-                final String typeId = line.substring(idx6 + 1, idx7);
-                final String term = line.substring(idx7 + 1, idx8);
-                final String caseSignificanceId = line.substring(idx8 + 1);
-
-                SortedSet<String> times = moduleTimesMap.get(moduleId);
-                if (times == null) {
-                    times = new TreeSet<>();
-                    moduleTimesMap.put(moduleId, times);
-                }
-                times.add(effectiveTime);
-
-                drs.add(new DescriptionRow(id, effectiveTime, active, moduleId,
-                        conceptId, languageCode, typeId, term,
-                        caseSignificanceId));
-            }
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        } finally {
-            if (br != null) {
-                try {
-                    br.close();
-                } catch (Exception e) {
-                }
-            }
-        }
-
         // Read all the relationships from the raw data
         List<RelationshipRow> rrs = new ArrayList<>();
         try {
@@ -633,7 +541,7 @@ public class RF2Importer implements IImporter {
                 final String characteristicTypeId = line.substring(idx8 + 1,
                         idx9);
                 final String modifierId = line.substring(idx9 + 1);
-
+                
                 SortedSet<String> times = moduleTimesMap.get(moduleId);
                 if (times == null) {
                     times = new TreeSet<>();
@@ -676,25 +584,6 @@ public class RF2Importer implements IImporter {
             set.add(cr);
         }
 
-        Map<String, Map<String, SortedSet<DescriptionRow>>> moduleDescMap = 
-                new HashMap<>();
-        for (DescriptionRow dr : drs) {
-            String id = dr.getId();
-            String module = dr.getModuleId();
-            Map<String, SortedSet<DescriptionRow>> descMap = moduleDescMap
-                    .get(module);
-            if (descMap == null) {
-                descMap = new HashMap<>();
-                moduleDescMap.put(module, descMap);
-            }
-            SortedSet<DescriptionRow> set = descMap.get(id);
-            if (set == null) {
-                set = new TreeSet<>();
-                descMap.put(id, set);
-            }
-            set.add(dr);
-        }
-
         Map<String, Map<String, SortedSet<RelationshipRow>>> moduleRelMap = 
                 new HashMap<>();
         for (RelationshipRow rr : rrs) {
@@ -730,17 +619,6 @@ public class RF2Importer implements IImporter {
                                 idConceptRowMap.get(id), date);
                         if (cr != null)
                             vr.getConceptRows().add(cr);
-                    }
-                }
-
-                for (String moduleId : moduleDescMap.keySet()) {
-                    Map<String, SortedSet<DescriptionRow>> idDescRowMap = 
-                            moduleDescMap.get(moduleId);
-                    for(String id : idDescRowMap.keySet()) {
-                        DescriptionRow dr = getDescriptionRowForDate(
-                                idDescRowMap.get(id), date);
-                        if (dr != null)
-                            vr.getDescriptionRows().add(dr);
                     }
                 }
 
@@ -783,27 +661,7 @@ public class RF2Importer implements IImporter {
 
         return prev;
     }
-
-    protected DescriptionRow getDescriptionRowForDate(
-            Set<DescriptionRow> descriptionSet, String date) {
-        if(descriptionSet == null) return null;
-        DescriptionRow prev = null;
-
-        for (DescriptionRow dr : descriptionSet) {
-            int rel = dr.getEffectiveTime().compareTo(date);
-            if (rel == 0) {
-                // Found it!
-                return dr;
-            } else if (rel > 0) {
-                return prev;
-            } else {
-                prev = dr;
-            }
-        }
-
-        return prev;
-    }
-
+    
     protected RelationshipRow getRelationshipRowForDate(
             Set<RelationshipRow> relationshipSet, String date) {
         if(relationshipSet == null) return null;
