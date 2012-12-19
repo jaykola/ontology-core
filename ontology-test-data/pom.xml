@@ -12,6 +12,7 @@
 	   <module>anatomy-2012</module>
 		<module>snomed-20120131</module>
 		<module>snomed-20110731</module>
+		<module>snomed-20110731-incremental</module>
 	</modules>
   
   <parent>

@@ -1,0 +1,2048 @@
+160941000	0	Telephone in house (finding)	13KB.	F-02822	1
+160942007	0	Public telephone only (finding)	13KC.	F-02824	1
+160521004	0	Far Eastern origin (finding)	1349.	F-024C0	1
+103634004	0	Leukocytic agglutination (morphologic abnormality)	XU0xZ	M-64226	1
+171891006	0	Lumbar chemical sympathectomy (procedure)	70611	P1-955D3	1
+171892004	0	Cryotherapy to lumbar sympathetic nerve (procedure)	70612	P0-05AC8	0
+171984009	0	Incision of thyroglossal cyst (procedure)	71123	P1-601FA	0
+171988007	0	Excision of lesion of thyroid gland (procedure)	71130	P1-6101B	0
+160560002	0	Presbyterian, follower of religion (person)	135I.	F-024FC	1
+160561003	0	Church of Scotland (religion/philosophy)	135J.	S-40812	1
+102485007	0	Personal risk factor (observable entity)	XU0hf	F-01502	1
+160632008	0	Enjoys moderate exercise (finding)	1384.	F-0A8FD	1
+160633003	0	Enjoys heavy exercise (finding)	1385.	F-0A8FE	1
+160674003	0	Entire posterior branch of superior thyroid artery (body structure)	XS0hz	T-4521D	1
+102490005	0	Hypomobility (finding)	XU0hj	F-01554	1
+160675002	0	Low residue diet (finding)	13B8.	C-F20B8	1
+160726006	0	Lives alone -no help available (finding)	13F3.	S-31223	1
+160727002	0	Lives alone needs housekeeper (finding)	13F31	S-31224	1
+160562005	0	Pentecostalist, follower of religion (person)	135K.	F-0256B	1
+160563000	0	Evangelist, follower of religion (person)	135L.	F-0256C	1
+160634009	0	Competitive athlete (finding)	1386.	F-0A8FF	1
+160635005	0	Exercise grading unknown (finding)	1387.	F-0A901	1
+102949001	0	Excessive masturbation (finding)	X767J	F-9B377	1
+165175000	0	Temperament testing (procedure)	3831.	P9-00002	1
+165176004	0	Attitude testing (procedure)	3833.	P9-01003	1
+165242000	0	Wheelchair mobility (observable entity)	398..	F-03234	1
+165243005	0	Independent in wheelchair (finding)	3981.	F-03235	1
+165244004	0	Minimal help in wheelchair (finding)	3982.	F-03236	1
+102965000	0	Abnormal cerebral evoked potential (finding)	XU0nj	F-A0612	0
+165320004	0	Dementia test (procedure)	3AD..	P9-10201	1
+102983008	0	Brisk tendon reflex (finding)	XU0o1	F-A1613	1
+165498002	0	Red blood cell enzyme test (procedure)	42G..	P3-30045	1
+165177008	0	Projective testing (procedure)	3834.	P9-00003	1
+165178003	0	Intelligence quotient (observable entity)	3835.	F-0320E	1
+165182001	0	Entire articular process of seventh cervical vertebra (body structure)	XS0Ra	T-116CF	1
+165245003	0	Independent walking (finding)	3983.	F-18066	0
+165247006	0	Unable to climb stairs (finding)	3990.	F-03238	0
+165248001	0	Needs help on stairs (finding)	3991.	F-03239	1
+165321000	0	Ten item dementia test (procedure)	3AD1.	P9-10202	1
+165322007	0	Thirty-seven item dementia test (procedure)	3AD2.	P9-10203	1
+102966004	0	Visual evoked potential, function (observable entity)	XU0nk	F-A0620	1
+102984002	0	Romberg test evokes stiff fall backward (finding)	XU0o2	F-A1817	1
+165511009	0	Differential white blood cell count procedure (procedure)	42I..	P3-30533	1
+102950001	0	Abusive sexual relationship (finding)	XU0nW	F-9B580	1
+10295004	0	Chronic viral hepatitis (disorder)	X306h	DE-38220	0
+165249009	0	Independent on stairs (finding)	3992.	F-18067	0
+165250009	0	Ability to bathe self (observable entity)	39A..	F-0323D	1
+158839000	0	Marketing/sales executive trainee (occupation)	02C4.	J-0013B	1
+158842006	0	Advertising manager (occupation)	02D1.	J-0013C	1
+158843001	0	Media planner (occupation)	02D3.	J-0013D	1
+158907006	0	Teacher - infant class (occupation)	0353.	J-13304	1
+158910004	0	Pre-primary head teacher (occupation)	0361.	J-13402	1
+102286006	0	Structure of arch of sacral vertebra (body structure)	XU0eI	T-11A01	1
+157458002	0	Entire subcutaneous tissue of suprasternal notch (body structure)	XS15e	T-0330D	1
+158775005	0	Inquiry commission member (occupation)	0226.	J-000C7	1
+158778007	0	Company secretary (occupation)	0231.	J-000C8	1
+102271000	0	Efrotomycin (substance)	XU0e2	C-F5110	1
+158779004	0	Town clerk (occupation)	0232.	J-000C9	1
+158844007	0	Advertisement manager (occupation)	02D4.	J-0013E	1
+102279003	0	Nitzschia pungens (organism)	XU0e9	L-51181	1
+158847000	0	Purchasing manager (occupation)	02E1.	J-0013F	1
+158848005	0	Retail buyer (occupation)	02E2.	J-42221	1
+158912007	0	Vocational trainer (occupation)	037..	J-00154	1
+158913002	0	Vocational training manager (occupation)	0371.	J-00155	1
+158914008	0	Vocational training instructor (occupation)	0372.	J-00156	1
+158915009	0	Vocational training trainee (occupation)	0373.	J-00157	1
+158569004	0	Entire inferior laryngeal vein (body structure)	XS07v	T-48624	1
+158780001	0	General secretary -trade union (occupation)	0233.	J-000CA	1
+158781002	0	Secretary - trade association (occupation)	0234.	J-000CB	1
+158782009	0	Secretary - professional body (occupation)	0235.	J-000CC	1
+158849002	0	Wholesale buyer (occupation)	02E3.	J-42222	1
+158850002	0	Purchasing officer (occupation)	02E4.	J-00140	1
+158851003	0	Buyer - advertising space (occupation)	02E5.	J-42223	1
+158852005	0	Print buyer - advertising (occupation)	02E6.	J-42224	1
+158918006	0	Director of education (occupation)	0381.	J-00158	1
+158919003	0	Education officer (occupation)	0382.	J-00159	1
+102287002	0	Structure of arch of coccygeal vertebra (body structure)	XU0eJ	T-11B01	1
+158783004	0	Secretary-charity organization (occupation)	0236.	J-000CD	1
+158784005	0	Company registrar (occupation)	0237.	J-000CE	1
+158785006	0	Stocks/bonds registrar (occupation)	0238.	J-000CF	1
+158853000	0	Trainee buyer (occupation)	02E7.	J-42225	1
+158856008	0	Structure of jugular arch (body structure)	XU0eA	T-4808B	1
+102280000	0	Dinophysis (organism)	XU0eB	L-51190	1
+103108006	0	Salmonella H (flagellar) antigen (substance)	XU0pb	F-C16E1	1
+134035007	0	Entire stylomastoid foramen (body structure)	XS0Jf	T-1113A	1
+10017004	0	Occlusal wear of teeth (disorder)	XU02y	D5-10402	1
+137864009	0	Entire mastoid angle of parietal bone (body structure)	XS0JT	T-1112C	1
+10020007	0	Biperiden hydrochloride (substance)	XU03U	C-67521	1
+1002007	0	Mannotetraose 2-alpha-N-acetylglucosaminyltransferase (substance)	XU03V	F-68AF8	1
+137056002	0	Entire mastoid fontanel of skull (body structure)	XS1XE	T-15208	1
+10012005	0	Expression (procedure)	XU026	P1-0E350	0
+137359002	0	Entire frontal eminences (body structure)	XS0JL	T-1111D	1
+10015007	0	Eimeria arkhari (organism)	XU02c	L-52711	1
+137662006	0	Entire crista frontalis (body structure)	XS0JP	T-1112A	1
+137965006	0	Entire sphenoid angle of parietal bone (body structure)	XS0JU	T-1112D	1
+10018009	0	Henneguya (organism)	XU039	L-54220	1
+137157009	0	Entire temporal fossa (body structure)	XS10Z	T-D1158	1
+10013000	0	Lateral meniscus structure (body structure)	Xa9qs	T-15723	1
+137460008	0	Entire superciliary arch (body structure)	XS0JM	T-1111E	1
+10016008	0	Bithionol (substance)	XU02n	C-90281	1
+137763006	0	Entire nasal spine of frontal bone (body structure)	XS0JQ	T-1112B	1
+10019001	0	Incision and drainage of infected bursa of wrist (procedure)	XU03J	P1-17122	0
+10011003	0	Absolute refractory period of nerve cell and nerve fiber, function (observable entity)	XU01v	F-A0240	1
+136955008	0	Entire sphenoidal fontanel of skull (body structure)	XS1XD	T-15207	1
+137258008	0	Entire pterygopalatine fossa (body structure)	XS10o	T-D1304	1
+137561005	0	Entire glabella (body structure)	XS0JN	T-1111F	1
+10014006	0	Other blacksmith/toolmaker/machine-tool operator (occupation)	XU02R	J-83990	1
+138369005	0	Entire sagittal sulcus of parietal bone (body structure)	XS0JW	T-1113F	1
+10025002	0	Structure of base of phalanx of index finger (body structure)	XU04M	T-12635	1
+138672006	0	Entire squamous part of temporal bone (body structure)	XS0JZ	T-1115D	1
+10030003	0	Genus Echium (organism)	XU05F	L-D9C20	1
+1003002	0	Religious discrimination (finding)	XU05G	S-00060	1
+169731002	0	Fetal movements seen (finding)	62O2.	F-86114	1
+169822006	0	Duration of second stage of labor (observable entity)	6322.	F-03BD4	1
+169823001	0	Duration of third stage of labor (observable entity)	6323.	F-03BD5	1
+103430003	0	Yersinia enterocolitica serogroup O:3 (organism)	XU0ua	L-1E413	1
+169669004	0	Antenatal ultrasound scan at 9-16 weeks (procedure)	62GC.	P5-B004F	1
+169670003	0	Antenatal ultrasound scan at 17-22 weeks (procedure)	62GD.	P5-B0051	1
+103413000	0	Human immunodeficiency virus (HIV) Centers for Disease Control and Prevention (CDC) category C2 (AIDS) (finding)	XU0uN	G-E632	1
+10111000	0	Vibrio aestuarianus (organism)	X73Mr	L-26229	1
+147359000	0	Entire dental branch of inferior alveolar artery (body structure)	XS0iZ	T-4528D	1
+10114008	0	Female sterility (finding)	XU0Js	F-80520	1
+146854006	0	Entire middle temporal artery (body structure)	XS0iT	T-4527C	1
+10109009	0	Fibrinogen London III (substance)	XU0J2	F-DE043	1
+147157007	0	Entire deep auricular artery (body structure)	XS0iW	T-4528B	1
+146652007	0	Entire anterior auricular branch of superficial temporal artery (body structure)	XS0iR	T-4527A	1
+10112007	0	Salmonella Alamo (organism)	Xa8eo	L-17540	1
+147460006	0	Entire mylohyoid branch of inferior alveolar artery (body structure)	XS0ia	T-4528E	1
+10115009	0	Congenital partial hypoplasia (morphologic abnormality)	XU0K3	M-21370	1
+10107006	0	Duodenoduodenostomy (procedure)	X20Vl	P1-56925	1
+146955006	0	Entire frontal branch of superficial temporal artery (body structure)	XS0iU	T-4527D	1
+10121008	0	Open wound of nape of neck without complication (disorder)	XU0L6	DD-31616	0
+148369008	0	Structure of ascending palatine artery (body structure)	XU0Lc	T-452A7	1
+10124000	0	Structure of deep dorsal sacrococcygeal ligament (body structure)	XU0Ld	T-18152	1
+148672009	0	Entire labyrinthine artery (body structure)	XS0ju	T-45821	1
+147864007	0	Entire masseteric artery (body structure)	XS0if	T-4529D	1
+10119003	0	Structure of deep volar arch of radial artery (body structure)	XU0Kk	T-47340	1
+148167004	0	Entire infraorbital artery (body structure)	XS0ij	T-452A0	1
+148773008	0	Entire anterior vestibular artery (body structure)	XS0jv	T-45829	1
+10122001	0	Accretion (morphologic abnormality)	XU0LH	M-30420	1
+148470005	0	Entire caroticotympanic artery (body structure)	XS0iq	T-45311	1
+10125004	0	No diagnosis on Axis II (finding)	XU0Lp	D9-00020	1
+147662009	0	Entire artery of the pterygoid canal (body structure)	XS0ic	T-4529B	1
+10117001	0	Finns (ethnic group)	XU0KP	S-61130	1
+147965009	0	Entire deep temporal artery (body structure)	XS0ig	T-4529E	1
+148268003	0	Entire palatine artery (body structure)	XS0il	T-452A1	1
+1012000	0	Structure of fibrous portion of pericardium (body structure)	XU0Ku	T-39100	1
+10123006	0	Abortion complicated by renal failure (disorder)	XU0LS	D8-04050	1
+148571007	0	Entire palpebral artery (body structure)	XS0j8	T-45475	1
+10126003	0	Awn (substance)	XU0M0	L-D0006	1
+147763009	0	Entire superior tympanic artery (body structure)	XS0ie	T-4529C	1
+148066005	0	Entire buccal artery (body structure)	XS0ih	T-4529F	1
+10132008	0	Burns of multiple sites (disorder)	XU0N2	DD-52700	1
+149481004	0	Entire superior ophthalmic vein (body structure)	XS06t	T-48284	1
+10135005	0	Cinchona alkaloid (product)	XU0NY	C-56580	1
+149784006	0	Entire episcleral vein (body structure)	XS06y	T-4828C	1
+10130000	0	Demonstrator (occupation)	XU0Me	J-45150	1
+1013005	0	Micropolyspora faeni (organism)	X80pl	L-21301	1
+148975009	0	Entire vestibulocochlear artery (body structure)	XS0jx	T-4582B	1
+149279004	0	Entire cochlear branch of vestibulocochlear artery (body structure)	XS0k0	T-4582E	1
+10138007	0	Bone marrow hyperplasia (disorder)	XU0O4	DC-00110	0
+149016008	0	MAY BE A (attribute)	XU0Mj	G-C033	1
+10133003	0	Cyclizine lactate (substance)	XU0ND	C-51841	1
+149582008	0	Entire lacrimal vein (body structure)	XS06w	T-4828A	1
+10128002	0	Rosacea conjunctivitis (disorder)	F4C31	DA-75652	0
+149077008	0	Entire arterial tufts of cochlea (body structure)	XS0jy	T-4582C	1
+10131001	0	White-headed mousebird (organism)	XU0Mr	L-97A03	1
+149380004	0	Entire spiral modiolar artery (body structure)	XS0k1	T-4582F	1
+10134009	0	Structure of medial surface of third toe (body structure)	XS0C0	T-D9834	1
+149683007	0	Entire ciliary vein (body structure)	XS06x	T-4828B	1
+148874007	0	Entire common cochlear artery (body structure)	XS0jw	T-4582A	1
+103056002	0	Tetrahydrodeoxycortisol (substance)	XU0oz	F-B29B0	1
+103058001	0	Medium molecule parathyrin (substance)	X80GE	F-B3402	1
+159981000	0	Footwear caster (occupation)	0D65.	J-80304	1
+102845008	0	Urinary cast, broad waxy (finding)	XU0m8	F-73609	1
+102846009	0	Urinary sediment (finding)	XU0m9	F-7360A	1
+102761003	0	Ribonucleic acid, double stranded (substance)	XU0kq	F-65B60	1
+169271008	0	Velocity measurement (procedure)	5886.	P0-00784	1
+159188007	0	Mechanical engineer manager (occupation)	0591.	J-02402	1
+159189004	0	Mechanical engineer - research/development (occupation)	0593.	J-02403	1
+159243004	0	Fuel technologist (occupation)	05F8.	J-001D4	1
+159244005	0	Brewer (occupation)	05FA.	J-001D5	1
+159245006	0	Trainee technologist (occupation)	05FB.	J-001D6	1
+159302001	0	Test engineer - mechanical engineer (occupation)	05Q1.	J-0290A	1
+102336003	0	Nickel-covered bullet, device (physical object)	XU0fB	A-32118	1
+159303006	0	Test engineer - electrical engineer (occupation)	05Q2.	J-0290B	1
+159365001	0	Transport operating manager (occupation)	0662.	J-00211	1
+159366000	0	Transport schedule manager (occupation)	0663.	J-00212	1
+169275004	0	Electric pulses for diagnosis (procedure)	5892.	P0-00787	1
+169276003	0	Magnetic field for diagnosis (procedure)	5893.	P0-00788	1
+169391003	0	Afterload radiotherapy - female genital (procedure)	5A64.	P5-C0159	1
+159053009	0	Instruction writer (occupation)	041B.	J-15003	1
+159054003	0	Process description writer (occupation)	041C.	J-15004	1
+159055002	0	Program writer (occupation)	041D.	J-15005	1
+159114003	0	Theatrical agent (occupation)	0493.	J-001BE	1
+102311009	0	Starck dilator, device (physical object)	XU0ej	A-25052	1
+159115002	0	Window dresser (occupation)	0494.	J-001BF	1
+158963007	0	Vocational guidance specialist (occupation)	03C2.	J-0016D	1
+102292000	0	Skeletal muscle structure of lower limb (body structure)	XaAx2	T-14668	1
+159006006	0	Dental nurse (occupation)	03FQ.	J-0712D	1
+159010009	0	Hospital pharmacist (occupation)	03G1.	J-06712	1
+159011008	0	Retail pharmacist (occupation)	03G2.	J-06713	1
+159012001	0	Industrial pharmacist (occupation)	03G3.	J-06714	1
+159057005	0	Monitor (radio broadcasts) (occupation)	041F.	J-15006	1
+159058000	0	Literary agent (occupation)	041G.	J-15007	1
+159059008	0	Trainee writer (occupation)	041H.	J-15008	1
+159116001	0	Florist (occupation)	0495.	J-001C0	1
+159117005	0	Artist's model (occupation)	0496.	J-001C1	1
+159120002	0	Sports team manager (occupation)	04A1.	J-001C2	1
+158965000	0	Medical practitioner (occupation)	03D..	J-0016E	1
+158966004	0	Medical administrator - national (occupation)	03D1.	J-0016F	1
+158968003	0	Consultant surgeon (occupation)	03D5.	J-00170	1
+159013006	0	Pharmaceutical officer H.A. (occupation)	03G4.	J-06715	1
+159014000	0	Trainee pharmacist (occupation)	03G5.	J-06716	1
+102298001	0	Structure of chordae tendineae cordis (body structure)	XU0eT	T-35020	1
+102304005	0	Measuring ruler, device (physical object)	XU0eZ	A-10141	1
+159062006	0	Artist (occupation)	0421.	J-0019C	1
+159064007	0	Set designer - theatre/television (occupation)	0426.	J-0019D	1
+159121003	0	Professional association soccer player (occupation)	04A2.	J-18021	1
+159122005	0	Jockey (occupation)	04A3.	J-18022	1
+159123000	0	Racing car driver (occupation)	04A4.	J-18023	1
+158970007	0	Anesthetist (occupation)	03D7.	J-00171	1
+159016003	0	Medical radiographer (occupation)	03H..	J-00187	1
+159017007	0	Diagnostic radiographer (occupation)	03H1.	J-00188	1
+159018002	0	Therapeutic radiographer (occupation)	03H2.	J-00189	1
+159065008	0	Art director (films) (occupation)	0427.	J-0019E	1
+102305006	0	Intramedullary reamer, device (physical object)	XU0ea	A-12174	1
+159066009	0	Trainee artist (occupation)	0429.	J-0019F	1
+102312002	0	Atherectomy device (physical object)	XU0ek	A-25600	1
+159124006	0	Racing motor cyclist (occupation)	04A5.	J-18024	1
+159126008	0	Sports instructor (occupation)	04A7.	J-001C3	1
+159127004	0	Sport trainee (occupation)	04AA.	J-001C4	1
+158971006	0	Hospital registrar (occupation)	03DA.	J-00172	1
+158972004	0	House officer (occupation)	03DB.	J-00173	1
+158973009	0	Occupational physician (occupation)	03DD.	J-00174	1
+159019005	0	Trainee radiographer (occupation)	03H3.	J-0018A	1
+159021000	0	Ophthalmic optician (occupation)	03I1.	J-07522	1
+159022007	0	Trainee optician (occupation)	03I3.	J-07523	1
+159069002	0	Industrial design manager (occupation)	0431.	J-001A0	1
+159070001	0	Industrial designer (occupation)	0432.	J-001A1	1
+159073004	0	Director - films (occupation)	0443.	J-001A2	1
+159128009	0	Professional boxer (occupation)	04AB.	J-18025	1
+102313007	0	Rotational atherectomy device (physical object)	XU0el	A-25610	1
+160996006	0	Over 80's pension (qualifier value)	13P2.	R-41E8F	1
+102524005	0	Age more than 50 years (finding)	XU0iE	F-08650	1
+102276005	0	Bipartite ossification (finding)	XU0e6	F-12107	1
+158825000	0	Standards engineer (occupation)	0297.	J-000E8	1
+158889008	0	University vice-chancellor (occupation)	0311.	J-13009	1
+158890004	0	University professor (occupation)	0312.	J-1300A	1
+158891000	0	University lecturer (occupation)	0313.	J-1300B	1
+158892007	0	University dean (occupation)	0314.	J-1300C	1
+158950001	0	Medical social worker (occupation)	03AI.	J-19305	1
+158951002	0	Mental welfare officer (occupation)	03AK.	J-19325	1
+158952009	0	Leader - social group work (occupation)	03AL.	J-00168	1
+158758004	0	Management support professions (occupation)	02...	J-000BC	1
+158760002	0	Officer of the court (occupation)	0212.	J-000BD	1
+158762005	0	Solicitor (occupation)	0214.	J-000BE	1
+158826004	0	Value analyst (occupation)	0298.	J-000E9	1
+158827008	0	Network analyst (occupation)	0299.	J-000EA	1
+158828003	0	Work study trainee (occupation)	029B.	J-000EB	1
+158830001	0	Economist/statisticians/actuaries (occupation)	02A..	J-000EC	1
+102284009	0	Congenital flexion deformity (morphologic abnormality)	XU0eG	M-22250	1
+158895009	0	Teacher training principal (occupation)	0321.	J-1300D	1
+158896005	0	Teacher training teacher (occupation)	0322.	J-1300E	1
+158955006	0	Safety officer (occupation)	03AO.	J-0016A	1
+158956007	0	Welfare trainee (occupation)	03AP.	J-19327	1
+160522006	0	West Indian origin (finding)	134A.	F-024C2	1
+160734000	0	Lives in a nursing home (finding)	13F61	F-026B5	1
+160736003	0	Lives in a welfare home (finding)	13F71	F-026B7	1
+160807009	0	Mother remarried (situation)	13HK.	G-015E	0
+102504006	0	Well premature male newborn (finding)	XU0hu	F-06821	1
+160875000	0	Partner unemployed (situation)	13ID.	G-0169	0
+170530008	0	Notification of acquired immune deficiency syndrome (procedure)	65VE.	P0-007CC	1
+170531007	0	Notification of legionella (procedure)	65VF.	P0-007CD	1
+170532000	0	Notification of rubella (procedure)	65VG.	P0-007CE	1
+170765005	0	Chronic hyperglycemia (disorder)	66AJ0	DB-61807	1
+170396003	0	Second diphtheria, pertussis and tetanus triple vaccination (procedure)	65H2.	P2-47082	1
+103481008	0	Neisseria meningitidis serogroup C (organism)	XU0v5	L-22223	1
+103495006	0	Staphylococcus pasteuri (organism)	XU0vA	L-24831	1
+170533005	0	Notification of mumps (procedure)	65VH.	P0-007CF	1
+170534004	0	Notification of glandular fever (procedure)	65VI.	P0-007D0	1
+170766006	0	Loss of hypoglycemic warning (disorder)	66AJ2	D6-50109	1
+170399005	0	Diphtheria, pertussis and tetanus triple and polio vaccination (procedure)	65I..	P2-47084	1
+170400003	0	First diphtheria, pertussis and tetanus triple and polio vaccination (procedure)	65I1.	P2-47085	1
+103489005	0	Methylobacterium rhodesianum (organism)	X73ON	L-23307	1
+103496007	0	Staphylococcus schleiferi ss. schleiferi (organism)	X73FM	L-24832	1
+170784008	0	Entire left lobe of thyroid gland (body structure)	XS094	T-B6201	0
+158768009	0	Structure of posterior external jugular vein (body structure)	XU0e0	T-48156	1
+10227000	0	Herpetic infection of penis (disorder)	A5413	DE-32127	0
+102270004	0	Growth stimulant (substance)	XU0e1	C-F5100	1
+158834005	0	Computer trainee (occupation)	02B4.	J-000EF	1
+158837003	0	Marketing manager (occupation)	02C1.	J-000F0	1
+102278006	0	Erythrocyte sequestration (finding)	XU0e8	F-D0156	1
+158903005	0	Secondary school teacher (occupation)	0342.	J-13203	1
+102285005	0	Congenital extension deformity (morphologic abnormality)	XU0eH	M-22260	1
+158905003	0	Primary school head teacher (occupation)	0351.	J-13302	1
+158906002	0	Teacher - junior class (occupation)	0352.	J-13303	1
+158953004	0	Housing manager (occupation)	03AM.	J-00169	1
+158954005	0	Welfare officer (for staff) (occupation)	03AN.	J-19326	1
+102291007	0	Muscle of buttock (body structure)	XU0eN	T-14408	1
+158771001	0	Adjudicator N.I. regulations (occupation)	0222.	J-000C3	1
+158772008	0	Appeals tribunal chairman (occupation)	0223.	J-000C4	1
+158773003	0	Appeals tribunal member (occupation)	0224.	J-000C5	1
+158774009	0	Inquiry commission chairman (occupation)	0225.	J-000C6	1
+158838008	0	Company sales manager (occupation)	02C3.	J-000F2	1
+159982007	0	Leather goods repairer (occupation)	0D67.	J-00414	1
+160047003	0	Electrical production fitter (occupation)	0E5..	J-00431	1
+160048008	0	Foreman: electrical production (occupation)	0E51.	J-00432	1
+160050000	0	Electronics production fitter (occupation)	0E53.	J-00433	1
+160051001	0	Production electrician (occupation)	0E54.	J-00434	1
+159862007	0	Entire tracheal branch of inferior thyroid artery (body structure)	XS0kK	T-46149	1
+159864008	0	Materials processor excluding metal (occupation)	0C...	J-0037E	1
+159865009	0	Tannery production worker (occupation)	0C1..	J-0037F	1
+159918004	0	Rubber processor (occupation)	0CZ8.	J-003A1	1
+159919007	0	Sewage plant attendant (occupation)	0CZA.	J-003A2	1
+102407002	0	Tobacco smoke (substance)	X798g	A-80321	1
+159921002	0	Making/repairing excluding metal/electrical (occupation)	0D...	J-003A3	1
+159984008	0	Leather pattern cutter (occupation)	0D6A.	J-00415	1
+102415004	0	Drinking water pollution (event)	XU0ga	A-A3034	1
+159987001	0	Woodworking foreman (occupation)	0D71.	J-00416	1
+102423002	0	Exposure to environmental pollution, non-occupational (event)	XU0gj	A-A3212	1
+160054009	0	Foreman electrical mechanic (occupation)	0E61.	J-00435	1
+160055005	0	Electrician - plant/machinery (occupation)	0E62.	J-00436	1
+159866005	0	Foreman - tannery production (occupation)	0C11.	J-00380	1
+159869003	0	Textile processor (occupation)	0C2..	J-00381	1
+159922009	0	Glass worker (occupation)	0D1..	J-003A4	1
+159923004	0	Glass working foreman (occupation)	0D11.	J-003A5	1
+159924005	0	Glass shaper/former - hand (occupation)	0D12.	J-003A6	1
+159925006	0	Glass/shaper/former - machine (occupation)	0D13.	J-003A7	1
+159988006	0	Carpenter/joiner - general (occupation)	0D72.	J-95411	1
+159990007	0	Wood fitter (occupation)	0D75.	J-00417	1
+159991006	0	Wood sawyer (occupation)	0D76.	J-00418	1
+160056006	0	Electrician - premises/ships (occupation)	0E63.	J-00437	1
+160057002	0	Telephone fitter (occupation)	0E64.	J-00438	1
+102424008	0	Exposure to polluted air (event)	XU0gk	A-A3220	1
+159926007	0	Optical glass worker (occupation)	0D14.	J-003A8	1
+159927003	0	Glass finisher (occupation)	0D15.	J-003A9	1
+159928008	0	Glass fiber worker (occupation)	0D17.	J-003AA	1
+102416003	0	Bathing water pollution (event)	XU0gb	A-A3036	1
+159992004	0	Woodworker's mate (occupation)	0D7B.	J-00419	1
+159993009	0	Wood polisher (small pieces) (occupation)	0D7C.	J-0041A	1
+160061008	0	Television aerial erector (occupation)	0E69.	J-00439	1
+102868004	0	Intermenstrual spotting due to intrauterine device (finding)	XU0mT	F-81222	0
+102869007	0	Motility of spermatozoa (observable entity)	XU0mU	F-82370	1
+102897001	0	Feeling intoxicated (finding)	XU0mm	F-92390	1
+164841007	0	Monochromator phototest (procedure)	31B4.	P2-44201	1
+164847006	0	Standard ECG (procedure)	3212.	P2-3120B	1
+102930000	0	Gynephobia (finding)	XU0nG	F-94672	1
+10293006	0	Structure of iliac artery (body structure)	XU0nH	T-46700	1
+102870008	0	Spermatozoa penetration of cervical mucus, function (observable entity)	XU0mV	F-82380	1
+10287003	0	Coding clerk (data-processing) (occupation)	XU0mW	J-39930	1
+102898006	0	Emotional relationship (finding)	XU0mn	F-92400	1
+102899003	0	Abusive emotional relationship (finding)	XU0mo	F-92410	1
+164850009	0	Ambulatory ECG (procedure)	3214.	P2-31009	1
+165000009	0	Type 1 skin hypersensitivity reaction (finding)	3355.	F-03207	1
+165001008	0	Type 4 hypersensitivity response (finding)	3356.	F-03208	1
+102931001	0	Fear of heart attack (finding)	XU0nI	F-94680	1
+164411003	0	Entire superior articular process of fifth cervical vertebra (body structure)	XS0RP	T-116C7	1
+102871007	0	Spermatozoa penetration of ovum, function (observable entity)	XU0mX	F-82390	1
+164714007	0	Entire superior articular process of sixth cervical vertebra (body structure)	XS0RV	T-116CA	1
+102900008	0	Abusive emotional relationship with parents (finding)	XU0mp	F-92411	1
+10290009	0	Acyrtops beryllinus (organism)	XU0mq	L-C4E01	1
+102915009	0	Nosophobia (finding)	XU0n3	F-9460A	1
+102916005	0	Arachnophobia (finding)	XU0n4	F-94611	1
+165003006	0	Echinococcus extract skin test (procedure)	3358.	P2-44124	1
+165010000	0	Nasal provocation test (procedure)	3364.	P3-6017C	1
+102872000	0	Pregnancy on oral contraceptive (finding)	XU0mY	F-84084	1
+102873005	0	Pregnancy on intrauterine device (finding)	XU0mZ	F-84086	1
+103383005	0	Transesophageal approach (qualifier value)	X90Mu	G-D033	1
+169516008	0	Postcoital intrauterine contraceptive device fitted (situation)	61A2.	P1-83518	1
+169218008	0	Structure of cervical cutaneous nerve superior branch (body structure)	XU0td	T-A90B6	1
+10137002	0	Burn erythema of chin (disorder)	SH114	DD-52241	0
+10129005	0	Injury of brachial artery (disorder)	Xa3Do	DD-40622	0
+102719009	0	Saturated fatty acid (substance)	Ub08a	F-63380	1
+162897006	0	Entire capsule of atlantoaxial joint (body structure)	XS03U	T-1532A	1
+162299003	0	Generalized headache (finding)	1BA2.	F-A270C	1
+162303008	0	Entire nucleus pulposus of intervertebral disc of fifth cervical vertebra (body structure)	XS0RR	T-116A7	1
+10268009	0	Immunochemiluminescent assay (procedure)	XU0k5	P3-70302	1
+162502002	0	Finding of pain character (finding)	1DC..	F-029E9	1
+102681008	0	Troponin C (substance)	XU0k6	F-62501	1
+102692009	0	Acid mucopolysaccharide (substance)	XU0kB	F-62815	1
+102693004	0	Dermatan sulfate (substance)	X80Jc	F-62832	1
+102720003	0	Apolipoprotein A-I (substance)	X80Oo	F-63511	1
+10272008	0	Closure of fistula of diaphragm (procedure)	7H0D2	P1-B3806	0
+162294008	0	Has difficulty with speech (finding)	1B93.	F-94741	1
+102660008	0	Abnormal glucose level (finding)	XU0jr	F-61922	0
+162513004	0	Dietary fat intake (observable entity)	1F1..	F-029EA	1
+102682001	0	Troponin T (substance)	X80QY	F-62502	1
+102694005	0	Neopterin (substance)	X80Gu	F-62BA0	1
+102695006	0	Chromogranin (substance)	XU0kC	F-62D70	1
+162652000	0	Brief examination of patient (procedure)	2121.	P2-01321	1
+102721004	0	Apolipoprotein A-II (substance)	X80Oq	F-63512	1
+102722006	0	Apolipoprotein B-100 (substance)	X80Is	F-63521	1
+102723001	0	Apolipoprotein B-150 (substance)	XU0kU	F-63522	1
+10266008	0	Bridge pontic (procedure)	XU0js	P8-85100	1
+162304002	0	Parietal headache (finding)	1BA7.	F-A270D	0
+102661007	0	Galactose-1-phosphate (substance)	X80Ht	F-61A05	1
+162520006	0	Dietary fiber intake (observable entity)	1F2..	F-029EB	1
+102696007	0	Chromogranin A (substance)	XU0kD	F-62D78	1
+102697003	0	Lactalbumin (substance)	XU0kE	F-62E10	1
+102724007	0	Apolipoprotein B-48 (substance)	X80Ir	F-63523	1
+102725008	0	Apolipoprotein B/A1 (substance)	XU0kV	F-63524	1
+102726009	0	Apolipoprotein C-I (substance)	X80Oy	F-63531	1
+162313000	0	Morbid jealousy (disorder)	1BC..	D9-71009	1
+162315007	0	Morbid thoughts (finding)	1BD2.	F-94406	1
+162318009	0	Life crisis, life event (finding)	1BE..	F-029E4	1
+102683006	0	Troponin I (substance)	X80QX	F-62503	1
+162526000	0	Dietary sodium - low (finding)	1F31.	F-6001B	1
+162527009	0	Dietary sodium - average (finding)	1F32.	F-6001C	1
+162673000	0	General examination of patient (procedure)	22...	P2-014B4	1
+102698008	0	alpha-Lactalbumin (substance)	XU0kF	F-62E11	1
+162676008	0	Brief general examination (procedure)	2212.	P2-01322	1
+102727000	0	Apolipoprotein C-II (substance)	X80Iv	F-63532	1
+102728005	0	Apolipoprotein C-III (substance)	X80P0	F-63533	1
+162981002	0	Brief examination of cardiovascular system (procedure)	2412.	P2-30025	1
+163583003	0	Brief nervous system examination (procedure)	2812.	P2-90105	1
+163584009	0	Intermediate nervous system exam (procedure)	2813.	P2-90202	1
+163585005	0	Full nervous system examination (procedure)	2814.	P2-90106	1
+102814009	0	Insulin renal clearance, function (observable entity)	XU0le	F-70360	1
+102815005	0	Inulin renal clearance, function (observable entity)	XU0lf	F-70366	1
+164136001	0	General hemopoietic examination (procedure)	2C1..	P2-014EA	1
+102843001	0	Urinary cast, granular (finding)	XU0m6	F-73607	1
+163301003	0	Entire intervertebral disc space of fourth cervical vertebra (body structure)	XS0RN	T-116BC	1
+10276006	0	Lactobacillus vitulinus (organism)	XU0kp	L-20127	1
+102789000	0	alpha>1< Anti-trypsin isotype MS (substance)	XU0lF	F-6F082	1
+163603009	0	Entire intervertebral disc space of seventh cervical vertebra (body structure)	XS0Rf	T-116BF	1
+102790009	0	alpha>1< Anti-trypsin isotype MZ (substance)	XU0lG	F-6F083	1
+102816006	0	Iodohippuran renal clearance, function (observable entity)	XU0lg	F-70370	1
+102817002	0	Hippuran renal clearance, function (observable entity)	XU0lh	F-70371	1
+102844007	0	Urinary cast, broad (finding)	XU0m7	F-73608	1
+160999004	0	Widows allowance (qualifier value)	13Q1.	R-41E90	1
+160800006	0	Battered wife - history (finding)	13HA.	DF-D1637	1
+102503000	0	Well premature newborn (finding)	XU0ht	F-06820	1
+160801005	0	Battered husband - history (finding)	13HC.	DF-D1638	1
+160868001	0	Fostering of child, life event (finding)	13I9.	F-027C3	1
+160939001	0	House rented from housing association (finding)	13K9.	F-0281F	1
+160940004	0	House rented from private landlord (finding)	13KA.	F-02820	1
+102473004	0	Shortened therapeutic response (finding)	XU0hU	F-00557	1
+160519009	0	Indian origin (finding)	1347.	F-024BD	1
+160520003	0	Middle Eastern origin (finding)	1348.	F-024BE	1
+160802003	0	Violent spouse (finding)	13HD.	F-9313F	1
+160806000	0	Father remarried (situation)	13HJ.	G-015D	0
+160870005	0	Child in care (finding)	13IB.	F-027C4	1
+160873007	0	Removed - child abuse register (finding)	13IC0	F-027C5	1
+172067003	0	Breast prosthesis operation (procedure)	7133.	P1-4802D	0
+171805007	0	Cryotherapy to peripheral nerve (procedure)	70515	P1-95514	0
+103625009	0	Focal inflammation (morphologic abnormality)	XU0xN	M-40006	1
+159625008	0	Trainee technical sales representative (occupation)	0852.	J-43122	1
+159627000	0	Wholesale field sales superintendent (occupation)	0861.	J-45122	1
+102762005	0	Phosphofructokinase L subunit (substance)	XU0kr	F-69009	1
+102763000	0	Phosphofructokinase M subunit (substance)	XU0ks	F-6900A	1
+159937008	0	Stone cutter (occupation)	0D27.	J-003AD	1
+159938003	0	Stone shaper (occupation)	0D28.	J-003AE	1
+159939006	0	Monumental mason (occupation)	0D29.	J-003AF	1
+159998000	0	Plastic worker (occupation)	0D85.	J-90005	1
+159999008	0	Glass fiber laminator (occupation)	0D86.	J-0041B	1
+102417007	0	Soil pollution (event)	XU0gc	A-A3040	1
+160070006	0	Riveter (occupation)	0E79.	J-0043E	1
+160071005	0	Construction metal driller (occupation)	0E7A.	J-0043F	1
+160072003	0	Steel rigger (occupation)	0E7B.	J-00440	1
+160073008	0	Steel erector (occupation)	0E7D.	J-00441	1
+159870002	0	Foreman - textile processor (occupation)	0C21.	J-00382	1
+159873000	0	Warp preparer (occupation)	0C26.	J-00384	1
+10283004	0	Congenital stenosis of cervical canal (disorder)	PC4y8	D4-82512	0
+102831002	0	Renal angle pain (finding)	XU0lw	F-70814	1
+163130000	0	Intermediate gastrointestinal tract examination (procedure)	2513.	P2-014B9	1
+163131001	0	Full gastrointestinal tract examination (procedure)	2514.	P2-014BA	1
+102744001	0	Homocarnosine (substance)	XU0ke	F-64155	1
+102775005	0	alpha-Amylase P1 fraction (substance)	XU0l2	F-6F053	1
+102776006	0	alpha-Amylase P2 fraction (substance)	XU0l3	F-6F054	1
+102806003	0	alpha-Amylase renal clearance, function (observable entity)	XU0lV	F-70320	1
+102807007	0	Antipyrine renal clearance, function (observable entity)	XU0lW	F-70326	1
+102832009	0	Uninhibited neurogenic bladder (finding)	XU0lx	F-72156	1
+102745000	0	Deoxycholylglycine (substance)	XU0kf	F-64225	1
+102746004	0	Homocitrulline (substance)	X80HQ	F-64255	1
+102747008	0	Homocysteine (substance)	X807L	F-64270	1
+102777002	0	alpha-Amylase P3 fraction (substance)	XU0l4	F-6F055	1
+102778007	0	alpha-Amylase S1 fraction (substance)	XU0l5	F-6F056	1
+163778008	0	Examination of reflexes (procedure)	2A...	P2-90107	1
+102808002	0	Bilirubin renal clearance, function (observable entity)	XU0lX	F-70330	1
+102834005	0	Normal micturition (finding)	XU0ly	F-72231	0
+102835006	0	Difficulty passing urine (finding)	1AZ3.	F-72232	0
+102748003	0	Anserine (substance)	XU0kg	F-64365	1
+102749006	0	Indolamine (substance)	XU0kh	F-64388	1
+163200004	0	Entire intervertebral disc space of third cervical vertebra (body structure)	XS0RH	T-116BB	1
+102779004	0	alpha-Amylase S2 fraction (substance)	XU0l6	F-6F057	1
+163497009	0	Obstetric examination (procedure)	27...	P2-87018	1
+102809005	0	Bromosulfophthalein renal clearance, function (observable entity)	XU0lY	F-70336	1
+102836007	0	Urethral spasm (finding)	Xa7mF	F-72536	1
+102837003	0	Urinary cast, waxy (finding)	XU0lz	F-73601	1
+164770006	0	Magnifying otoscopy (procedure)	3145.	P1-AB701	1
+164926008	0	Deep S wave (finding)	32D3.	F-3808E	1
+164931005	0	ST elevation (observable entity)	32E3.	F-03204	1
+102923006	0	Teratophobia (finding)	XU0n9	F-94646	1
+102939004	0	Hypermimia (finding)	XU0nP	F-95219	1
+165078001	0	Circulatory time (observable entity)	33B7.	F-0320C	1
+165079009	0	Exercise tolerance test (procedure)	33B9.	P0-006E4	1
+164512008	0	Entire inferior articular process of fifth cervical vertebra (body structure)	XS0RQ	T-116C8	1
+102880007	0	Placental secretion of chorionic gonadotropin, function (observable entity)	XU0ma	F-89070	1
+102906002	0	Delinquent behavior (finding)	XU0mw	F-9302B	1
+164771005	0	Examination of pharynx (procedure)	3146.	P2-014EB	0
+102924000	0	Pyrophobia (finding)	XU0nA	F-94660	1
+164944000	0	PR interval feature (observable entity)	32I..	F-03205	1
+165087005	0	Entire inferior articular process of seventh cervical vertebra (body structure)	XS0Rc	T-116CE	1
+165099003	0	Skeletomuscular dynometry (procedure)	33D1.	P2-9302A	1
+165102003	0	Metabolic function test (procedure)	33E..	P2-014EF	1
+10288008	0	Squamous cell carcinoma, spindle cell (morphologic abnormality)	BB2F.	M-80743	1
+102881006	0	Normal placental secretion of chorionic gonadotropin (finding)	XU0mb	F-89071	1
+164772003	0	Examination of larynx (procedure)	3147.	P2-014EC	0
+102907006	0	Gesticulation (finding)	XU0mx	F-93445	1
+164782002	0	Myocardial oxygen consumption (observable entity)	315A.	F-031BB	1
+164947007	0	Prolonged PR interval (finding)	32I3.	F-3808F	1
+102925004	0	Astrapophobia (finding)	XU0nB	F-94662	1
+102945007	0	Normal sexual behavior (finding)	Ua1an	F-9B001	1
+102882004	0	Abnormal placental secretion of chorionic gonadotropin (disorder)	XU0mc	F-89072	1
+102883009	0	Increased placental secretion of chorionic gonadotropin (finding)	XU0md	F-89073	1
+102884003	0	Decreased placental secretion of chorionic gonadotropin (finding)	XU0me	F-89074	1
+102908001	0	Nose-picking (finding)	XU0my	F-9346A	1
+164791003	0	Helicobacter pylori breath test (procedure)	3167.	P0-05843	1
+164949005	0	QRS complex feature (observable entity)	32J..	F-03206	1
+10294000	0	Reactive mastocytosis (disorder)	XU0nQ	DC-47080	1
+102940002	0	Schizophrenic reaction (finding)	XU0nR	F-95290	1
+102941003	0	Alethia (finding)	XU0nS	F-96160	1
+102885002	0	Absence of placental secretion of chorionic gonadotropin (disorder)	XU0mf	F-89075	1
+102886001	0	Increased amniotic fluid production (finding)	XU0mg	F-89203	1
+102909009	0	Catatonic reaction (finding)	XU0mz	F-93500	1
+164802005	0	Residual urine volume (observable entity)	3176.	F-031BC	1
+164803000	0	Pad test for incontinence (procedure)	317A.	P0-05844	1
+102927007	0	Nyctophobia (finding)	XU0nD	F-94666	1
+164967003	0	Brucellosis skin test (procedure)	3315.	P2-44123	1
+102942005	0	Intelligence quotient low (finding)	13Z3.	F-96320	1
+165109007	0	Basal metabolic rate (observable entity)	33E5.	F-0320D	1
+102943000	0	Personality change (finding)	XU0nT	F-97002	1
+102887005	0	Decreased amniotic fluid production (finding)	XU0mh	F-89204	1
+102888000	0	Thelarche (finding)	X76Ml	F-8A010	1
+102992006	0	Scissors gait on eyes closed straight line walking test (finding)	XU0oA	F-A18B3	1
+169392005	0	Afterload radiotherapy - urinary (procedure)	5A65.	P5-C015A	1
+103386002	0	Transvenous approach (qualifier value)	Xa6a3	G-D052	1
+169468003	0	Oral contraceptive changed (situation)	6149.	P2-08401	1
+169191005	0	Folic acid radioimmunoassay (procedure)	5774.	P3-70286	1
+169192003	0	Hepatitis antibody radioimmunoassay (procedure)	5775.	P3-70287	1
+169193008	0	Drug radioimmunoassay (procedure)	5776.	P3-70288	1
+169278002	0	Spectrometry (procedure)	58A..	P3-700D1	1
+169279005	0	X-ray fluorescence spectrometry (procedure)	58A1.	P3-700D2	1
+169393000	0	Afterload radiotherapy - rectum (procedure)	5A66.	P5-C015B	1
+103379005	0	Procedural approach (qualifier value)	X90MT	G-D000	1
+103387006	0	Transarterial approach (qualifier value)	Xa6a2	G-D054	1
+169477005	0	Intrauterine contraceptive device fitted (finding)	6151.	F-9B74F	1
+169479008	0	Intrauterine contraceptive device re-fitted (finding)	6153.	F-9B757	1
+169196000	0	Radiobioassay - corticosterone (procedure)	5781.	P3-70965	1
+103367005	0	With consistency (attribute)	XU0ti	G-C301	1
+169280008	0	Infrared spectrometry (procedure)	58A4.	P3-700D3	1
+169282000	0	Diagnostic data computerization (procedure)	58B..	P0-00789	1
+162162006	0	Breast lump present (situation)	1A82.	F-8A055	0
+102646006	0	Fumaric acid (substance)	X80Ig	F-61431	1
+161725002	0	Length of cycle increasing (finding)	151F.	F-84049	1
+161726001	0	Length of cycle decreasing (finding)	151G.	F-8404A	1
+102598000	0	Clammy skin (finding)	Ua1bx	F-44077	1
+102617004	0	Congestion of throat (finding)	Xa1sd	F-51726	1
+102618009	0	Pharyngeal dryness (finding)	XU0jM	F-51727	1
+102633001	0	Orthodeoxia (finding)	XU0jX	F-60298	1
+162056003	0	No nausea (situation)	1981.	F-5016A	0
+162171002	0	Currently not sexually active (finding)	1AB2.	F-9B71C	1
+102647002	0	Ethyl malonic acid (substance)	XU0jh	F-61455	1
+102648007	0	Malonic acid (substance)	XU0ji	F-61456	1
+102649004	0	Heptanoic acid (substance)	X80TS	F-614A0	1
+161732006	0	Gravida (observable entity)	153..	F-0298B	1
+102599008	0	Warm skin (finding)	XU0j7	F-44078	1
+161746006	0	Entire superficial cervical artery (body structure)	XS0kL	T-46161	1
+161929000	0	Chesty cough (finding)	1719.	F-24109	1
+102619001	0	Pain in esophagus (finding)	XaBuN	F-51906	0
+102634007	0	Base deficit (finding)	X806u	F-602B0	1
+162200009	0	Temporary loss of memory (finding)	1B1A0	F-96014	1
+162205004	0	Entire anulus fibrosus of intervertebral disc of fourth cervical vertebra (body structure)	XS0RM	T-116A3	1
+102650004	0	Succinylacetone (substance)	XU0jj	F-614B0	1
+10260002	0	Uterine dysfunction (finding)	XU0j8	F-85002	1
+102601005	0	Perioral numbness (finding)	XU0jA	F-44332	1
+161941007	0	Dyspnea at rest (finding)	1734.	F-20173	1
+161943005	0	Entire nucleus pulposus of intervertebral disc of third cervical vertebra (body structure)	XS0RF	T-116A0	1
+102635008	0	Acute nutritional deficiency (finding)	XU0jY	F-60531	1
+10265007	0	Blood group antibody Jobbins (substance)	XU0jk	F-DD120	1
+162208002	0	Rambling speech (finding)	1B1F.	F-94905	1
+102602003	0	Paresthesia of skin (finding)	XU0jB	F-44350	0
+102603008	0	Numbness of skin (finding)	Xa6mx	F-44352	0
+10262005	0	Enterococcus malodoratus (organism)	X73Fl	L-1E607	1
+162076009	0	Excessive upper gastrointestinal gas (finding)	19B2.	F-54166	1
+102636009	0	Chronic nutritional deficiency (finding)	XU0jZ	F-60532	1
+102653002	0	D-lactate (substance)	XU0jn	F-61768	1
+102654008	0	Fructosamine (substance)	X80PV	F-61880	1
+102655009	0	Isovaleric acid (substance)	X80KJ	F-61890	1
+161779006	0	History of - menstrual disorder (situation)	157..	G-0175	0
+102621006	0	Impaired gastric emptying (finding)	XU0jO	F-52632	0
+102622004	0	Regurgitation of food (finding)	XU0jP	F-52881	1
+161968007	0	Bumping heart (finding)	1813.	F-37154	1
+162089003	0	Feces normal (finding)	19E1.	F-029C2	1
+102637000	0	Anion gap, function (observable entity)	X773H	F-605A0	1
+102651000	0	Acylcarnitine (substance)	XU0jl	F-61615	1
+162219004	0	Tends to resent authority (finding)	1B1M.	F-970FF	1
+161783006	0	History of - dysmenorrhea (situation)	1574.	G-0176	0
+161969004	0	Fluttering heart (finding)	1814.	F-37155	1
+102623009	0	Increased small bowel motility (finding)	XU0jQ	F-53303	0
+161972006	0	Central chest pain (finding)	1822.	F-3700D	1
+102638005	0	Osmolar gap, urine (observable entity)	XU0ja	F-60701	1
+162221009	0	Restlessness (finding)	1B1O.	F-9340F	1
+102652007	0	para-Methylhippurate (substance)	XU0jm	F-61660	1
+139077005	0	Entire squamous part of occipital bone (body structure)	XS0Jh	T-11165	1
+139380001	0	Entire hypoglossal canal (body structure)	XS0Jk	T-1117D	1
+10035008	0	Low altitude (physical force)	XU068	A-80264	1
+160876004	0	Child attends special school (finding)	13IE.	F-027C7	1
+160943002	0	Lives in own home (finding)	13KD.	F-02832	1
+102519007	0	Apparent age (observable entity)	XU0i8	F-08601	1
+160956009	0	Death of infant (event)	13M2.	S-13001	1
+160737007	0	Lives in an old peoples home (finding)	13F72	F-026CD	1
+160738002	0	Lives in a children's home (finding)	13F73	F-026CE	1
+102497008	0	Symptoms of stress (finding)	XU0hn	F-06301	1
+160741006	0	Long stay hospital inpatient (finding)	13F81	F-026CF	1
+160810002	0	Charged with crime (finding)	13HM0	F-02753	1
+102387000	0	Front passenger airbag, device (physical object)	XU0g6	A-38143	1
+159757001	0	Road sweeper (occupation)	0AEZ.	J-0032D	1
+159759003	0	Railman (occupation)	0AF1.	J-0032E	1
+159809000	0	Pest control officer (occupation)	0AZ8.	J-00355	1
+159810005	0	Disinfecting officer (occupation)	0AZ9.	J-00356	1
+159812002	0	Farming/fishing occupation (occupation)	0B...	J-00357	1
+102373000	0	Number 7.25 shot, device (qualifier value)	XU0fs	A-32467	1
+159639008	0	Shotgun merchant (occupation)	0882.	J-83923	1
+159641009	0	Other sales representative (occupation)	08Z..	J-002C4	1
+159696003	0	Waitress (occupation)	0A32.	J-002E6	1
+171894003	0	Radiofrequency destruction of lumbar sympathetic nerve (procedure)	70614	P0-05AC9	0
+151804007	0	Entire angular vein (body structure)	XS05y	T-4813D	1
+10150001	0	Uraninite (substance)	XU0QB	C-14002	1
+10158008	0	Blood group antigen K13 (substance)	XU0Rc	F-D2A10	1
+1015003	0	Structure of peritonsillar tissue (body structure)	XU0QC	T-C5230	1
+151299003	0	Entire retromandibular vein (body structure)	XS05m	T-4812E	1
+10153004	0	Systemic fibrinogenolysis (disorder)	XU0Ql	DC-60030	1
+151602009	0	Entire anterior auricular vein (body structure)	XS05t	T-4813B	1
+10167008	0	Entire inner surface of eleventh rib (body structure)	XS0Oa	T-1141D	1
+153016005	0	Structure of external palatine vein (body structure)	XU0Tm	T-48159	1
+10170007	0	Black locks, oculocutaneous albinism, AND deafness of the sensorineural type (disorder)	XU0To	D6-A2480	1
+1017006	0	Lactobacillus casei (organism)	X73Iz	L-20110	1
+152208004	0	Entire palpebral vein (body structure)	XS062	T-48143	1
+152511004	0	Structure of deep temporal vein (body structure)	XU0Sq	T-4811D	1
+10162002	0	3beta-Hydroxysteroid dehydrogenase (substance)	X80MS	F-662A0	1
+10165000	0	Subungual hyperkeratosis (disorder)	X75vn	D0-54410	1
+152814000	0	Structure of stylomastoid vein (body structure)	XU0TO	T-48157	1
+153117003	0	Structure of pharyngeal plexus and pharyngeal veins (body structure)	XU0Ty	T-55003	1
+10168003	0	Immunoglobulin kappa light chain gene (substance)	XU0TQ	F-E0480	1
+152309009	0	Entire submental vein (body structure)	XS066	T-48144	1
+152612004	0	Structure of temporomandibular articulation vein (body structure)	XU0T1	T-4811E	1
+152915000	0	Structure of deep facial vein (body structure)	XU0Ta	T-48158	1
+152107004	0	Entire external nasal vein (body structure)	XS061	T-48142	1
+160647004	0	Frequency-Intensity-Time-Type (FITT) activity level 1; 1-4 occasions of a mix of moderate and vigorous activity in 4 weeks (finding)	138J.	F-0A90D	1
+139683009	0	Entire clivus ossis occipitalis (body structure)	XS1BY	T-1117F	1
+10038005	0	Collared aracari (organism)	XU06f	L-99441	1
+139986003	0	Entire posterior clinoid process (body structure)	XS10v	T-D1469	1
+10041001	0	Tracheal stenosis following tracheostomy (disorder)	H5y02	D2-10540	0
+140794007	0	Entire anterior intraoccipital synchondrosis (body structure)	XS03P	T-15284	1
+10049004	0	Streptococcus ferus (organism)	X73Gj	L-25150	1
+140289008	0	Entire jugum of sphenoid bone (body structure)	XS0Jr	T-1119A	1
+141097001	0	Entire petrosooccipital synchondrosis (body structure)	XS03N	T-15285	1
+10052007	0	Male structure (body structure)	XU096	T-D0AB0	1
+140592008	0	Entire calvaria (body structure)	XU08D	T-1119D	1
+10047002	0	Structure of transplanted lung (body structure)	XU08F	T-2800A	1
+140895003	0	Entire sphenooccipital synchondrosis (body structure)	XS03L	T-15261	1
+10050004	0	Contusion of chest (disorder)	SE21.	DD-53310	0
+1005009	0	Entire diaphragmatic lymph node (body structure)	XS0wA	T-C4380	1
+140390001	0	Entire pterygoid process of sphenoid bone (body structure)	XS0Js	T-1119B	1
+140693008	0	Entire posterior intraoccipital synchondrosis (body structure)	XS03O	T-15283	1
+140188009	0	Entire anterior clinoid process (body structure)	XS10w	T-D146A	1
+10048007	0	Bombyx (organism)	XU08Q	L-64B50	1
+10043003	0	D-Alanine-alanyl-poly(glycerolphosphate) ligase (substance)	XU07X	F-6E2E0	1
+140996003	0	Entire sphenopetrosal synchondrosis (body structure)	XS03M	T-15271	1
+10051000	0	Mitral facies (finding)	XU08u	M-06194	1
+140491003	0	Entire body of sphenoid bone (body structure)	XS0Jn	T-1119C	1
+10046006	0	Cystoureterolithotomy (procedure)	XU083	P1-74334	1
+141602002	0	Entire transversus mentis muscle (body structure)	XS0yA	T-13252	1
+10057001	0	Chronic lichenoid pityriasis (disorder)	M1623	D0-22165	0
+141905002	0	Entire posterior belly of digastric muscle (body structure)	XS1Za	T-13334	1
+10060008	0	Eccrine papillary adenoma (morphologic abnormality)	XU0AT	M-84080	1
+1006005	0	Percheron horse (organism)	XU0AU	L-80438	1
+141400004	0	Entire posterior atlantooccipital membrane (body structure)	XS03T	T-1531E	1
+141703001	0	Entire rectus capitis muscle (body structure)	XS1Wp	T-13115	1
+142208007	0	Entire superficial part of masseter muscle (body structure)	XS1ZV	T-13263	1
+10063005	0	Inorganic pyrophosphatase (substance)	XU0B2	F-6B490	1
+10058006	0	Spontaneous abortion with amniotic fluid embolism (disorder)	XU0A7	D8-04183	1
+142006001	0	Entire skeletal muscle of tongue, palate, pharynx AND/OR nose (body structure)	XS1Wr	T-13501	1
+141198008	0	Entire capsule of atlantooccipital joint (body structure)	XS03R	T-1531C	1
+10061007	0	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level (disorder)	XU0Af	DD-21265	1
+102385008	0	Front airbag, device (physical object)	XU0g4	A-38141	1
+159793004	0	Funeral director (occupation)	0AJ1.	J-00347	1
+159794005	0	Assistant superintendent - cemetery (occupation)	0AJ2.	J-00348	1
+159795006	0	Funeral director's assistant (occupation)	0AJ4.	J-00349	1
+159796007	0	Mortuary attendant (occupation)	0AJ5.	J-0034A	1
+159618001	0	Milkman (occupation)	0831.	J-002BD	1
+159619009	0	Laundry roundsman (occupation)	0832.	J-002BE	1
+159621004	0	Mobile shop/van salesman (occupation)	0841.	J-45222	1
+159622006	0	Street stall salesman (occupation)	0842.	J-45223	1
+159679004	0	Traffic warden (occupation)	09ZD.	J-002DC	1
+159681002	0	Catering/personal services (occupation)	0A...	J-002DD	1
+159682009	0	Catering supervisor (occupation)	0A1..	J-002DE	1
+159740000	0	Hospital ward orderly (occupation)	0AA4.	J-00322	1
+159741001	0	Nursing home attendant (occupation)	0AA5.	J-00323	1
+159743003	0	Porter (occupation)	0AB..	J-00324	1
+159744009	0	Hall porter (occupation)	0AB1.	J-00325	1
+102392003	0	Inflatable rowboat, device (physical object)	XU0gC	A-51172	1
+159799000	0	Female prostitute (occupation)	0AK1.	J-0034C	1
+102371003	0	Number 8.5 shot, device (qualifier value)	XU0fq	A-32463	1
+160513005	0	European origin (finding)	1341.	F-0249F	1
+160514004	0	African origin (finding)	1342.	F-024A2	1
+160515003	0	Asian origin (finding)	1343.	F-024B9	1
+160148005	0	Builder's laborer (occupation)	0H13.	J-99005	1
+160149002	0	Civil engineering laborer (occupation)	0H14.	J-99006	1
+10113002	0	Leishmania aethiopica (organism)	X73nU	L-50488	1
+147561008	0	Entire mental artery (body structure)	XS0ib	T-4528F	1
+159697007	0	Entire pharyngeal branch of inferior thyroid artery (body structure)	XS0kI	T-46147	1
+10238000	0	Alocasia (organism)	XU0fz	L-DB0A0	1
+159760008	0	Stationman - railway (occupation)	0AF2.	J-0032F	1
+159761007	0	Ticket collector - railway (occupation)	0AF3.	J-00330	1
+159763005	0	Other premises attendant (occupation)	0AG..	J-00331	1
+159814001	0	Foreman - farm worker (occupation)	0B11.	J-00358	1
+159815000	0	Foreman - horticulture worker (occupation)	0B12.	J-00359	1
+159642002	0	Sales demonstrator (occupation)	08Z1.	J-002C5	1
+159643007	0	Commodity broker (occupation)	08Z2.	J-002C6	1
+159644001	0	Importer (occupation)	08Z3.	J-002C7	1
+102380003	0	3 Buck shot, device (qualifier value)	XU0g0	A-32482	1
+159698002	0	Trainee waiter (occupation)	0A34.	J-002E7	1
+159700006	0	Barman/barmaids (occupation)	0A4..	J-002E8	1
+102408007	0	Cigarette smoke (substance)	XU0gT	A-80324	1
+159931009	0	Clay/stone working foreman (occupation)	0D21.	J-003AB	1
+159932002	0	Hand pottery maker (occupation)	0D22.	J-89211	1
+159933007	0	Machine pottery maker (occupation)	0D23.	J-89212	1
+159995002	0	Rubber/plastic worker foreman (occupation)	0D81.	J-90002	1
+159996001	0	Rubber mold maker (occupation)	0D83.	J-90003	1
+159997005	0	Rubber molder (occupation)	0D84.	J-90004	1
+160066003	0	Gas fitter (occupation)	0E73.	J-0043C	1
+158961009	0	Career/vocational officer (occupation)	03C..	J-0016B	1
+158763000	0	Parliamentary counsel (occupation)	0215.	J-000BF	1
+158764006	0	Parliamentary agent (occupation)	0216.	J-000C0	1
+158765007	0	Barrister's clerk (occupation)	0217.	J-000C1	1
+158766008	0	Solicitor's managing clerk (occupation)	0218.	J-000C2	1
+102277001	0	Interrupted ossification (finding)	XU0e7	F-12108	1
+103606006	0	Masklike facies (finding)	XU0x2	M-06250	1
+103618002	0	Chronic congestion (morphologic abnormality)	XU0xG	M-36103	1
+171745006	0	Freeing of spinal tether (procedure)	70430	P1-93809	0
+171446006	0	Excision of lesion of brain tissue (procedure)	7001.	P1-913B0	0
+103587005	0	Populus deltoides (organism)	XU0we	L-D4902	1
+171454008	0	Stereotactic ablation of brain tissue (procedure)	7002.	P1-91C06	0
+171576002	0	Entire hypopharyngeal aspect of interarytenoid fold (body structure)	XS0an	T-24467	1
+10360000	0	Crow's feet (finding)	XU0wt	F-44052	1
+103600000	0	Ocimum (organism)	XU0wu	L-DA280	1
+171633005	0	Repair of hypoglossal nerve (XII) (procedure)	7026A	P1-95839	0
+103607002	0	Acellular smear (finding)	XU0x3	M-09006	1
+103608007	0	Specimen less than optimal for diagnosis for lack of clinical information (finding)	XU0x4	M-09007	1
+170961007	0	Menopause dietary education (procedure)	66UD.	P2-118BF	1
+103580007	0	Microtus montebelli (organism)	XU0wV	L-87641	1
+171455009	0	Stereotactic leucotomy (procedure)	70020	P1-91138	1
+171456005	0	Repair of vault of vagina (procedure)	XU0wf	P1-82068	0
+171457001	0	Stereotactic ablation of thalamus tissue (procedure)	70021	P1-9105D	0
+171577006	0	Intracranial transection of facial nerve (VII) (procedure)	70215	P1-9519A	0
+1036001	0	Insertion of intravascular device in common iliac vein, complete (procedure)	XU0wv	P1-38559	1
+171578001	0	Intracranial transection of acoustic nerve (VIII) (procedure)	70216	P1-9519B	0
+103609004	0	Specimen with abnormal presence of endometrial cells (finding)	XU0x5	M-0901A	1
+171665008	0	Neurostimulation of cranial nerve (procedure)	7029.	P0-05AB5	0
+171387006	0	School admission medical examination (procedure)	6985.	P2-0155A	1
+171388001	0	Fitness to attend school examination (procedure)	6986.	P2-0155B	1
+171458006	0	Stereotactic ablation of globus pallidus tissue (procedure)	70022	P1-9105E	0
+171459003	0	Stereotactic ablation of brainstem tissue (procedure)	70023	P0-05AA3	0
+103588000	0	Citrus sinensis (organism)	XU0wg	L-D7702	1
+102838008	0	Urinary cast, leukocyte (finding)	XU0m0	F-73602	1
+102750006	0	Phosphoserine (substance)	XU0ki	F-64451	1
+102751005	0	Sulfur-bearing amino acid (substance)	XU0kj	F-64590	1
+163503001	0	Entire intervertebral disc space of sixth cervical vertebra (body structure)	XS0RZ	T-116BE	1
+102780001	0	alpha-Amylase S3 fraction (substance)	XU0l7	F-6F058	1
+163805000	0	Entire superior articular process of third cervical vertebra (body structure)	XS0RD	T-116C1	1
+102810000	0	Calcium renal clearance, function (observable entity)	XU0lZ	F-70340	1
+164108006	0	Entire superior articular process of fourth cervical vertebra (body structure)	XS0RJ	T-116C4	1
+102752003	0	Deoxypyridinoline (substance)	X80QH	F-64612	1
+102753008	0	Porphobilin (substance)	XU0kk	F-64825	1
+102754002	0	Coproporphyrin 1 isomer (substance)	X80L4	F-64921	1
+10278007	0	Factitious purpura (disorder)	XU0l8	DC-62050	0
+102781002	0	Macroamylase (substance)	X80Pp	F-6F059	1
+102782009	0	Hexokinase 1 (substance)	XU0l9	F-6F061	1
+10281002	0	Scalenectomy (procedure)	XU0la	P1-12418	1
+102811001	0	Creatinine renal clearance, function (observable entity)	XU0lb	F-70346	1
+102840003	0	Urinary cast, erythrocyte (finding)	XU0m2	F-73604	1
+10284005	0	Detective (occupation)	XU0m3	J-58230	1
+102841004	0	Urinary cast, fatty (finding)	XU0m4	F-73605	1
+102755001	0	Coproporphyrin 3 isomer (substance)	X80L5	F-64923	1
+102756000	0	Methcoproporphyrin (substance)	XU0kl	F-64924	1
+102757009	0	Free erythrocyte protoporphyrin (substance)	XU0km	F-64932	1
+102783004	0	Hexokinase 2 (substance)	XU0lA	F-6F062	1
+102784005	0	beta-N-acetylhexosaminidase A (substance)	XU0lB	F-6F071	1
+102785006	0	beta-N-acetylhexosaminidase B (substance)	XU0lC	F-6F072	1
+102812008	0	Cyanocobalamin renal clearance, function (observable entity)	XU0lc	F-70350	1
+102813003	0	Galactose renal clearance, function (observable entity)	XU0ld	F-70356	1
+164135002	0	Examination of hemopoietic system (procedure)	2C...	P2-014C0	0
+102758004	0	Zinc protoporphyrin (substance)	X80LS	F-64936	1
+163285006	0	Right iliac fossa mass (finding)	25J7.	F-5084C	0
+102759007	0	Heptacarboxylporphyrin (substance)	XU0kn	F-64948	1
+160631001	0	Enjoys light exercise (finding)	1383.	F-0A8FC	1
+160672004	0	Cholesterol-lowering diet (finding)	13B3.	C-F20B6	1
+160673009	0	Low protein diet (finding)	13B6.	C-F20B7	1
+160718003	0	Children not allowed in house (finding)	13EG.	S-20489	1
+160720000	0	Harassment by landlord (finding)	13EH1	S-2048A	1
+158923006	0	Private tutor (occupation)	0387.	J-13012	1
+158924000	0	Private music teacher (occupation)	0388.	J-13013	1
+158786007	0	Committee secretary (occupation)	0239.	J-000D0	1
+158789000	0	Accountant manager (occupation)	0241.	J-11002	1
+158857004	0	Estate agent (occupation)	02F1.	J-00141	1
+10228005	0	Blood group antibody Mil (substance)	XU0eC	F-DD572	1
+158858009	0	Land agent (occupation)	02F2.	J-00142	1
+158925004	0	Private dancing teacher (occupation)	0389.	J-13014	1
+158928002	0	Social scientist (occupation)	039..	J-0015B	1
+158790009	0	Cost accountant (occupation)	0243.	J-11003	1
+158791008	0	Accountant trainee (occupation)	0244.	J-11004	1
+158794000	0	Estimator manager (occupation)	0251.	J-000D1	1
+158795004	0	Engineering estimator (occupation)	0252.	J-000D2	1
+158859001	0	Trainee estate agent (occupation)	02F3.	J-00143	1
+158861005	0	Librarian/information officer (occupation)	02G..	J-00144	1
+158862003	0	Information officer (occupation)	02G3.	J-00145	1
+102288007	0	Structure of skeletal muscle of shoulder (body structure)	XU0eK	T-13608	1
+158929005	0	Archeologist (occupation)	0393.	J-0015C	1
+102258003	0	Gliadin (substance)	XU0dv	C-F0140	1
+158796003	0	Valuer (occupation)	0253.	J-000D3	1
+158797007	0	Insurance assessor (occupation)	0254.	J-000D4	1
+158798002	0	Average adjuster (occupation)	0255.	J-000D5	1
+158863008	0	Government intelligence officer (occupation)	02G4.	J-00146	1
+102281001	0	Dumbbell shape (qualifier value)	XU0eD	M-02182	1
+158866000	0	Statutory inspector (occupation)	02H..	J-00147	1
+158932008	0	Welfare manager (occupation)	03A1.	J-0015D	1
+158933003	0	Social caseworker (general) (occupation)	03A2.	J-19303	1
+158934009	0	Family caseworker (occupation)	03A3.	J-19304	1
+160636006	0	Aerobic exercise zero times a week (finding)	1388.	F-0A902	1
+10249006	0	Agar (substance)	Ub0Oj	C-84085	1
+169408001	0	Entire phrenic nerve pericardial branch (body structure)	XS18Y	T-A90B3	1
+103380008	0	Translumbar approach (qualifier value)	XaD4H	G-D026	1
+103388001	0	Percutaneous approach - access (qualifier value)	X8108	G-D056	1
+169197009	0	Radiobioassay - cortisone (procedure)	5782.	P3-70966	1
+103358005	0	Glassy (qualifier value)	XU0tb	G-A326	1
+169198004	0	Radiobioassay - hydrocortisone (procedure)	5783.	P3-70967	1
+169283005	0	Medical photography (procedure)	58C..	P0-009A0	1
+103368000	0	With distance (attribute)	XU0tj	G-C302	1
+103369008	0	With distribution (attribute)	XU0tk	G-C303	1
+10338003	0	Cortinarius violaceus (organism)	XU0tw	L-42501	1
+169411000	0	Vitamin/diet support therapy (product)	5A85.	C-7125B	1
+169199007	0	Radiobioassay - progesterone (procedure)	5784.	P3-70968	1
+169200005	0	Radiobioassay - testosterone (procedure)	5785.	P3-70969	1
+169201009	0	Radiobioassay - folic acid (procedure)	5786.	P3-7096A	1
+169308000	0	Structure of cervical cutaneous nerve inferior branch (body structure)	XU0tl	T-A90B7	1
+103370009	0	With intensity (attribute)	XU0tm	G-C305	1
+169413002	0	Hormone therapy (procedure)	5A87.	P0-007AC	0
+103381007	0	Transhepatic approach (qualifier value)	X8119	G-D027	1
+103382000	0	Transtemporal approach (qualifier value)	XU0tx	G-D032	1
+169497000	0	Contraceptive diaphragm checked (situation)	6162.	P0-05A80	0
+169202002	0	Radiobioassay - vitamin B12 (procedure)	5787.	P3-7096B	1
+169203007	0	Radiobioassay - vitamin D (procedure)	5788.	P3-00047	1
+10337008	0	Incompetence of any valvular structure (finding)	XU0tn	F-32400	1
+169315008	0	Deuteron therapy (procedure)	5942.	P5-C0149	1
+169421008	0	Infrared radiation therapy (regime/therapy)	5B3..	P5-C015C	1
+169429005	0	Microwave therapy to prostate (procedure)	5B51.	P1-78CFF	1
+169498005	0	Diaphragm contraceptive prescription renewed (situation)	6163.	P2-08002	0
+169504002	0	Entire phrenic nerve phrenicoabdominal branches (body structure)	XS18Z	T-A90B4	1
+169206004	0	In vivo neutron activation analysis (procedure)	579..	P5-D0062	1
+103359002	0	Unnatural (qualifier value)	XU0tc	G-A441	1
+169209006	0	Ultraviolet radiation in diagnosis (physical force)	581..	A-8100F	1
+169316009	0	Pi-meson therapy (procedure)	5943.	P5-C014A	1
+103371008	0	With odor (attribute)	XU0to	G-C307	1
+169430000	0	Electrotherapy (regime/therapy)	5B6..	P0-007AD	1
+169432008	0	Galvanic faradization (regime/therapy)	5B62.	P0-007AE	1
+103390000	0	Elective (qualifier value)	X90M8	G-D210	1
+10339006	0	Structure of anulus fibrosus of intervertebral disc of tenth thoracic vertebra (body structure)	XU0u0	T-117AD	1
+169513000	0	Withdrawal contraception (finding)	619..	F-9B758	1
+169210001	0	Ultraviolet photography (procedure)	5811.	P0-0077F	1
+169212009	0	Infrared radiation in diagnosis (procedure)	582..	P0-00780	1
+169213004	0	Infrared photography (procedure)	5821.	P0-00781	1
+103360007	0	Complex (qualifier value)	X78wx	G-A540	1
+103372001	0	With pattern (attribute)	XU0tp	G-C308	1
+103373006	0	With size (attribute)	XU0tq	G-C309	1
+103374000	0	With shape (attribute)	XU0tr	G-C311	1
+169435005	0	Ultrasound therapy - analgesia (regime/therapy)	5B72.	P5-B0093	1
+169436006	0	Ultrasound therapy - skeletal (regime/therapy)	5B73.	P5-B0094	1
+139582005	0	Entire external occipital protuberance (body structure)	XS0Jm	T-1117E	1
+10037000	0	Akatonoesis (finding)	XU06T	F-96764	1
+10034007	0	Formyltetrahydrofolate deformylase (substance)	XU05x	F-6B178	1
+139885000	0	Entire middle clinoid process (body structure)	XS10t	T-D1468	1
+1004008	0	Annealer (occupation)	XaBQ6	J-72620	1
+10161009	0	Patient discharge, to home, with assistance (procedure)	XU0SA	P0-20070	1
+152410000	0	Structure of maxillary vein (body structure)	XU0Se	T-4811C	1
+10164001	0	Parasystole (disorder)	XU0Sg	F-33186	1
+152713004	0	Structure of tympanic vein (body structure)	XU0TD	T-4811F	1
+172069000	0	Congenital meningocele (disorder)	XU0xx	DA-1320B	1
+172070004	0	Insertion of right breast prosthesis (procedure)	71334	P1-48507	0
+171808009	0	Cryotherapy to lesion of peripheral nerve (procedure)	70521	P1-95C5F	0
+171809001	0	Radiotherapy to lesion of peripheral nerve (procedure)	70522	P1-95C6A	1
+171814002	0	Microsurgical repair of peripheral nerve (procedure)	7053.	P1-9583A	1
+169389006	0	Afterload radiotherapy - upper gastrointestinal tract (procedure)	5A62.	P5-C0157	1
+169390002	0	Afterload radiotherapy - respiratory system (procedure)	5A63.	P5-C0158	0
+169458008	0	Oral contraceptive started (finding)	6141.	F-9B74C	1
+169459000	0	Oral contraceptive stopped (finding)	6142.	F-9B74D	1
+169460005	0	Oral contraceptive restarted (finding)	6143.	F-9B74E	1
+10340008	0	Isolated gonadotropin deficiency (disorder)	X40L7	DB-12700	1
+1034003	0	Mesenteric-portal fistula (disorder)	XU0uA	D5-71282	1
+169273006	0	Diagnostic use of electricity (procedure)	589..	P0-00785	1
+169274000	0	Constant current for diagnosis (procedure)	5891.	P0-00786	1
+164809001	0	Entire inferior articular process of sixth cervical vertebra (body structure)	XS0RW	T-116CB	1
+102910004	0	Prelogical thinking (finding)	XU0n0	F-94202	1
+164814002	0	Postcoital test (procedure)	3186.	P2-8750A	1
+169177004	0	Hormone radioimmunoassay (procedure)	576..	P3-7027B	1
+103297000	0	Drug-induced vertigo (disorder)	XU0se	F-F6300	0
+103298005	0	Severe vertigo (finding)	XU0sf	F-F6340	1
+168633004	0	Acromioclavicular joint X-ray (procedure)	528B.	P5-00317	0
+168836005	0	Barium enema (procedure)	54A..	P5-50108	0
+103333000	0	With time (qualifier value)	XU0tH	G-7001	1
+168969009	0	Cerebral sinus venography (procedure)	55D1.	P5-36019	0
+103334006	0	Delay time (qualifier value)	XU0tI	G-7174	1
+103356009	0	Uncommon (qualifier value)	XU0tZ	G-A309	1
+169182006	0	Hormone radioassay - adrenal (procedure)	5765.	P3-7027F	1
+169183001	0	Hormone radioassay - pancreas (procedure)	5766.	P3-70280	1
+103299002	0	Severe vertigo, acute onset (finding)	XU0sg	F-F6341	1
+168645008	0	Entire lymphatic vessel of thyroid gland (body structure)	XS09O	T-C6191	1
+168839003	0	Entire deep cervical lymphatic vessel (body structure)	XS09P	T-C6211	1
+103320006	0	Request for (contextual qualifier) (qualifier value)	XU0t3	G-0200	1
+168970005	0	Superior vena cavogram (procedure)	55D4.	P5-009FB	0
+168975000	0	Inferior vena cavogram (procedure)	55E2.	P5-36133	0
+103357000	0	Palpable (qualifier value)	XU0ta	G-A312	1
+169188005	0	Alpha-fetoprotein radioimmunoassay (procedure)	5771.	P3-70283	1
+169189002	0	Immunoglobulin radioimmunoassay (procedure)	5772.	P3-70284	1
+103300005	0	Vertigo preceded by unsteady feeling (finding)	XU0sh	F-F6350	1
+10330005	0	Destructive procedure on artery of head and neck (procedure)	XU0si	P1-35C00	1
+171401005	0	Examination for work accident (procedure)	69A4.	P2-01566	1
+171403008	0	Examination for alleged rape (procedure)	69A6.	P2-01567	1
+171496007	0	Removal of neurostimulator electrode from brain tissue (procedure)	70072	P1-91633	0
+103592007	0	Capsicum annuum (organism)	XU0wl	L-D9952	1
+171603003	0	Intracranial destruction of glossopharyngeal nerve (IX) (procedure)	70247	P1-95C53	1
+103603003	0	Teucrium thea (organism)	XU0wy	L-DA291	1
+171604009	0	Intracranial destruction of vagus nerve (X) (procedure)	70248	P1-95C58	1
+171677003	0	Exploration of facial nerve (VII) (procedure)	702A5	P1-951A0	0
+171678008	0	Exploration of acoustic nerve (VIII) (procedure)	702A6	P1-951A1	0
+171679000	0	Exploration of glossopharyngeal nerve (IX) (procedure)	702A7	P1-951A2	0
+171405001	0	Examination for suspected cardiovascular disease (procedure)	69A8.	P2-01334	1
+103582004	0	Piper nigrum (organism)	XU0wY	L-D2605	1
+171408004	0	Medicolegal examination (procedure)	69B..	P2-01568	1
+171502001	0	Aspiration of brain hematoma (procedure)	70082	P0-05AA5	0
+171509005	0	Brain cerebrospinal fluid pathway operation (procedure)	701..	P0-05AA6	0
+171605005	0	Intracranial destruction of accessory nerve (XI) (procedure)	70249	P1-95C59	1
+171606006	0	Intracranial destruction of hypoglossal nerve (XII) (procedure)	7024A	P1-95C5A	1
+171609004	0	Excision of lesion of optic nerve (II) (procedure)	70250	P1-95330	0
+171680002	0	Exploration of vagus nerve (X) (procedure)	702A8	P1-951A3	0
+171681003	0	Exploration of accessory nerve (XI) (procedure)	702A9	P1-951A4	0
+171682005	0	Exploration of hypoglossal nerve (XII) (procedure)	702AA	P1-951A5	0
+171409007	0	Individual health examination (procedure)	69C..	P2-01569	1
+171410002	0	Individual general health examination (procedure)	69C1.	P2-0156A	1
+171411003	0	Individual sight examination (procedure)	69C4.	P2-0156B	1
+103593002	0	Borago (organism)	XU0wm	L-D9C50	1
+102967008	0	Normal visual evoked potential (finding)	XU0nl	F-A0621	0
+102968003	0	Abnormal visual evoked potential (finding)	XU0nm	F-A0622	0
+165370001	0	Entire superior articular process of axis (body structure)	XS0RA	T-116D1	1
+102985001	0	Romberg test positive and direction of fall affected by head turn (finding)	XU0o3	F-A1818	1
+165517008	0	Neutropenia (finding)	42J2.	DC-0002C	1
+165184000	0	Assessment of body build (procedure)	3851.	P2-50022	1
+165186003	0	Skin-fold thickness (observable entity)	3853.	F-03210	1
+102958008	0	Increased polarization of nerve cell and nerve fiber (finding)	XU0nc	F-A0153	1
+165251008	0	Walking aid use (observable entity)	39B..	F-0323E	1
+102969006	0	Auditory evoked potential, function (observable entity)	X77LL	F-A0630	1
+102970007	0	Normal auditory evoked potential (finding)	XU0nn	F-A0631	0
+165518003	0	Neutrophilia (finding)	42J3.	F-032BF	0
+404181007	0	pM1 (IV): Distant metastasis (TNM category and FIGO stage) (fallopian tube) (finding)	XUa1f	R-100EF	1
+165189005	0	Medical evaluation for rehabilitation (procedure)	3861.	P0-006E8	1
+165190001	0	Psychiatric evaluation for rehabilitation (procedure)	3862.	P0-006E9	1
+165252001	0	No aid for walking (finding)	39B0.	F-18068	1
+165253006	0	Stick only for walking (finding)	39B1.	F-18069	1
+165254000	0	Tripod/quadrupod: walking (finding)	39B2.	F-1806A	1
+165255004	0	Uses zimmer frame (finding)	39B3.	F-1806B	1
+165848009	0	Autoantibody titer measurement (procedure)	43G..	P3-60189	1
+103051007	0	Androstenediol (substance)	XU0ow	F-B28B0	1
+103054004	0	11-Hydroxyetiocholanolone (substance)	XU0ox	F-B2992	1
+103086009	0	Cancer antigen 19-9 (substance)	X80Qg	F-C1223	1
+103087000	0	Cancer antigen 242 (substance)	X80Qn	F-C1224	1
+408649007	0	Squamous cell carcinoma of pharynx (disorder)	XUa1o	DF-00738	0
+103003004	0	Impaired body position sense (finding)	Xa7Lw	F-A2544	1
+165857003	0	Structure of inferior articular process of cervical vertebra (body structure)	XU0oV	T-11540	1
+103020000	0	Adrenarche (finding)	XU0oW	F-B0080	1
+103055003	0	11-Ketoetiocholanolone (substance)	XU0oy	F-B2995	1
+159136000	0	Mycologist (occupation)	0517.	J-05114	1
+159137009	0	Entomologist (occupation)	0518.	J-05131	1
+159138004	0	Microbiologist (occupation)	0519.	J-05115	1
+102294004	0	Structure of laryngeal aspect of aryepiglottic fold (body structure)	XU0eP	T-24352	1
+160023005	0	Foreman: engineering machining (occupation)	0E21.	J-00424	1
+160025003	0	Entire pharyngeal branches of ascending pharyngeal artery (body structure)	XS0i1	T-45226	1
+160086004	0	Hand metal engraver (occupation)	0EZ6.	J-00447	1
+102427001	0	Exposure to water pollution (event)	XU0gn	A-A3230	1
+102404009	0	Temperature extreme (physical force)	XU0gQ	A-80190	1
+159894002	0	Food processor - cooker (occupation)	0C59.	J-00390	1
+159895001	0	Food processing sterilizer (occupation)	0C5A.	J-00391	1
+159958002	0	Paperboard worker (occupation)	0D45.	J-003BC	1
+159959005	0	Trainee bookbinder (occupation)	0D46.	J-003BD	1
+159962008	0	Foreman -textile material work (occupation)	0D51.	J-003BE	1
+159963003	0	Corset maker (occupation)	0D54.	J-003BF	1
+102420004	0	Exposure to pollution (event)	XU0gf	A-A3200	1
+160027006	0	Automatic machine attendant (occupation)	0E26.	J-00425	1
+160092005	0	Maintenance/install fitter (occupation)	0EZC.	J-0044B	1
+160093000	0	Setter operator - woodwork (occupation)	0EZD.	J-0044C	1
+160094006	0	Setter operator - metal work (occupation)	0EZE.	J-0044D	1
+159896000	0	Food processor - freezer (occupation)	0C5B.	J-00392	1
+159897009	0	Food processor - rollerman (occupation)	0C5C.	J-00393	1
+159898004	0	Food processor - grinder (occupation)	0C5D.	J-00394	1
+159899007	0	Food processor - mixer (occupation)	0C5E.	J-00395	1
+102412001	0	Noise polution (event)	XU0gX	A-A3012	1
+159964009	0	Coach trimmer (occupation)	0D55.	J-003C0	1
+159965005	0	Upholsterer (occupation)	0D56.	J-003C1	1
+159966006	0	Furrier (occupation)	0D59.	J-003C2	1
+160028001	0	Metal polisher (occupation)	0E27.	J-00426	1
+160032007	0	Foreman: metal product fitting (occupation)	0E31.	J-00428	1
+160033002	0	Tool maker/fitter/marker-out (occupation)	0E32.	J-00429	1
+102876002	0	Multigravida (finding)	X40Ad	F-8419F	1
+102879009	0	Post-term delivery (finding)	Xa1xp	F-88850	1
+102905003	0	Absence of guilt (situation)	XSL51	F-92655	0
+10028000	0	Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal (disorder)	XU04r	D9-23B20	1
+138167001	0	Entire occipital angle of parietal bone (body structure)	XS0Qj	T-1112F	1
+10023009	0	Cotylurus flabelliformis (organism)	XU040	L-58324	1
+138976007	0	Entire basilar part of occipital bone (body structure)	XS0Jg	T-11161	1
+138470007	0	Entire parietal foramen (body structure)	XS0JX	T-1114E	1
+10026001	0	Structure of ventral spinocerebellar tract of pons (body structure)	XU04X	T-A5610	1
+138773005	0	Entire tympanic part of temporal bone (body structure)	XS0Jd	T-1115E	1
+10031004	0	Vulvar secretions (substance)	XU05R	T-81530	1
+10029008	0	Suicide precautions (procedure)	XU053	PA-10050	1
+10021006	0	Rahnella aquatilis (organism)	X73L2	L-17001	1
+138268000	0	Entire inferior border of parietal bone (body structure)	XS0JS	T-1113E	1
+10024003	0	Structure of base of lung (body structure)	XU04B	T-280B0	1
+138571009	0	Entire parietal eminence (body structure)	XS0JY	T-1114F	1
+10027005	0	Patchy (qualifier value)	X7903	G-A634	1
+138874009	0	Entire styloid process of temporal bone (body structure)	XS0Je	T-1115F	1
+138066007	0	Entire frontal angle of parietal bone (body structure)	XS0Qi	T-1112E	1
+139178002	0	Entire internal occipital protuberance (body structure)	XS0Ji	T-1116F	1
+139481001	0	Entire posterior condyle of occipital bone (body structure)	XS0Jl	T-1107E	1
+10033001	0	Ehlers-Danlos syndrome, non hydroxylysine deficient ocular type (disorder)	XU05m	D6-90162	1
+10036009	0	Structure of nucleus pulposus of intervertebral disc of eighth thoracic vertebra (body structure)	XU06J	T-1178C	1
+139784008	0	Entire tuberculum sellae (body structure)	XS10s	T-D1463	1
+10039002	0	^210m^Bismuth (substance)	XU06q	C-125B2	1
+10042008	0	Structure of intervertebral foramen of fifth thoracic vertebra (body structure)	XU07M	T-1175A	1
+140087001	0	Entire clivus ossis sphenoidalis (body structure)	XS1BZ	T-11183	1
+139279001	0	Entire lateral part of occipital bone (body structure)	XS0Jj	T-1117C	1
+159417003	0	Trainee shop manager (occupation)	06A7.	J-0023F	1
+159420006	0	Manager - licensed hotel/club (occupation)	06B1.	J-00240	1
+159468000	0	Senior officer - salvage corps (occupation)	06F3.	J-0025C	1
+159469008	0	Prison governor (occupation)	06F4.	J-0025D	1
+102353005	0	.303 inch caliber bullet, device (physical object)	XU0fV	A-32416	1
+159524000	0	Purchasing clerk (occupation)	0752.	J-0027B	1
+159525004	0	Dispatch clerk (occupation)	0754.	J-0027C	1
+159526003	0	Sales order clerk (occupation)	0755.	J-0027D	1
+159527007	0	Progress clerk (occupation)	0756.	J-0027E	1
+102366005	0	.50 inch caliber bullet, device (physical object)	XU0fk	A-32442	1
+159581005	0	Key-punch operator (occupation)	07D6.	J-002A8	1
+159582003	0	Duplicating machine operator (occupation)	07D8.	J-002A9	1
+102348000	0	6.5 mm caliber bullet, device (physical object)	XU0fO	A-3240A	1
+159421005	0	Manager unlicensed hotel/club (occupation)	06B2.	J-00241	1
+159470009	0	Security manager (occupation)	06F5.	J-21994	1
+159472001	0	Laundry/dry cleaning manager (occupation)	06Z1.	J-21995	1
+159473006	0	Registrar - education (occupation)	06Z2.	J-21996	1
+170092006	0	Age when first sat (observable entity)	64A3.	F-03C58	1
+170093001	0	Age when first crawled (observable entity)	64A4.	F-03C59	1
+159192000	0	Mechanical engineer - applications (occupation)	0596.	J-02406	1
+159193005	0	Mechanical engineer - liaison (occupation)	0597.	J-02407	1
+102328007	0	Sword, device (physical object)	XU0f1	A-30315	1
+159248008	0	Airplane pilot (occupation)	05G1.	J-001D7	1
+159249000	0	Helicopter pilot (occupation)	05G2.	J-001D8	1
+159304000	0	Test engineer - chemical engineer (occupation)	05Q3.	J-0290C	1
+159306003	0	Maintenance technician (occupation)	05R..	J-001ED	1
+159308002	0	Maintenance technician - electrical engineering (occupation)	05R2.	J-001EE	1
+159368004	0	Dock master (occupation)	0665.	J-00214	1
+159369007	0	Pier master (occupation)	0666.	J-00215	1
+159370008	0	Berthing superintendent (occupation)	0667.	J-00216	1
+159194004	0	Mechanical engineer - consultancy/advice (occupation)	0598.	J-02408	1
+159195003	0	Mechanical engineer - trainee (occupation)	0599.	J-02409	1
+102322008	0	External prosthesis for sonographic procedure, device (physical object)	XU0ev	A-2C600	1
+159250000	0	Airplane co-pilot (occupation)	05G3.	J-001D9	1
+159251001	0	Helicopter co-pilot (occupation)	05G4.	J-001DA	1
+159252008	0	Aircraft test pilot (occupation)	05G5.	J-001DB	1
+102616008	0	Painful mouth (finding)	Ua1gx	F-51060	1
+162052001	0	Left iliac fossa pain (finding)	1978.	F-50884	0
+162053006	0	Suprapubic pain (finding)	1979.	F-50886	1
+1029002	0	Fetoscopy (procedure)	XU0mr	P1-86730	0
+102901007	0	Abusive emotional relationship with spouse (finding)	XU0ms	F-92412	1
+164729009	0	Tonometry (procedure)	3126.	P2-A30FA	1
+102917001	0	Fear of blood (finding)	Xa3WI	F-94615	1
+102918006	0	Microphobia (finding)	XU0n5	F-94621	1
+102919003	0	Fear of infection (finding)	X762V	F-94622	1
+165011001	0	Bronchial provocation test (procedure)	3365.	P2-22105	1
+102932008	0	Fear of hypertension (finding)	XU0nJ	F-94682	1
+171063002	0	Pregnancy prescription exemption education (procedure)	67AB.	P2-118D4	1
+171224000	0	Risk factors present at heart disease screening (observable entity)	68B3.	F-03C97	1
+159778003	0	Dry cleaner - general (occupation)	0AH3.	J-0033E	1
+159779006	0	Under presser (occupation)	0AH7.	J-0033F	1
+159780009	0	Ironer (occupation)	0AH8.	J-00340	1
+102396000	0	Bungee jumping (qualifier value)	XU0gG	A-71530	1
+159833006	0	Inseminator (occupation)	0B3C.	J-00363	1
+159835004	0	Glasshouse worker (occupation)	0B41.	J-05333	1
+159661003	0	Police constable (occupation)	0931.	J-58223	1
+159662005	0	Trainee policeman (occupation)	0932.	J-58224	1
+159664006	0	Fire officer (occupation)	094..	J-002CF	1
+159724003	0	Lady's maid (occupation)	0A84.	J-002F7	1
+102383001	0	00 Buck shot, device (qualifier value)	XU0g3	A-32488	1
+159725002	0	Batman (occupation)	0A87.	J-002F8	1
+159781008	0	Entire esophageal branch of inferior thyroid artery (body structure)	XS0kJ	T-46148	1
+159840007	0	Landscape gardener (occupation)	0B53.	J-62743	1
+159841006	0	Turf layer (occupation)	0B54.	J-00364	1
+102398004	0	Motor boating (qualifier value)	XU0gI	A-71601	1
+102376008	0	Number 4 shot, device (qualifier value)	XU0fv	A-32472	1
+159665007	0	Fire point inspection man (occupation)	0943.	J-002D0	1
+159666008	0	Trainee fireman (occupation)	0944.	J-002D1	1
+159726001	0	Nanny (occupation)	0A88.	J-002F9	1
+159727005	0	School helper (occupation)	0A89.	J-002FA	1
+159728000	0	School children's supervisor (occupation)	0A8A.	J-002FB	1
+159729008	0	Au pair (occupation)	0A8C.	J-002FC	1
+102390006	0	Inflatable motorized craft, device (physical object)	XU0g9	A-51122	1
+159782001	0	Launderette assistant (occupation)	0AH9.	J-00341	1
+10239008	0	Rheumatoid factor, quantitative (procedure)	XU0gA	P3-69202	1
+159829004	0	Wild animal attendant (occupation)	0B37.	J-0035F	1
+159830009	0	Horse attendant (occupation)	0B38.	J-00360	1
+159831008	0	Gamekeeper (occupation)	0B39.	J-00361	1
+159832001	0	Mink farm assistant (occupation)	0B3B.	J-00362	1
+159669001	0	Coastguard (occupation)	09Z1.	J-002D2	1
+159670000	0	County court bailiff (occupation)	09Z3.	J-002D3	1
+159671001	0	Store detective (occupation)	09Z4.	J-002D4	1
+159672008	0	Hotel detective (occupation)	09Z5.	J-002D5	1
+159730003	0	Child minder (occupation)	0A8D.	J-002FD	1
+102384007	0	Motor vehicle airbag, device (physical object)	X79ls	A-38140	1
+159783006	0	Fur cleaner (occupation)	0AHA.	J-00342	1
+159786003	0	Supervisor - hairdresser (occupation)	0AI1.	J-00343	1
+159787007	0	Men's hairdresser (occupation)	0AI3.	J-00344	1
+102397009	0	Pleasure boating (qualifier value)	XU0gH	A-71600	1
+159838002	0	Gardener - public gardens (occupation)	0B51.	J-62741	1
+159839005	0	Gardener - private gardens (occupation)	0B52.	J-62742	1
+102377004	0	Number 2 shot, device (qualifier value)	XU0fw	A-32473	1
+159673003	0	Security officer (occupation)	09Z7.	J-002D6	1
+159674009	0	Patrolman (occupation)	09Z8.	J-002D7	1
+159733001	0	Air steward (occupation)	0A92.	J-002FE	1
+159734007	0	Travel courier (occupation)	0A93.	J-002FF	1
+159737000	0	Operating theatre attendant (occupation)	0AA1.	J-00300	1
+159788002	0	Make-up artist (occupation)	0AI5.	J-00345	1
+159789005	0	Wig dresser (occupation)	0AI6.	J-00346	1
+102391005	0	Inflatable raft, device (physical object)	XU0gB	A-51162	1
+159399003	0	Employment exchange manager (occupation)	068E.	J-00230	1
+159615003	0	Gas station attendant (occupation)	0824.	J-002BB	1
+159617006	0	Roundsman (occupation)	083..	J-002BC	1
+159675005	0	Security guard (occupation)	09Z9.	J-002D8	1
+159676006	0	Gate-keeper (occupation)	09ZA.	J-002D9	1
+159677002	0	Park keeper (occupation)	09ZB.	J-002DA	1
+159678007	0	Estate ranger (occupation)	09ZC.	J-002DB	1
+159738005	0	Ambulanceman (occupation)	0AA2.	J-00320	1
+159739002	0	First aid attendant (occupation)	0AA3.	J-00321	1
+171510000	0	Creation of connection from ventricle of brain (procedure)	7010.	P0-05AA7	1
+171514009	0	Creation of subcutaneous cerebrospinal fluid reservoir (procedure)	70104	P0-05AA8	1
+103633005	0	Toxic leukocyte granulations (morphologic abnormality)	XU0xY	M-64034	1
+171884008	0	Cervical chemical sympathectomy (procedure)	70601	P1-95395	1
+103644002	0	Atypical endocervical glandular cells of uncertain significance, probably benign (morphologic abnormality)	XU0xk	M-67401	1
+171980000	0	Operation on thyroglossal tissue (procedure)	7112.	P1-60018	1
+172061002	0	Reconstruction of breast with expander or prosthesis (procedure)	71326	P1-48854	1
+172062009	0	Reconstruction of breast with local muscle flap (procedure)	71327	P1-48855	1
+103654003	0	Atypical smooth muscle cells of uncertain significance (morphologic abnormality)	XU0xv	M-67454	1
+171803000	0	Injection of neurolytic substance to peripheral nerve (procedure)	70513	P1-95016	1
+171804006	0	Radiofrequency destruction of peripheral nerve (procedure)	70514	P1-95C5E	0
+171885009	0	Cryotherapy to cervical sympathetic nerve (procedure)	70602	P0-05AC6	0
+171886005	0	Radiofrequency destruction of cervical sympathetic nerve (procedure)	70603	P0-05AC7	1
+171982008	0	Excision of thyroglossal tract (procedure)	71121	P1-603FC	1
+171983003	0	Biopsy of lesion of thyroglossal tract (procedure)	71122	P1-031C2	0
+170006002	0	Child weight less than third centile (finding)	6471.	F-03C30	1
+170007006	0	Child weight=3rd-9th centile (finding)	6472.	F-03C31	1
+170101009	0	Entire greater supraclavicular fossa (body structure)	XS11A	T-D1624	1
+103450004	0	Legionella geestiana (organism)	X73SA	L-20429	1
+10345003	0	Primary syphilis of tonsils (disorder)	A9123	DE-14327	0
+103471009	0	Legionella pneumophila serogroup 9 (organism)	XU0uv	L-20489	1
+170313005	0	Booster cholera vaccination (procedure)	6513.	P2-4705A	1
+170366008	0	Second rabies vaccination (procedure)	65D2.	P2-4707D	1
+170367004	0	Third rabies vaccination (procedure)	65D3.	P2-4707E	1
+103478003	0	Mycoplasma species, respiratory (organism)	XU0v1	L-220B0	1
+170009009	0	Child weight=25th-49th centile (finding)	6474.	F-03C33	1
+170010004	0	Child weight=50th-74th centile (finding)	6475.	F-03C34	1
+170107008	0	Child examination - 10 days (procedure)	64C..	P2-0153D	1
+103451000	0	Legionella gratiana (organism)	X73SC	L-20431	1
+170114005	0	Child examination - 6 weeks (procedure)	64D..	P2-06211	1
+170316002	0	First typhoid vaccination (procedure)	6521.	P2-4705B	1
+10148009	0	Entire costal groove of fifth rib (body structure)	XS0NK	T-11358	1
+10140002	0	Qualitative measurement of opiate agonist (procedure)	X771G	P3-78515	0
+151905009	0	Entire supratrochlear vein (body structure)	XS05z	T-4813E	1
+10159000	0	Revision of gastroduodenal anastomosis with reconstruction and vagotomy (procedure)	XU0Rm	P1-55976	1
+151097005	0	Structure of anterior vestibular vein (body structure)	XU0QM	T-482A1	1
+10151002	0	Structure of middle part of cartilaginous portion of auditory canal (body structure)	XU0QO	T-AB214	1
+151400007	0	Entire middle temporal vein (body structure)	XS05o	T-4812F	1
+10154005	0	Salvelinus namaycush (organism)	XU0Qw	L-C2C65	1
+151703005	0	Entire parotid vein (body structure)	XS05u	T-4813C	1
+152006005	0	Entire supraorbital vein (body structure)	XS060	T-4813F	1
+10160005	0	Formiminotetrahydrofolate cyclodeaminase (substance)	XU0Ry	F-6C808	1
+10157003	0	Muscina assimilis (organism)	XU0RR	L-63722	1
+151198003	0	Structure of posterior vestibular vein (body structure)	XU0QY	T-482A2	1
+10152009	0	Postpartum state, 4 weeks (finding)	XU0Qa	F-84324	1
+151501009	0	Entire transverse facial vein (body structure)	XS05p	T-4813A	1
+150996008	0	Entire vestibular vein (body structure)	XS078	T-482A0	1
+10155006	0	Bilateral congenital dislocation of hip (disorder)	PE301	D4-14702	0
+171071003	0	Foreign travel education (procedure)	67E..	P2-118D6	1
+103549002	0	Epimastigote form of protozoa (organism)	XU0w2	L-50072	1
+171258008	0	Up-to-date with immunizations (finding)	68N1.	F-03C98	1
+103567009	0	Worm larvae (organism)	XU0wI	L-55020	1
+103568004	0	Rhabditiform larvae (organism)	XU0wJ	L-55022	1
+171371008	0	Fitness to travel examination (procedure)	6955.	P2-0154F	1
+171373006	0	Excision of perirectal tissue (procedure)	XU0wU	P1-5833E	0
+171374000	0	Insurance proposal examination (procedure)	6961.	P2-0138E	1
+171012002	0	Pre-pregnancy education (procedure)	676..	P2-11915	1
+171085008	0	Entire posterior epiglottis (body structure)	XS0aM	T-24014	1
+103550002	0	Trypomastigote form of protozoa (organism)	XU0w3	L-50073	1
+171259000	0	Not up-to-date with immunizations (finding)	68N2.	F-03C99	1
+103569007	0	Infective filariform larvae (organism)	XU0wK	L-55023	1
+171377007	0	Department of Health and Social Security (DHSS) medical examination (procedure)	697..	P2-01551	1
+102259006	0	Citrus fruit (substance)	XU0dw	C-F0202	1
+158670005	0	Structure of anterior jugular vein (body structure)	XU0dx	T-48154	1
+102260001	0	Peanut butter (substance)	Ub0U3	C-F0263	1
+158801008	0	Stockbroker (occupation)	0261.	J-000D6	1
+158802001	0	Stockjobber (occupation)	0262.	J-000D7	1
+158803006	0	Stock exchange clerk (occupation)	0263.	J-000D8	1
+158804000	0	Broker (occupation)	0264.	J-000D9	1
+158868004	0	Pollution inspector (occupation)	02H2.	J-00148	1
+158869007	0	Trading standards officer (occupation)	02H3.	J-00149	1
+158870008	0	Inspector of factories (occupation)	02H4.	J-0014A	1
+102289004	0	Entire skeletal muscle of inguinal region (body structure)	XS1X9	T-14208	1
+158935005	0	Moral welfare worker (occupation)	03A4.	J-0015E	1
+158936006	0	Probation officer (occupation)	03A5.	J-0015F	1
+10226009	0	Disposal of radioactive source (procedure)	XU0dy	P5-C0802	1
+102261002	0	Strawberry (substance)	X79QC	C-F0271	1
+102262009	0	Chocolate (substance)	Ub0Vw	C-F0280	1
+158805004	0	Investment advisor (occupation)	0265.	J-000DA	1
+158806003	0	Investment analyst (occupation)	0266.	J-000DB	1
+158807007	0	Trust officer (occupation)	0267.	J-000DC	1
+102300001	0	Structure of gingival mucous membrane (body structure)	XU0eV	T-54918	1
+102307003	0	Surgical knife, device (physical object)	XU0ed	A-14130	1
+159085007	0	Musical composer/choreographer (occupation)	045..	J-001AE	1
+159088009	0	Conductor (musical) (occupation)	0461.	J-001AF	1
+159144000	0	Agricultural scientist (occupation)	051I.	J-001C9	1
+102315000	0	Embolization ball, device (physical object)	XU0en	A-25614	1
+159145004	0	Trainee biological scientist (occupation)	051K.	J-05117	1
+158986000	0	Nursing administrator - professional body (occupation)	03F4.	J-0017B	1
+158987009	0	Nursing officer - division (occupation)	03F5.	J-0017C	1
+102295003	0	Structure of hypopharyngeal aspect of interarytenoid fold (body structure)	XU0eQ	T-24466	1
+1023001	0	Apnea (finding)	X76Gw	F-28900	1
+102308008	0	Scalpel, device (physical object)	XU0ee	A-14132	1
+159090005	0	Conjurer (occupation)	0468.	J-001B0	1
+159091009	0	Trainer - performing animals (occupation)	0469.	J-001B1	1
+159147007	0	Chemical scientist manager (occupation)	0521.	J-01102	1
+159148002	0	Research chemist (occupation)	0523.	J-01103	1
+159149005	0	Consultancy/advice chemist (occupation)	0525.	J-01104	1
+159150005	0	Trainee chemical scientist (occupation)	0527.	J-01105	1
+158988004	0	Nurse education director (occupation)	03F6.	J-0017D	1
+158989007	0	Occupational health nursing officer (occupation)	03F7.	J-0017E	1
+158990003	0	Nursing officer (occupation)	03F8.	J-0017F	1
+159033005	0	Dietitian (occupation)	03K1.	J-0018F	1
+167770000	0	Semen volume measurement (procedure)	492..	P3-91018	1
+103229005	0	Glycosylated hemoglobin F (substance)	XU0rT	F-D5041	1
+167965000	0	Structure of superficial lateral cervical lymph node (body structure)	XU0rU	T-C421E	1
+160215004	0	Power station worker (occupation)	0Z13.	J-004C4	1
+160216003	0	Turbine operator (occupation)	0Z14.	J-004C5	1
+102442003	0	Exposure to toxic agricultural agents, occupational (event)	XU0h3	A-A3271	1
+102457005	0	Battered baby AND/OR child syndrome (finding)	XU0hD	DF-D1611	1
+159847005	0	Forest ranger (occupation)	0B73.	J-63232	1
+159850008	0	Mate - fishing vessel (occupation)	0B81.	J-64103	1
+159851007	0	Third hand - fishing vessel (occupation)	0B82.	J-64104	1
+102434004	0	Exposure to polluted soil, non-occupational (event)	XU0gu	A-A3242	1
+102849002	0	Lipiduria (finding)	XU0mB	F-73636	1
+102764006	0	Phosphofructokinase F subunit (substance)	XU0kt	F-6900B	1
+163349009	0	Brief genitourinary examination (procedure)	2612.	P2-014BC	1
+102793006	0	alpha>1< Anti-trypsin isotype ZZ (substance)	XU0lK	F-6F086	1
+102794000	0	Proenzyme (substance)	XU0lL	F-6F100	1
+163906003	0	Entire inferior articular process of third cervical vertebra (body structure)	XS0RE	T-116C2	1
+102820005	0	Oxalate renal clearance, function (observable entity)	XU0lk	F-70386	1
+164209009	0	Entire inferior articular process of fourth cervical vertebra (body structure)	XS0RK	T-116C5	1
+102850002	0	Urinary reducing substance (finding)	XE268	F-73668	1
+10285006	0	Wire drawer (machine) (occupation)	XU0mC	J-72730	1
+163350009	0	Intermediate genitourinary examination (procedure)	2613.	P2-014BD	1
+163351008	0	Full genitourinary examination (procedure)	2614.	P2-014BE	1
+102795004	0	Pepsinogen (substance)	X80EW	F-6F110	1
+102796003	0	Pepsinogen I (substance)	X80EY	F-6F120	1
+10282009	0	Betahistidine (substance)	XU0ll	C-97390	1
+102821009	0	para-Aminohippurate renal clearance, function (observable entity)	XU0lm	F-70390	1
+102851003	0	Urinary crystal, ammonium urate (finding)	XU0mD	F-73691	1
+102856008	0	Urinary crystal, calcium sulfate (finding)	XU0mI	F-73696	1
+102857004	0	Urinary crystal, cholesterol (finding)	XU0mJ	F-73697	1
+102766008	0	Neuron-specific enolase (substance)	X80ET	F-6C561	1
+102797007	0	Pepsinogen II (substance)	X80Eb	F-6F130	1
+102798002	0	Renin secretion, function (observable entity)	XU0lM	F-70110	1
+102822002	0	Phosphate renal clearance, function (observable entity)	XU0ln	F-70396	1
+102823007	0	Potassium renal clearance, function (observable entity)	XU0lo	F-703A0	1
+102860006	0	Urinary crystal, leucine (finding)	XU0mM	F-7369A	1
+10286007	0	Callosomarginal gyrus (body structure)	XU0mN	T-A2152	1
+102861005	0	Urinary crystal, pyrophosphate (finding)	XU0mO	F-7369B	1
+102765007	0	Lysosomal enzyme (substance)	XU0ku	F-6A010	1
+102768009	0	Pyrimidine-5'-nucleotidase (substance)	X80M5	F-6E410	1
+163382007	0	Testicular self-examination (procedure)	2657.	P2-014BF	0
+102799005	0	Normal renin secretion (finding)	XU0lN	F-70111	1
+163704009	0	Entire intervertebral disc space of cervical vertebra (body structure)	XS0R7	T-116C0	1
+102800009	0	Abnormal renin secretion (finding)	XU0lO	F-70112	1
+102824001	0	Renin renal clearance, function (observable entity)	XU0lp	F-703A6	1
+102825000	0	Sodium renal clearance, function (observable entity)	XU0lq	F-703B0	1
+102852005	0	Urinary crystal, bilirubin (finding)	XU0mE	F-73692	1
+102853000	0	Urinary crystal, calcium carbonate (finding)	XU0mF	F-73693	1
+102854006	0	Urinary crystal, calcium oxalate (finding)	XU0mG	F-73694	1
+102855007	0	Urinary crystal, calcium phosphate (finding)	XU0mH	F-73695	1
+102769001	0	Extended-spectrum beta lactamase (substance)	XU0kw	F-6E420	1
+163402009	0	Entire intervertebral disc space of fifth cervical vertebra (body structure)	XS0RT	T-116BD	1
+102770000	0	Alkaline phosphatase isoenzyme, renal fraction (substance)	X80DT	F-6F015	1
+10280001	0	Salmonella Tabligbo (organism)	Xa93d	L-1B825	1
+1028005	0	Sebaceous gland structure (body structure)	XU0lP	T-01310	1
+102826004	0	Thiosulfate renal clearance, function (observable entity)	XU0lr	F-703B6	1
+102827008	0	Urate renal clearance, function (observable entity)	XU0ls	F-703C0	1
+102858009	0	Urinary crystal, cystine (finding)	XU0mK	F-73698	1
+102859001	0	Urinary crystal, hippurate (finding)	XU0mL	F-73699	1
+164310001	0	Entire articular process of fourth cervical vertebra (body structure)	XS0RI	T-116C6	1
+10277002	0	Cerebellopontine angle syndrome (disorder)	XU0kx	DA-95930	1
+102771001	0	Leukocyte alkaline phosphatase (substance)	XU0ky	F-6F016	1
+102801008	0	Increased renin secretion (finding)	XU0lQ	F-70113	1
+102802001	0	Decreased renin secretion (finding)	XU0lR	F-70114	1
+102803006	0	Absence of renin secretion (disorder)	XU0lS	F-70115	1
+102828003	0	Urea renal clearance, function (observable entity)	XU0lt	F-703C6	1
+102829006	0	Isosthenuria (finding)	XU0lu	F-70712	1
+164007003	0	Entire articular process of third cervical vertebra (body structure)	XS0RC	T-116C3	1
+163129005	0	Brief gastrointestinal tract examination (procedure)	2512.	P2-014B8	1
+102743007	0	Myelin basic protein (substance)	X80Pu	F-63B79	1
+102772008	0	Macromolecular creatine kinase (substance)	XU0kz	F-6F034	1
+160476009	0	Social / personal history observable (observable entity)	13...	F-02455	1
+161107000	0	Myalgic Encephalopathy (M.E.) Association member (finding)	13Y6.	F-028C8	1
+102548001	0	Straining (finding)	X7A2h	F-11356	1
+102549009	0	Cramp in lower leg associated with rest (finding)	X76qe	F-11706	1
+102575008	0	Edema of knee (finding)	XU0is	F-18736	0
+161714006	0	Estimated date of delivery (observable entity)	1514.	F-02987	1
+161715007	0	Usual duration of menstrual flow (observable entity)	1515.	F-02988	1
+161108005	0	Alzheimer's disease society member (finding)	13Y7.	F-028CA	1
+161109002	0	Alcoholics anonymous (qualifier value)	13Y8.	R-41ECB	1
+161112004	0	Illiteracy (finding)	13Z1.	S-2001B	1
+161251001	0	Entire right internal carotid artery (body structure)	XS0im	T-4530D	0
+102550009	0	Leg cramp (finding)	XE1Fr	F-11710	0
+161511000	0	History of - transient ischemic attack (situation)	14AB.	G-0174	0
+167604002	0	Color of stool (observable entity)	473..	F-03455	1
+167609007	0	Feces color: green (finding)	4735.	F-03456	1
+103107001	0	Epstein-Barr virus nuclear antigen (substance)	XU0pa	F-C16D5	1
+172011006	0	Transsternal thymectomy (procedure)	71200	P1-67366	0
+102993001	0	Deviation to one side on eyes closed straight line walking test (finding)	XU0oB	F-A18B4	1
+10116005	0	Simple repair of superficial wounds of scalp and neck (procedure)	XU0KE	P1-41830	1
+10108001	0	Giardia cati (organism)	XU0Ir	L-50704	1
+146753008	0	Entire zygomatico-orbital artery (body structure)	XS0iS	T-4527B	1
+147056000	0	Entire parietal branch of superficial temporal artery (body structure)	XS0iV	T-4527E	1
+102378009	0	BB shot, device (qualifier value)	XU0fx	A-32475	1
+159683004	0	Head chef (occupation)	0A11.	J-002DF	1
+159684005	0	Head barman (occupation)	0A14.	J-002E0	1
+159745005	0	Night porter (occupation)	0AB2.	J-00326	1
+159746006	0	Hospital porter (occupation)	0AB3.	J-00327	1
+159747002	0	Page boy (occupation)	0AB4.	J-00328	1
+159800001	0	Male prostitute (occupation)	0AK2.	J-0034D	1
+159801002	0	Child prostitute (occupation)	0AK3.	J-0034E	1
+159803004	0	Other service occupation (occupation)	0AZ..	J-0034F	1
+159629002	0	Trainee wholesale sales representative (occupation)	0863.	J-45123	1
+102372005	0	Number 8 shot, device (qualifier value)	XU0fr	A-32465	1
+159631006	0	Property sales representative (occupation)	087..	J-002BF	1
+159686007	0	Trainee catering supervisor (occupation)	0A16.	J-002E2	1
+159689000	0	Chef - gourmet fare (occupation)	0A21.	J-002E3	1
+159749004	0	Foreman - caretaking/cleaning (occupation)	0AC..	J-00329	1
+102386009	0	Front driver airbag, device (physical object)	XU0g5	A-38142	1
+159750004	0	Supervisor - cleaner (occupation)	0AC1.	J-0032A	1
+159804005	0	Carver - meat (occupation)	0AZ1.	J-00350	1
+159805006	0	Bookmaker (occupation)	0AZ2.	J-00351	1
+159806007	0	Property master (occupation)	0AZ4.	J-00352	1
+159632004	0	Property negotiator (occupation)	0871.	J-002C0	1
+159633009	0	Insurance inspector - property (occupation)	0873.	J-002C1	1
+159634003	0	Insurance agent - property (occupation)	0874.	J-002C2	1
+159690009	0	Chef - plain fare (occupation)	0A22.	J-002E4	1
+102379001	0	4 Buck shot, device (qualifier value)	XU0fy	A-32480	1
+159691008	0	Fish fryer (occupation)	0A25.	J-53102	1
+159751000	0	Station foreman (occupation)	0AC2.	J-0032B	1
+159753002	0	General caretaker (occupation)	0AD1.	J-55103	1
+159756005	0	Cleaner (occupation)	0AE1.	J-0032C	1
+102393008	0	Snowboarding (qualifier value)	XU0gD	A-71081	1
+159807003	0	Store guide (occupation)	0AZ6.	J-00353	1
+159808008	0	Bingo caller (occupation)	0AZ7.	J-00354	1
+159635002	0	Office/cleaning sales representative (occupation)	0875.	J-002C3	1
+159637005	0	Hand gun merchant (occupation)	0880.	J-83921	1
+159638000	0	Rifle merchant (occupation)	0881.	J-83922	1
+159692001	0	Assistant cook (occupation)	0A26.	J-53103	1
+159693006	0	Trainee cook (occupation)	0A27.	J-53104	1
+159695004	0	Waiter/waitresses (occupation)	0A3..	J-002E5	1
+102496004	0	Spiking fever (finding)	X76EA	F-030B0	1
+160732001	0	Resident in part III accommodation (finding)	13F52	F-026B1	1
+160733006	0	Nursing or other home (environment)	13F6.	S-31252	1
+160564006	0	Quaker religion (religion/philosophy)	135M.	S-40025	1
+160565007	0	Plymouth Brethren religion (religion/philosophy)	135N.	S-40026	1
+160637002	0	Aerobic exercise once a week (finding)	1389.	F-0A903	1
+160638007	0	Aerobic exercise twice a week (finding)	138A.	F-0A904	1
+160639004	0	Aerobic exercise three or more times per week (finding)	138B.	F-0A905	1
+160680006	0	Fully mobile (finding)	13C1.	F-02622	1
+160681005	0	Mobile outside with aid (finding)	13C2.	F-100F2	1
+160566008	0	Christadelphian, follower of religion (person)	135O.	F-0256D	1
+102478008	0	Pre-existing condition (finding)	XU0hZ	F-01050	1
+160640002	0	Anaerobic exercise zero times a week (finding)	138C.	F-0A906	1
+160641003	0	Anaerobic exercise once a week (finding)	138D.	F-0A907	1
+102486008	0	Familial risk factor (observable entity)	XU0hg	F-01504	1
+160682003	0	Mobile in home (finding)	13C3.	F-100F3	1
+160683008	0	Needs walking aid in home (finding)	13C4.	F-100F4	1
+160684002	0	Confined to chair (finding)	13C5.	F-100F5	1
+160567004	0	Agnostic (person)	135P.	F-02570	1
+160573003	0	Alcohol intake (observable entity)	136..	F-02573	1
+160642005	0	Anaerobic exercise twice a week (finding)	138E.	F-0A908	1
+160643000	0	Anaerobic exercise three or more times per week (finding)	138F.	F-0A909	1
+160644006	0	Attends exercise classes (finding)	138G.	F-0A90A	1
+102491009	0	Immobile (finding)	3980.	F-01555	1
+160685001	0	Bed-ridden (finding)	13C6.	F-100F6	1
+102474005	0	Unexpected therapeutic effect (observable entity)	XU0hV	F-00559	1
+102479000	0	Pre-existing condition improved (finding)	XU0ha	F-01053	1
+160580001	0	Alcohol consumption unknown (finding)	1368.	F-60017	1
+160645007	0	Enjoys intermediate exercise (finding)	138H.	F-0A90B	1
+160646008	0	Frequency-Intensity-Time-Type (FITT) activity level 0; no moderate or vigorous activity with a duration of 20 minutes (finding)	138I.	F-0A90C	1
+160686000	0	Car owner (finding)	13C7.	F-0262C	1
+160687009	0	Has access to a car (finding)	13C8.	F-0262D	1
+160689007	0	Housebound (finding)	13CA.	F-0262E	1
+160690003	0	Depends on public transport (finding)	13CB.	F-0262F	1
+160586007	0	Entire anterior branch of superior thyroid artery (body structure)	XS0hy	T-4521C	1
+102480002	0	Generalized acute body pains (finding)	XU0hb	F-01231	1
+171676007	0	Exploration of trigeminal nerve (V) (procedure)	702A4	P1-95111	0
+164971000	0	Schick test (procedure)	3318.	P2-4413B	1
+102928002	0	Theophobia (finding)	XU0nE	F-94670	1
+102946008	0	Abnormal sexual behavior (finding)	Ua1am	F-9B002	1
+102947004	0	High risk sexual behavior (finding)	XU0nU	F-9B008	1
+102889008	0	Premature development of the breasts (finding)	X76Mm	F-8A011	1
+164613006	0	Entire articular process of fifth cervical vertebra (body structure)	XS0RO	T-116C9	1
+10291008	0	Giant pigmented nevus (morphologic abnormality)	BBEL.	M-87611	1
+102911000	0	Thoughts of self harm (finding)	XU0n1	F-94544	1
+164980000	0	Mantoux: delayed reaction (finding)	3324.	F-C3751	1
+102929005	0	Androphobia (finding)	XU0nF	F-94671	1
+102863008	0	Urinary crystal, magnesium ammonium phosphate (finding)	XU0mQ	F-7369D	1
+102864002	0	Urinary crystal, tyrosine (finding)	XU0mR	F-7369E	1
+102865001	0	Uric acid crystalluria (finding)	XaCxL	F-7369F	1
+10289000	0	Revision of gastroduodenal anastomosis with reconstruction (procedure)	XU0mi	P1-55975	1
+102890004	0	Inability to nurse (finding)	XU0mj	F-8A045	1
+102891000	0	Age-related cognitive decline (finding)	XU0mk	F-90410	1
+164983003	0	Kveim test (procedure)	333..	P2-44005	1
+103635003	0	Atypical cells of undetermined significance (morphologic abnormality)	XU0xa	M-67004	1
+103645001	0	Atypical endocervical glandular cells of uncertain significance, probably malignant (morphologic abnormality)	XU0xl	M-67402	1
+171989004	0	Biopsy of lesion of thyroid gland (procedure)	71131	P1-61306	0
+103656001	0	Atypical smooth muscle cells of uncertain significance, probably malignant (morphologic abnormality)	XU0xz	M-67456	1
+172080000	0	Right augmentation mammoplasty (procedure)	71348	P1-48857	0
+172081001	0	Left augmentation mammoplasty (procedure)	71349	P1-48858	1
+103626005	0	Diffuse inflammation (morphologic abnormality)	XU0xO	M-40007	1
+171815001	0	Primary microsurgical graft to peripheral nerve (procedure)	70530	P1-95D2A	0
+171816000	0	Secondary microsurgical graft to peripheral nerve (procedure)	70531	P1-95D2B	1
+171902006	0	Thoracic surgical sympathectomy (procedure)	70624	P1-95399	0
+171903001	0	Thoracic chemical sympathectomy (procedure)	70625	P1-955D4	1
+171904007	0	Cryotherapy to thoracic sympathetic nerve (procedure)	70626	P0-05ACA	0
+171990008	0	Incision of lesion of thyroid gland (procedure)	71132	P1-61106	0
+171991007	0	Exploration of thyroid gland (procedure)	71133	P1-6101C	0
+171995003	0	Total parathyroidectomy and parathyroid tissue transplantation (procedure)	71140	P1-6031A	0
+102354004	0	8 mm caliber bullet, device (physical object)	XU0fW	A-32418	1
+159478002	0	Manager - refuse disposal (occupation)	06Z8.	J-2199B	1
+159479005	0	Sewage works manager (occupation)	06Z9.	J-2199C	1
+159532008	0	Shipment/travel arrange clerk (occupation)	076..	J-00281	1
+159533003	0	Freight clerk (occupation)	0761.	J-00282	1
+159534009	0	Load control clerk (occupation)	0762.	J-00283	1
+159535005	0	Chartering clerk - sea (occupation)	0763.	J-00284	1
+102367001	0	.55 inch caliber bullet, device (physical object)	XU0fl	A-32446	1
+159589007	0	Supervisor:telegraph operative (occupation)	07E3.	J-002AF	1
+159426000	0	Manager public/club restaurant (occupation)	06B7.	J-00244	1
+159427009	0	Banqueting manager (occupation)	06B8.	J-00245	1
+159428004	0	Manager cafe restaurant (occupation)	06B9.	J-50031	1
+159481007	0	Practice manager (occupation)	06ZB.	J-2199D	1
+159483005	0	Clerical occupation (occupation)	07...	J-0025E	1
+159484004	0	Supervisor:cost/account clerks (occupation)	0711.	J-30003	1
+159536006	0	Schedules clerk - transport (occupation)	0764.	J-00285	1
+159537002	0	Traffic dispatcher - air (occupation)	0765.	J-00286	1
+159538007	0	Reservations clerk - travel (occupation)	0766.	J-00287	1
+159539004	0	Travel inquiry clerk (occupation)	0767.	J-00288	1
+159590003	0	Supervisor: mail/parcel operator (occupation)	07E4.	J-002B0	1
+159592006	0	Telephonist - public exchange (occupation)	07F1.	J-38022	1
+159593001	0	Telephonist-private exchange (occupation)	07F2.	J-38023	1
+102349008	0	.270 inch caliber bullet, device (physical object)	XU0fP	A-32410	1
+159429007	0	Canteen manager (occupation)	06BA.	J-00246	1
+159430002	0	Snack bar manager (occupation)	06BB.	J-50032	1
+159485003	0	Supervisor:cash handling clerk (occupation)	0712.	J-30004	1
+159486002	0	Supervisor: finance clerks (occupation)	0713.	J-30005	1
+102355003	0	.32 inch caliber bullet, device (physical object)	XU0fX	A-32420	1
+102361000	0	10 mm caliber bullet, device (physical object)	XU0ff	A-32432	1
+159541003	0	Record keeping/library clerk (occupation)	077..	J-00289	1
+159542005	0	Library assistant (occupation)	0771.	J-0028A	1
+159594007	0	Trainee telephonist (occupation)	07F3.	J-38024	1
+159597000	0	Radio operator (occupation)	07G1.	J-002B1	1
+102368006	0	.60 inch caliber bullet, device (physical object)	XU0fm	A-32448	1
+159431003	0	Publican (occupation)	06BC.	J-00247	1
+159432005	0	Innkeeper (occupation)	06BD.	J-00248	1
+159433000	0	Club steward (occupation)	06BE.	J-00249	1
+159434006	0	Trainee catering manager (occupation)	06BF.	J-0024A	1
+159487006	0	Supervisor: insurance clerks (occupation)	0714.	J-30006	1
+159488001	0	Supervisor: production clerks (occupation)	0715.	J-30007	1
+159489009	0	Supervisor: travel clerks (occupation)	0716.	J-30008	1
+159490000	0	Supervisor: record clerks (occupation)	0717.	J-30009	1
+159543000	0	Time clerk (occupation)	0773.	J-0028B	1
+159544006	0	Records clerk (occupation)	0774.	J-0028C	1
+159546008	0	Other general clerk (occupation)	078..	J-0028D	1
+159602007	0	Trainee radio/telegraph operator (occupation)	07G6.	J-002B6	1
+102369003	0	Shot size, device (qualifier value)	XU0fn	A-32460	1
+159437004	0	Manager - general recreation (occupation)	06C1.	J-0024B	1
+102773003	0	Macromolecular creatine kinase, type 1 (substance)	XU0l0	F-6F035	1
+160811003	0	Compensation claim pending (finding)	13HM1	F-02754	1
+160812005	0	Legal insurance problem (finding)	13HM2	S-20603	1
+160813000	0	Litigation pending (finding)	13HM3	F-02757	1
+160877008	0	Child at risk (finding)	13IF.	F-027C9	1
+102511005	0	Well female adolescent (finding)	XU0i1	F-06842	1
+160878003	0	Paternity dispute (finding)	13IG.	F-027D9	1
+160957000	0	Sudden infant death (event)	13M3.	S-13002	1
+160958005	0	Death of son (event)	13M5.	S-13003	1
+160959002	0	Entire right external carotid artery (body structure)	XS0hs	T-45204	0
+160744003	0	Lives in bed and breakfast accommodation (finding)	13FA.	F-026D0	1
+160745002	0	Lives in lodgings (finding)	13FB.	F-026D1	1
+160746001	0	Lives in a bedsit (finding)	13FC.	F-026D2	1
+160814006	0	Court case pending (finding)	13HM4	F-02759	1
+102505007	0	Well premature female newborn (finding)	XU0hv	F-06822	1
+160822004	0	Relationship problems (finding)	13HP.	S-00011	1
+160881008	0	Institutionalized childhood (finding)	13IJ.	F-027DA	1
+160882001	0	Child lives with grandparents (finding)	13IK.	F-027DB	1
+102520001	0	Age under 20 years (finding)	XU0i9	F-08610	1
+160960007	0	Death of daughter (event)	13M6.	S-13004	1
+10252003	0	Triceps jerk reflex (observable entity)	XU0iA	F-A1670	1
+160748000	0	Spouse unable to care for patient (finding)	13FD1	F-026D4	1
+160749008	0	Unable to care for sick parent (finding)	13FD2	F-026D7	1
+160750008	0	Rehoused (finding)	13FE.	F-026DA	1
+160823009	0	Boyfriend relationship problem (finding)	13HP0	S-00012	1
+160824003	0	Girlfriend relationship problem (finding)	13HP1	S-00013	1
+160825002	0	Poor family relationship (finding)	13HP2	S-00511	1
+160883006	0	Health of spouse (situation)	13IL.	G-016A	1
+102512003	0	Well adult (finding)	XU0i2	F-06850	1
+160961006	0	Death of father (event)	13M7.	S-13005	1
+160962004	0	Death of mother (event)	13M8.	S-13006	1
+160963009	0	Death of brother (event)	13M9.	S-13007	1
+102498003	0	Agony (finding)	XU0ho	F-06406	1
+160751007	0	Eviction from dwelling (finding)	13FF.	F-026F2	1
+102506008	0	Well child (finding)	XU0hw	F-06830	1
+160832006	0	On remand (finding)	13HS.	F-02763	1
+102507004	0	Well male child (finding)	XU0hx	F-06831	1
+160891002	0	Vulnerable child in family (situation)	13IQ.	G-016B	0
+160894005	0	Commencement of employment (observable entity)	13J1.	F-027DC	1
+160895006	0	Stopped work (finding)	13J2.	F-027DF	1
+160964003	0	Death of sister (event)	13MA.	S-13008	1
+160965002	0	Suicide of close relative (event)	13MB.	S-13009	1
+102521002	0	Age under 25 years (finding)	XU0iB	F-08620	1
+160752000	0	Eviction notice served (finding)	13FF1	F-026F3	1
+160753005	0	Evicted forcibly from house (finding)	13FF2	F-026F4	1
+160754004	0	Tenant evicted (finding)	13FF3	F-026F5	1
+160837000	0	Extra-marital problems (finding)	13HV.	F-02764	1
+160839002	0	Affair ended (finding)	13HV1	F-02765	1
+160840000	0	Affair unsatisfactory (finding)	13HV2	F-02767	1
+160842008	0	Seven year itch - marital (finding)	13HV4	F-02768	1
+102513008	0	Well male adult (finding)	XU0i3	F-06851	1
+167714004	0	Cerebrospinal fluid pressure: low (finding)	4833.	F-A00DD	1
+10312003	0	Prednisone preparation (product)	fe7..	C-A01B0	1
+103123001	0	Lymphocyte antigen CD49E (substance)	XU0pn	F-C1C36	1
+167206009	0	Disaccharidase tolerance tests (procedure)	4537.	P2-01528	1
+167212004	0	Tetracosactrin test (procedure)	4543.	P3-09433	1
+103155001	0	Lymphocyte antigen CD99 (substance)	XU0qM	F-C1F58	1
+103185006	0	Intrinsic factor blocking antibody (substance)	X80cm	F-C2D28	1
+103186007	0	Thyrotropin receptor antibody (substance)	XU0qo	F-C2D30	1
+103188008	0	Thyroid binding inhibitory immunoglobulins (substance)	XU0qq	F-C2D50	1
+103124007	0	Lymphocyte antigen CD49F (substance)	X80fz	F-C1C41	1
+103125008	0	Lymphocyte antigen CD50 (substance)	XU0po	F-C1C51	1
+103156000	0	Lymphocyte antigen CD100 (substance)	XU0qN	F-C1F60	1
+159438009	0	Manager - cultural facilities (occupation)	06C2.	J-0024C	1
+159439001	0	Structure of sternocleidomastoid vein (body structure)	XU0fQ	T-4814F	1
+159491001	0	Supervisor: library clerks (occupation)	0718.	J-3000A	1
+171579009	0	Intracranial transection of glossopharyngeal nerve (IX) (procedure)	70217	P1-9519C	0
+171580007	0	Intracranial transection of vagus nerve (X) (procedure)	70218	P1-9519D	0
+171581006	0	Intracranial transection of accessory nerve (XI) (procedure)	70219	P1-9519E	0
+171666009	0	Implantation of neurostimulator into cranial nerve (procedure)	70290	P0-05AB6	0
+171667000	0	Maintenance of neurostimulator in cranial nerve (procedure)	70291	P0-05AB7	0
+171668005	0	Removal of neurostimulator from cranial nerve (procedure)	70292	P0-05AB8	0
+171390000	0	Examination for institution (procedure)	699..	P2-0155C	1
+171391001	0	Geriatric home admission examination (procedure)	6991.	P2-0155D	1
+171392008	0	Prison medical examination (procedure)	6992.	P2-0155E	1
+171393003	0	Police medical examination (procedure)	6993.	P2-0155F	1
+171471009	0	Drainage of lesion of brain tissue (procedure)	7004.	P1-9105F	0
+103589008	0	Citrus limon (organism)	XU0wh	L-D7703	1
+171472002	0	Drainage of abscess of brain tissue (procedure)	70040	P0-05AA4	0
+171582004	0	Intracranial transection of hypoglossal nerve (XII) (procedure)	7021A	P1-9519F	0
+103601001	0	Ocimum basilicum (organism)	XU0ww	L-DA281	1
+103602008	0	Teucrium (organism)	XU0wx	L-DA290	1
+171671002	0	Exploration of optic nerve (II) (procedure)	702A0	P1-9510C	0
+171672009	0	Entire laryngeal aspect of interarytenoid fold (body structure)	XS0ao	T-24469	1
+171394009	0	Armed forces medical examination (procedure)	6994.	P2-01391	1
+171395005	0	University admission medical (procedure)	6995.	P2-01561	1
+103581006	0	Clethrionomys glariolus (organism)	XU0wX	L-87646	1
+171480009	0	Entire laryngeal aspect of aryepiglottic fold (body structure)	XS0ai	T-24354	1
+103590004	0	Camptotheca (organism)	XU0wi	L-D8D00	1
+171481008	0	Decompression of foramen magnum (procedure)	70053	P1-91060	0
+171596005	0	Intracranial destruction of optic nerve (II) (procedure)	70240	P1-95C4A	1
+171597001	0	Intracranial destruction of oculomotor nerve (III) (procedure)	70241	P1-95C4B	1
+171598006	0	Intracranial destruction of trochlear nerve (IV) (procedure)	70242	P1-95C4C	1
+103610009	0	Abnormal presence of endometrial cells in specimen from a menopausal woman (finding)	XU0x6	M-0901B	1
+10361001	0	Exhaustion delirium (finding)	XU0x7	F-91820	1
+171673004	0	Exploration of oculomotor nerve (III) (procedure)	702A1	P1-9510D	0
+171398007	0	Examination for suspected mental disorder (procedure)	69A1.	P2-01565	1
+171399004	0	Examination for suspected neoplasm (procedure)	69A2.	P2-01332	1
+171400006	0	Examination for suspected tuberculosis (procedure)	69A3.	P2-01333	1
+10359005	0	Revision of obstructed valve in cerebrospinal fluid shunt system (procedure)	XU0wj	P1-91583	1
+103591000	0	Camptotheca acuminata (organism)	XU0wk	L-D8D01	1
+171599003	0	Intracranial destruction of abducens nerve (VI) (procedure)	70243	P1-95C4D	1
+171601001	0	Intracranial destruction of facial nerve (VII) (procedure)	70245	P1-95C4E	1
+171602008	0	Intracranial destruction of acoustic nerve (VIII) (procedure)	70246	P1-95C4F	1
+171674005	0	Exploration of trochlear nerve (IV) (procedure)	702A2	P1-9510E	0
+171675006	0	Exploration of abducens nerve (IV) (procedure)	702A3	P1-9510F	0
+163099000	0	Entire joint of cervical vertebra other than atlas or axis (body structure)	XS03W	T-1532C	1
+171228002	0	Respiratory disease screening (procedure)	68C..	P2-060A0	0
+171369008	0	Passport examination (procedure)	6953.	P2-0154D	1
+171370009	0	Travel cancelation examination (procedure)	6954.	P2-0154E	1
+103542006	0	Ookinete form of protozoa (organism)	XU0vx	L-50062	1
+171008008	0	Counseling for loss of limb (procedure)	6752.	P2-11912	1
+171064008	0	Mothercraft education (procedure)	67AC.	P2-118D5	1
+103548005	0	Promastigote form of protozoa (organism)	XU0w1	L-50071	1
+171233003	0	Genitourinary disease screening (procedure)	68D..	P2-060A1	0
+171375004	0	Insurance claim examination (procedure)	6962.	P2-0138F	1
+103579009	0	Race (observable entity)	Xa8Es	L-85B02	1
+171009000	0	Counseling for mastectomy (procedure)	6753.	P2-11913	1
+171066005	0	Antenatal relaxation class (regime/therapy)	67B..	P7-40124	1
+171067001	0	Postnatal support group (regime/therapy)	67C..	P0-04040	1
+171238007	0	Arthritis screening (procedure)	68F..	P2-060A2	0
+103565001	0	Worm eggs (organism)	XU0wG	L-55010	1
+103566000	0	Infective worm eggs (organism)	XU0wH	L-55012	1
+171382000	0	Adoption medical examination (procedure)	6981.	P2-01556	1
+171383005	0	Fostering medical examination (procedure)	6982.	P2-01557	1
+171384004	0	Boarding out medical examination (procedure)	6983.	P2-01558	1
+171010005	0	Colostomy education (procedure)	6754.	P2-11914	1
+164986006	0	Kveim test negative (finding)	3333.	F-C3721	0
+102866000	0	Abnormal urine (finding)	XU0mS	F-74010	0
+102867009	0	Discolored urine (finding)	Xa0ap	F-74209	1
+102892007	0	Neglected appearance (finding)	XM01d	F-91521	1
+102893002	0	Excitability (finding)	XU0ml	F-92023	1
+102894008	0	Feeling calm (finding)	Ua16A	F-92186	1
+102912007	0	Fear of death (finding)	X762T	F-94601	1
+164839006	0	Direct microscopy (procedure)	31B1.	P3-4016A	1
+102913002	0	Taphophobia (finding)	XU0n2	F-94602	1
+164987002	0	Kveim test positive (finding)	3334.	F-C3711	0
+164992000	0	Entire superior articular process of seventh cervical vertebra (body structure)	XS0Rb	T-116CD	1
+169732009	0	Fetal size accords with dates (finding)	62O3.	F-8610C	1
+169826009	0	Single live birth (finding)	6331.	F-88069	1
+169827000	0	Single stillbirth (finding)	6332.	F-8806A	1
+169828005	0	Twins - both live born (finding)	6333.	F-889A1	1
+169829002	0	Twins - one still and one live born (finding)	6334.	F-889A2	1
+10343005	0	Salmonella Adelaide (organism)	Xa8yD	L-1A506	1
+103407009	0	Human immunodeficiency virus (HIV) Centers for Disease Control and Prevention (CDC) category A2 (finding)	XU0uG	G-E612	1
+169733004	0	Fetal size does not accord with dates (finding)	62O4.	F-8610D	1
+169740003	0	Infant feeding method (observable entity)	62P..	F-03BC8	1
+170067008	0	Child HC = 75th-89th centile (finding)	6496.	F-03C4D	1
+170068003	0	Child HC = 90th-96th centile (finding)	6497.	F-03C4E	1
+170069006	0	Child HC = > 97th centile (finding)	6498.	F-03C53	1
+103467006	0	Legionella pneumophila serogroup 5 (organism)	XU0uq	L-20485	1
+170281004	0	Child 3 year examination (procedure)	64X..	P2-01545	1
+103468001	0	Legionella pneumophila serogroup 6 (organism)	XU0ur	L-20486	1
+170353008	0	First polio vaccination (procedure)	6581.	P2-47075	1
+103476004	0	Mycobacterium genavense (organism)	X73Tk	L-21882	1
+170354002	0	Second polio vaccination (procedure)	6582.	P2-47076	1
+169992002	0	Breast fed at 9 months (finding)	6452.	F-501FB	1
+169993007	0	Breast and supplement fed at 9 months (finding)	6453.	F-501FC	1
+169994001	0	On solids at 9 months (finding)	6454.	F-501FD	1
+169995000	0	On normal diet at 9 months (finding)	6455.	F-501FE	1
+103447002	0	Legionella adelaidensis (organism)	X73Rz	L-20426	1
+103448007	0	Legionella brunensis (organism)	X73S3	L-20427	1
+170089007	0	Infant milestone (observable entity)	64A..	F-03C54	1
+170290006	0	Child 39 month examination (procedure)	64Y..	P2-01546	1
+103469009	0	Legionella pneumophila serogroup 7 (organism)	XU0us	L-20487	1
+170300004	0	Child 8 week examination (procedure)	64a..	P2-06216	1
+170355001	0	Third polio vaccination (procedure)	6583.	P2-47077	1
+170356000	0	Booster polio vaccination (procedure)	6584.	P2-47078	0
+170360002	0	Second smallpox vaccination (procedure)	6593.	P2-47079	1
+169997008	0	Infant feeding method at 1 year (observable entity)	646..	F-03C27	1
+169998003	0	Bottle fed at 1 year (finding)	6461.	F-501FF	1
+169999006	0	Breast fed at 1 year (finding)	6462.	F-50201	1
+170090003	0	Age when first smiled (observable entity)	64A1.	F-03C55	1
+103449004	0	Legionella fairfieldensis (organism)	X73S8	L-20428	1
+170091004	0	Age when first tooth appeared (observable entity)	64A2.	F-03C56	1
+170303002	0	Structure of right half of neck (body structure)	XU0ut	T-D07F2	0
+103470005	0	Legionella pneumophila serogroup 8 (organism)	XU0uu	L-20488	1
+170361003	0	Third smallpox vaccination (procedure)	6594.	P2-4707A	1
+103477008	0	Mycoplasma species, genital (organism)	XU0v0	L-220A0	1
+170364006	0	Measles vaccination plus immunoglobulin (procedure)	65A2.	P2-4707B	1
+170000008	0	Entire carotid triangle (body structure)	XS115	T-D161B	1
+170001007	0	Breast and supplement fed at 1 year (finding)	6463.	F-50202	1
+159034004	0	Podiatrist (occupation)	03K2.	J-00190	1
+159035003	0	Dental auxiliary (occupation)	03K3.	J-00191	1
+159092002	0	Trainee entertainer (occupation)	046A.	J-001B2	1
+159095000	0	Photographer (still camera) (occupation)	0471.	J-001B3	1
+102791008	0	alpha>1< Anti-trypsin isotype SS (substance)	XU0lI	F-6F084	1
+102792001	0	alpha>1< Anti-trypsin isotype SZ (substance)	XU0lJ	F-6F085	1
+102818007	0	Lithium renal clearance, function (observable entity)	XU0li	F-70376	1
+102819004	0	Mannitol renal clearance, function (observable entity)	XU0lj	F-70380	1
+102847000	0	Amorphous urinary sediment (finding)	XU0mA	F-7360B	1
+102848005	0	Fat globules in urine (finding)	46TA.	F-7360C	1
+102774009	0	Macromolecular creatine kinase, type 2 (substance)	XU0l1	F-6F036	1
+102804000	0	Albumin renal clearance, function (observable entity)	XU0lT	F-70310	1
+102805004	0	Aldosterone renal clearance, function (observable entity)	XU0lU	F-70316	1
+102830001	0	Renal angle tenderness (finding)	XU0lv	F-70813	1
+160845005	0	New relationship (finding)	13HX.	S-00014	1
+160846006	0	First relationship (finding)	13HY.	S-00015	1
+102508009	0	Well female child (finding)	XU0hy	F-06832	1
+161142001	0	Gujarati language (qualifier value)	13Z62	R-41ECD	1
+161143006	0	Hindi language (qualifier value)	13Z63	R-41ECE	1
+102564009	0	Edema of hand (finding)	XU0il	F-17720	0
+102565005	0	Edema of finger (finding)	XU0im	F-17722	0
+102588006	0	Chest wall pain (finding)	XSJF8	F-37008	0
+161639008	0	At risk of heart disease (finding)	14O7.	F-02971	1
+161640005	0	High risk of heart disease (finding)	14O70	F-02973	1
+161077003	0	Father smokes (situation)	13WF1	G-016F	0
+161078008	0	Mother smokes (situation)	13WF2	G-0171	0
+161144000	0	Pashtu language (qualifier value)	13Z64	R-41ECF	1
+161145004	0	Punjabi language (qualifier value)	13Z65	R-41ED0	1
+102566006	0	Edema of thumb (finding)	XU0in	F-17724	0
+102567002	0	Loss of control of walking (finding)	XU0io	F-18005	1
+161641009	0	At risk of diabetes mellitus (finding)	14O8.	F-0297D	1
+102589003	0	Atypical chest pain (finding)	1828.	F-37012	1
+161654002	0	Entire inferior laryngeal artery (body structure)	XS0kG	T-4614A	1
+161079000	0	Both parents smoke (situation)	13WF3	G-0172	0
+161080002	0	Passive smoking risk (environment)	13WF4	R-30232	1
+161146003	0	Urdu language (qualifier value)	13Z66	R-41ED1	1
+161150005	0	Entire right carotid sinus (body structure)	XS0hq	T-45181	0
+102540008	0	Headfirst position (finding)	XU0iS	F-10470	1
+102568007	0	Paresis of lower extremity (finding)	XU0ip	F-18014	0
+102569004	0	Decreased range of hip movement (finding)	Xa9vN	F-18292	0
+102590007	0	Intermittent palpitations (finding)	XU0j3	F-37156	1
+10259007	0	Proctopexy (procedure)	Xa8bQ	P1-58815	0
+102533007	0	Excessive exercise (finding)	XU0iO	F-10066	1
+161085007	0	Detail of history of foreign travel (observable entity)	13X..	F-028B5	1
+10254002	0	Excision of diverticulum of small intestine (procedure)	X20We	P1-56318	0
+102541007	0	Feetfirst position (finding)	XU0iT	F-10480	1
+161452006	0	Entire left internal carotid artery (body structure)	XS0in	T-4530E	0
+102570003	0	Inguinal pain (finding)	Xa84t	F-182A0	0
+102591006	0	Chest wall tenderness (finding)	XaDtk	F-37170	0
+161087004	0	Travels abroad widely (finding)	13X2.	F-028B7	1
+161088009	0	Previous foreign travel ++ (finding)	13X3.	F-028B9	1
+161089001	0	Previous countries lived in (observable entity)	13X4.	F-028BB	1
+102542000	0	Involuntary muscle contraction, function (observable entity)	XU0iU	F-11122	1
+102543005	0	Abnormally decreased muscle contraction (finding)	XU0iV	F-11124	1
+161712005	0	Menopause, function (observable entity)	1512.	F-9B252	1
+102596001	0	Unpleasant odor of genitalia (finding)	XU0j5	F-42517	1
+161086008	0	Recent countries visited (observable entity)	13X1.	F-028B6	1
+102534001	0	Body position best elicited (observable entity)	XU0iP	F-10303	1
+161102006	0	Diabetic association member (finding)	13Y1.	F-028C3	1
+102544004	0	Shortening muscle contraction, function (observable entity)	XU0iW	F-11126	1
+102545003	0	Lengthening muscle contraction, function (observable entity)	XU0iX	F-11127	1
+102572006	0	Edema of lower extremity (finding)	Xa872	F-18440	0
+102573001	0	Edema of thigh (finding)	Xa7k2	F-18442	0
+102592004	0	Electrocardiogram finding (finding)	XaECk	F-38000	0
+102535000	0	Right lateral decubitus position (finding)	Xa1KI	F-10317	1
+161103001	0	Schizophrenia association member (finding)	13Y2.	F-028C4	1
+161104007	0	Manic-depression association member (finding)	13Y3.	F-028C5	1
+102546002	0	Paradoxical muscle contraction, function (observable entity)	XU0iY	F-11128	1
+102547006	0	Muscle action potential, function (observable entity)	XU0iZ	F-11230	1
+102574007	0	Edema of leg (finding)	Xa2kw	F-18444	0
+102594003	0	Electrocardiogram abnormal (finding)	Xa86L	F-38002	0
+102595002	0	Unpleasant odor of axilla (finding)	XU0j4	F-42516	0
+161105008	0	Asthma society member (finding)	13Y4.	F-028C6	1
+161106009	0	Parkinson's Society member (finding)	13Y5.	F-028C7	1
+169625006	0	Delivery booking place changed (situation)	62B6.	G-D214	0
+103403008	0	Type of graft (qualifier value)	X902v	G-D800	1
+169720005	0	Antenatal 35 week examination (procedure)	62NA.	P2-8702F	1
+169721009	0	Antenatal 36 week examination (procedure)	62NB.	P2-87030	1
+103412005	0	Human immunodeficiency virus (HIV) Centers for Disease Control and Prevention (CDC) category C1 (AIDS) (finding)	XU0uM	G-E630	1
+169817006	0	Ambulance birth (finding)	6315.	F-03BD1	1
+169818001	0	Born before arrival (situation)	6316.	F-03BD2	1
+169890009	0	Birth length=25th-49th centile (finding)	6384.	F-8807B	1
+169891008	0	Birth length=50th-74th centile (finding)	6385.	F-8807C	1
+169892001	0	Birth length=75th-89th centile (finding)	6386.	F-8807D	1
+169893006	0	Birth length=90th-96th centile (finding)	6387.	F-8807E	1
+103404002	0	Orthotopic graft (qualifier value)	XU0uD	G-D850	1
+103405001	0	Heterotopic graft (qualifier value)	XU0uE	G-D860	1
+170094007	0	Age when first stood (observable entity)	64A5.	F-03C5A	1
+10347006	0	Solar urticaria (disorder)	X5050	D0-75241	1
+170365007	0	First rabies vaccination (procedure)	65D1.	P2-4707C	1
+170370000	0	First hepatitis B vaccination (procedure)	65F1.	P2-47431	1
+170371001	0	Second hepatitis B vaccination (procedure)	65F2.	P2-47432	1
+10344004	0	Hirudo medicinalis (organism)	Xa3Dj	L-5F102	1
+170002000	0	On solids at 1 year (finding)	6464.	F-50203	1
+170003005	0	On normal diet at 1 year (finding)	6465.	F-50204	1
+170095008	0	Age when first walked (observable entity)	64A6.	F-03C5B	1
+170096009	0	Age when first talked (observable entity)	64A7.	F-03C5C	1
+170099002	0	Child examination - birth (procedure)	64B..	P2-0153C	1
+170311007	0	First cholera vaccination (procedure)	6511.	P2-47058	1
+170312000	0	Second cholera vaccination (procedure)	6512.	P2-47059	1
+170375005	0	Fifth hepatitis B vaccination (procedure)	65F7.	P2-47436	1
+103479006	0	Neisseria meningitidis serogroup A (organism)	XU0v2	L-22221	1
+170005003	0	Child weight centile (observable entity)	647..	F-03C2A	1
+153622002	0	Structure of nasofrontal vein (body structure)	XU0Uv	T-4815A	1
+10181005	0	Diagnostic radiography of sacrococcygeal joint (procedure)	XU0Vv	P5-70534	0
+10176001	0	Structure of supraoptic region of hypothalamus (body structure)	XaEbG	T-A4700	1
+153925002	0	Structure of frontal diploic vein (body structure)	XU0VU	T-49702	1
+10179008	0	Invasive (qualifier value)	XU0VW	G-A423	1
+153420002	0	Structure of deep lingual vein (body structure)	XU0UX	T-4811B	1
+10174003	0	Procarbazine hydrochloride (substance)	XU0UZ	C-781C1	1
+153723004	0	Structure of ethmoidal vein (body structure)	XU0V6	T-48117	1
+153218003	0	Structure of dorsal lingual vein (body structure)	XU0UA	T-48119	1
+10177005	0	Triploidy, diploidy, mixoploidy syndrome (disorder)	XU0V8	D4-02355	1
+154026008	0	Structure of anterior temporal diploic vein (body structure)	XU0Vg	T-49703	1
+10172004	0	Heater, device (physical object)	XU0UC	A-40210	1
+10180006	0	Focal hemosiderosis (disorder)	XU0Vi	D6-31253	1
+1018001	0	Nornicotine (substance)	XU0Vj	C-32017	1
+155136006	0	Entire lymph node of head (body structure)	XS0vg	T-C4101	1
+10191004	0	Anticoagulant effect (finding)	XU0Xn	F-D0660	1
+154329009	0	Structure of emissary vein of skull (body structure)	XU0WG	T-49701	1
+154631009	0	Structure of condylar emissary vein (body structure)	XU0Wo	T-49727	1
+10183008	0	Salmonella Pensacola (organism)	Xa8jI	L-18138	1
+10186000	0	Toxic effect of selenium compound (disorder)	XU0Wp	DD-84685	0
+154934004	0	Structure of venous plexus of the hypoglossal canal (body structure)	XU0XO	T-49734	1
+10189007	0	Conglutinin (substance)	XU0XQ	F-C2B70	1
+155237005	0	Structure of inferior auricular lymph node (body structure)	XU0Xx	T-C421D	1
+102399007	0	Canoeing (qualifier value)	XU0gJ	A-71602	1
+159853005	0	Fisherman - deck hand (occupation)	0B91.	J-64105	1
+159854004	0	Pot fisherman (occupation)	0B92.	J-64106	1
+159900002	0	Food processor - blender (occupation)	0C5F.	J-00396	1
+159901003	0	Food processor - filterer (occupation)	0C5G.	J-00397	1
+102405005	0	Rapid barometric pressure change (physical force)	XU0gR	A-80258	1
+159967002	0	Clothing pattern marker (occupation)	0D5B.	J-003C3	1
+159968007	0	Clothing pattern cutter (occupation)	0D5C.	J-003C4	1
+159492008	0	Supervisor: general clerks (occupation)	0719.	J-3000B	1
+159495005	0	Audit clerk (occupation)	0721.	J-0025F	1
+159547004	0	General clerk (occupation)	0781.	J-0028E	1
+102787003	0	alpha>1< Anti-trypsin isotypes (substance)	X80OZ	F-6F080	1
+102788008	0	alpha>1< Anti-trypsin isotype MM (substance)	XU0lE	F-6F081	1
+164742009	0	Schirmer's test (procedure)	312D.	P0-05842	1
+102904004	0	Abusive emotional relationship with child (finding)	XU0mv	F-92415	1
+164913009	0	P mitrale (finding)	32A3.	F-3808A	1
+164914003	0	P pulmonale (finding)	32A4.	F-3808B	1
+102921008	0	Toxicophobia (finding)	XU0n7	F-94624	1
+102935005	0	Explosive speech (finding)	XU0nM	F-94724	1
+165041004	0	Forced expired volume (observable entity)	3397.	F-0320A	1
+102936006	0	Staccato speech (finding)	XU0nN	F-94759	1
+102877006	0	Nulliparous (finding)	1521.	F-84430	1
+102878001	0	Recurrent abortion (disorder)	L163.	F-84920	1
+164755005	0	Oto-admittance tests (procedure)	3136.	P2-A710E	1
+164757002	0	Rotational test (procedure)	3138.	P2-A8604	1
+164918000	0	Pathological Q wave (finding)	32B3.	F-3808C	1
+164922005	0	Tall R wave (finding)	32C3.	F-3808D	1
+102922001	0	Tocophobia (finding)	XU0n8	F-94644	1
+102937002	0	Mimmation (finding)	XU0nO	F-9475A	1
+102938007	0	Difficulty writing (finding)	XaAzQ	F-94852	0
+165077006	0	Intracardiac pressure (observable entity)	33B5.	F-0320B	1
+169879004	0	Birth HC = 10th-24th centile (finding)	6373.	F-03BD9	1
+169950007	0	One of triplets (finding)	63CF.	F-03BF9	1
+103435008	0	Yersinia mollaretii (organism)	X73Ls	L-1E432	1
+169952004	0	Placental finding (finding)	63D..	F-03BFC	0
+169707007	0	Antenatal sickle cell screening (procedure)	62M..	P2-0609A	0
+169711001	0	Antenatal booking examination (procedure)	62N1.	P2-87026	1
+103418009	0	Human immunodeficiency virus (HIV) World Health Organization (WHO) class IV (acquired immunodeficiency syndrome) (AIDS) (finding)	XU0uS	G-E658	1
+10342000	0	Heparin cofactor II (substance)	XU0uT	F-D7B90	1
+103428000	0	Corynebacterium ulcerans (organism)	X73IR	L-14428	1
+169880001	0	Birth HC = 25th-49th centile (finding)	6374.	F-03BDA	1
+169881002	0	Birth HC = 50th-74th centile (finding)	6375.	F-03BDB	1
+169190006	0	Enzyme radioimmunoassay (procedure)	5773.	P3-70285	1
+103401005	0	Saturated (qualifier value)	XU0uB	G-D642	1
+103411003	0	Human immunodeficiency virus (HIV) Centers for Disease Control and Prevention (CDC) category B3 (AIDS) (finding)	XU0uL	G-E624	1
+169712008	0	Antenatal 12 weeks examination (procedure)	62N2.	P2-87027	1
+103419001	0	Clark's melanoma level (observable entity)	X78GP	G-F030	1
+103420007	0	Modified Dukes stage (observable entity)	XU0uU	G-F050	1
+169882009	0	Birth HC = 75th-89th centile (finding)	6376.	F-03BDC	1
+169883004	0	Birth HC = 90th-96th centile (finding)	6377.	F-03BDD	1
+169884005	0	Birth HC = > 97th centile (finding)	6378.	F-03BDE	1
+169621002	0	Home delivery booked (situation)	62B2.	G-D20D	0
+103402003	0	Unsaturated (qualifier value)	XU0uC	G-D644	1
+169713003	0	Antenatal 16 week examination (procedure)	62N3.	P2-87028	1
+169714009	0	Antenatal 20 week examination (procedure)	62N4.	P2-87029	1
+169715005	0	Antenatal 24 week examination (procedure)	62N5.	P2-8702A	1
+169811007	0	Birth detail (observable entity)	63...	F-03BCA	1
+103421006	0	Grade (attribute)	XUTiO	G-F500	1
+169812000	0	Place of birth (observable entity)	631..	F-03BCC	1
+169886007	0	Birth length (observable entity)	638..	F-03BDF	1
+169887003	0	Birth length = < 3rd centile (finding)	6381.	F-88078	1
+169888008	0	Birth length=3rd-9th centile (finding)	6382.	F-88079	1
+169889000	0	Birth length=10th-24th centile (finding)	6383.	F-8807A	1
+169622009	0	General practitioner unit delivery booking (procedure)	62B3.	G-D20E	1
+169623004	0	Consultant unit booking (procedure)	62B4.	G-D20F	1
+169624005	0	Private home delivery booking (procedure)	62B5.	G-D213	1
+169716006	0	Antenatal 28 week examination (procedure)	62N6.	P2-8702B	1
+169717002	0	Antenatal 30 week examination (procedure)	62N7.	P2-8702C	1
+169718007	0	Antenatal 32 week examination (procedure)	62N8.	P2-8702D	1
+169719004	0	Antenatal 34 week examination (procedure)	62N9.	P2-8702E	1
+169813005	0	Home birth (finding)	6311.	F-03BCD	1
+169814004	0	GP unit birth (finding)	6312.	F-03BCE	1
+169815003	0	Consultant unit birth (finding)	6313.	F-03BCF	1
+103429008	0	Enterohemorrhagic Escherichia coli, serotype O157:H7 (organism)	X73K6	L-15611	1
+171127000	0	Salter operation (procedure)	XU0w8	P1-1410C	1
+171344008	0	Taxi cab driver medical exam (procedure)	6921.	P2-0137E	1
+171345009	0	Disabled driver examination (procedure)	6922.	P2-0137F	1
+158832009	0	Systems analyst/computer programmer (occupation)	02B..	J-000ED	1
+158833004	0	Data processing manager (occupation)	02B1.	J-000EE	1
+158898006	0	Further education teacher (occupation)	033..	J-1300F	1
+158899003	0	Further education principal (occupation)	0331.	J-13010	1
+158902000	0	Secondary school head teacher (occupation)	0341.	J-13202	1
+158946008	0	Welfare officer - elderly (occupation)	03AE.	J-19322	1
+158947004	0	Welfare officer for the physically handicapped (occupation)	03AF.	J-19323	1
+158948009	0	Home teacher for the blind (occupation)	03AG.	J-13521	1
+158949001	0	Welfare officer to the deaf (occupation)	03AH.	J-19324	1
+160179009	0	Foreman - rail transport (occupation)	0I21.	J-004AB	1
+160181006	0	Rail secondman (occupation)	0I23.	J-98322	1
+102449007	0	Tardive dyskinesia (disorder)	X004c	D9-87021	1
+160294001	0	Entire sternocleidomastoid branch of superior thyroid artery (body structure)	XS0hv	T-45219	1
+160481000	0	Social group (observable entity)	132..	F-02457	1
+160482007	0	Social group 1 - professional (finding)	1321.	F-02458	1
+10243007	0	Benzoic and salicylic acid ointment (product)	za0ha	C-52B80	1
+160117002	0	Repetitive assembler -electric (occupation)	0F2A.	J-00494	1
+160183009	0	Road transport occupation (occupation)	0I3..	J-004AC	1
+160184003	0	Foreman - road transport (occupation)	0I31.	J-004AD	1
+160592001	0	Alcohol intake above recommended sensible limits (finding)	136K.	F-60018	1
+160593006	0	Alcohol intake within recommended sensible limits (finding)	136L.	F-60019	1
+160651002	0	Frequency-Intensity-Time-Type (FITT) activity level 5; 12 or more occasions of a vigorous activity in 4 weeks (finding)	138N.	F-0A912	1
+160709000	0	Ground floor flat (environment)	13E7.	R-3022B	1
+160710005	0	Lower floor flat (environment)	13E8.	R-3022C	1
+102494001	0	Decreased body growth (finding)	XU0hm	F-01874	1
+160545000	0	Hindu, follower of religion (person)	1358.	F-024ED	1
+102476007	0	Abnormal patient reaction (finding)	XU0hX	F-00562	1
+102481003	0	Generalized chronic body pains (finding)	XU0hc	F-01233	1
+160654005	0	Willing to be donor (finding)	139..	F-02602	1
+160655006	0	Willing to be donor of blood (finding)	1391.	F-02612	1
+160711009	0	Upper floor flat (environment)	13E9.	R-3022F	1
+160712002	0	Multiple occupancy (finding)	13EA.	F-02694	1
+160713007	0	No indoor toilet (finding)	13EB.	S-20486	1
+160549006	0	Christian, follower of religion (person)	135A.	F-024F0	1
+160551005	0	Mixed religion (religion/philosophy)	135C.	S-4001F	1
+160552003	0	Not religious (finding)	135D.	F-024F8	1
+102482005	0	Growing pains (finding)	XE0qm	F-01236	1
+160612007	0	Keeps trying to stop smoking (finding)	137C.	F-93139	1
+102483000	0	Associated symptom (finding)	XU0hd	F-01258	1
+160656007	0	Willing to be donor of kidney (finding)	1392.	F-02613	1
+160657003	0	Willing to be donor of cornea (finding)	1393.	F-02614	1
+160715000	0	House infested (finding)	13ED.	S-20487	1
+160716004	0	House liable to vandalism (finding)	13EE.	S-20488	1
+160717008	0	Divorced couple sharing house (finding)	13EF.	F-02695	1
+160553008	0	Degree of religious observance (observable entity)	135E.	F-024F9	1
+160554002	0	Religious observance lax (finding)	135E1	S-40021	1
+160555001	0	Religious observance moderate (finding)	135E2	S-40022	1
+160616005	0	Trying to give up smoking (finding)	137G.	F-9313A	1
+160618006	0	Current non-smoker (finding)	137L.	F-9313B	1
+160619003	0	Rolls own cigarettes (finding)	137M.	F-9313C	1
+160658008	0	Willing to be donor of body (finding)	1394.	F-02615	1
+160721001	0	Housing unsuited to needs (finding)	13EI.	S-2048B	1
+160723003	0	Housing dependency scale (assessment scale)	13F..	G-E033	1
+160725005	0	Lives alone - help available (finding)	13F2.	S-31222	1
+160556000	0	Religious observance strict (finding)	135E3	S-40023	1
+102477003	0	Unevaluable reaction (finding)	XU0hY	F-00565	1
+160557009	0	Baptist, follower of religion (person)	135F.	F-024FA	1
+160620009	0	Ex-pipe smoker (finding)	137N.	F-9313D	1
+160621008	0	Ex-cigar smoker (finding)	137O.	F-9313E	1
+102323003	0	Water bag prosthesis for imaging procedure, device (physical object)	XU0ew	A-2C602	1
+10233009	0	Intramedullary nailing of fibula (procedure)	XU0f5	P1-18A02	0
+102331008	0	Automatic firearm, device (physical object)	XU0f6	A-31005	1
+159267007	0	Trainee architect (occupation)	05J4.	J-02102	1
+160898008	0	Medically retired, life event (finding)	13J6.	S-20541	1
+160968000	0	Risk activity involvement (finding)	13N..	F-93144	1
+160969008	0	Amateur boxer (finding)	13N1.	F-0A914	1
+160970009	0	Hang-glider (finding)	13N2.	F-93145	1
+160971008	0	Skier (finding)	13N3.	F-0A915	1
+160756002	0	Lives with relatives (finding)	13FH.	F-026F6	1
+160757006	0	Elderly relative lives with family (finding)	13FH0	F-026F7	1
+102499006	0	Fit and well (finding)	Xa96k	F-06800	1
+103874007	0	C^w^ blood group typing (procedure)	XU11B	P3-20430	1
+174018004	0	Enterotomy and endoscopic examination of ileum (procedure)	764A2	P1-56766	0
+171397002	0	Medical examination for suspected condition (procedure)	69A..	P2-01563	1
+102338002	0	Lance, device (physical object)	XU0fD	A-32143	1
+159322002	0	Quality control engineer (occupation)	05Z7.	J-02998	1
+159323007	0	Patent engineer (occupation)	05Z9.	J-02999	1
+159380007	0	Stock control manager (occupation)	0672.	J-0021E	1
+159382004	0	Warehouse manager (occupation)	0674.	J-00220	1
+159383009	0	Manager - loading/unloading (occupation)	0675.	J-00221	1
+103613006	0	Needle track (morphologic abnormality)	XU0xB	M-14382	1
+171417004	0	Pre-school child health examination (procedure)	69D4.	P2-0156D	1
+149178000	0	Entire vestibular branch of vestibulocochlear artery (body structure)	XS0jz	T-4582D	1
+150289003	0	Entire occipital vein (body structure)	XS06U	T-48216	1
+10143000	0	Touch-pressure threshold of spinal nerve (observable entity)	XU0Ow	F-A8280	1
+1014004	0	Bembrops gobioides (organism)	XU0OQ	L-CA202	1
+150592003	0	Entire vein of the scala tympani (body structure)	XS073	T-4829C	1
+10146008	0	Chief cell adenocarcinoma (morphologic abnormality)	XU0PU	M-A3213	1
+150895008	0	Entire vein of the round window (body structure)	XS076	T-4829F	1
+150087005	0	Entire superficial temporal vein (body structure)	XS05n	T-4812D	1
+10141003	0	Structure of zygomatic nerve (body structure)	XU0Ob	T-A8280	1
+150390005	0	Entire labyrinthine vein (body structure)	XS071	T-4829A	1
+10149001	0	Merkel's cell (cell)	XU0Q0	T-01154	1
+150693003	0	Entire vein of the scala vestibuli (body structure)	XS074	T-4829D	1
+10147004	0	Fly (organism)	XU0Pf	L-60010	1
+149885003	0	Entire conjunctival vein (body structure)	XS06z	T-4828D	1
+10139004	0	Difficulty adjusting to work situation (finding)	XU0OF	S-20500	1
+150188002	0	Entire posterior auricular vein (body structure)	XS068	T-48167	1
+10142005	0	Chronobiologic state (observable entity)	XU0Om	F-07000	1
+150491008	0	Entire common modiolar vein (body structure)	XS072	T-4829B	1
+10145007	0	Structure of vagus nerve pharyngeal plexus (body structure)	XU0PJ	T-A8681	1
+150794004	0	Entire vein of the cochlear aqueduct (body structure)	XS075	T-4829E	1
+149986001	0	Entire inferior ophthalmic vein (body structure)	XS070	T-4828E	1
+159874006	0	Textile weaver (occupation)	0C27.	J-00385	1
+102409004	0	Second hand cigarette smoke (substance)	XU0gU	A-80325	1
+159940008	0	Slate cutter (occupation)	0D2A.	J-003B0	1
+159941007	0	Stone polisher (occupation)	0D2B.	J-003B1	1
+159944004	0	Foreman - printing (occupation)	0D31.	J-003B2	1
+160003009	0	Musical instrument maker (occupation)	0DZ2.	J-0041C	1
+160004003	0	Organ tuner (occupation)	0DZ4.	J-0041D	1
+160005002	0	Piano tuner (occupation)	0DZ5.	J-0041E	1
+160006001	0	Piano repairer (occupation)	0DZ6.	J-0041F	1
+160076000	0	Welder - skilled (occupation)	0E7G.	J-87211	1
+160077009	0	Welder - unskilled (occupation)	0E7H.	J-87212	1
+102426005	0	Exposure to polluted air, non-occupational (event)	XU0gm	A-A3222	1
+159875007	0	Textile finisher (occupation)	0C2B.	J-00386	1
+159877004	0	Rope maker (occupation)	0C2D.	J-00387	1
+102402008	0	Snowboard, device (physical object)	XU0gO	A-75131	1
+159945003	0	Typesetter (occupation)	0D34.	J-003B3	1
+159946002	0	Entire meningeal branch of ascending pharyngeal artery (body structure)	XS0i0	T-45225	1
+102410009	0	Pollution (event)	XU0gV	A-A3000	1
+160007005	0	Surgical appliance maker (occupation)	0DZ7.	J-00420	1
+160008000	0	Dental technician (occupation)	0DZ8.	J-00421	1
+102418002	0	Dust pollution (event)	XU0gd	A-A3050	1
+160078004	0	Pipe/sheet metal laborer (occupation)	0E7I.	J-99004	1
+160084001	0	Silversmith (occupation)	0EZ3.	J-00445	1
+160085000	0	Precious stone worker (occupation)	0EZ4.	J-00446	1
+159882006	0	Tobacco processor (occupation)	0C32.	J-00389	1
+159885008	0	Supervisor - chemical/gas/petroleum production (occupation)	0C41.	J-0038A	1
+159886009	0	Chief operator - chemical production (occupation)	0C42.	J-0038B	1
+10241009	0	Digestion and absorption, intestinal stage, function (observable entity)	XU0gW	F-53710	1
+159948001	0	Printing machine operator (occupation)	0D38.	J-003B4	1
+159949009	0	Screen printer (occupation)	0D39.	J-003B5	1
+160009008	0	Wig maker (occupation)	0DZ9.	J-00422	1
+159277009	0	Technical drawing checker (occupation)	05L7.	J-03205	1
+102333006	0	Soft-nose bullet, device (physical object)	XU0f8	A-32114	1
+159278004	0	Map checker (occupation)	05L8.	J-03206	1
+159336007	0	Motive power superintendent (occupation)	0622.	J-001FE	1
+159337003	0	Aircraft maintenance manager (occupation)	0623.	J-001FF	1
+159340003	0	Contracts manager (occupation)	0631.	J-00200	1
+159391000	0	Office manager - records (occupation)	0686.	J-00228	1
+159392007	0	Office manager - statistics (occupation)	0687.	J-00229	1
+159393002	0	Office manager - insurance (occupation)	0688.	J-0022A	1
+159394008	0	Computer operations manager (occupation)	0689.	J-0022B	1
+159221007	0	Chemical engineer - liaison (occupation)	05C7.	J-02507	1
+102325005	0	Gel prosthesis for imaging procedure, device (physical object)	XU0ey	A-2C606	1
+159222000	0	Chemical engineer - consultancy/advice (occupation)	05C8.	J-02508	1
+159279007	0	Stressman (occupation)	05L9.	J-03207	1
+159280005	0	Trainee draftsman (occupation)	05LB.	J-03208	1
+159282002	0	Laboratory technician (occupation)	05M..	J-001E1	1
+159341004	0	Structure of accessory vertebral vein (body structure)	XU0fF	T-4814C	1
+102340007	0	Surface-to-air missile, device (physical object)	XU0fG	A-32171	1
+159342006	0	Site agent (occupation)	0632.	J-00201	1
+158962002	0	Career officer (occupation)	03C1.	J-0016C	1
+159174008	0	Civil engineer - research (occupation)	0573.	J-02203	1
+159175009	0	Civil engineer - design (occupation)	0574.	J-02204	1
+159223005	0	Chemical engineer trainee (occupation)	05C9.	J-02509	1
+159226002	0	Production engineer (occupation)	05D1.	J-02907	1
+159227006	0	Production engineer trainee (occupation)	05D2.	J-02908	1
+10336004	0	Ribosylnicotinamide kinase (substance)	XU0te	F-69060	1
+102309000	0	Surgical saw, device (physical object)	XU0ef	A-14140	1
+102316004	0	Embolization particulate, device (physical object)	XU0eo	A-25616	1

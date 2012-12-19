@@ -1,0 +1,32 @@
+160941000	0	Telephone in house (finding)	13KB.	F-02822	1
+160942007	0	Public telephone only (finding)	13KC.	F-02824	1
+160521004	0	Far Eastern origin (finding)	1349.	F-024C0	1
+103634004	0	Leukocytic agglutination (morphologic abnormality)	XU0xZ	M-64226	1
+171891006	0	Lumbar chemical sympathectomy (procedure)	70611	P1-955D3	1
+171892004	0	Cryotherapy to lumbar sympathetic nerve (procedure)	70612	P0-05AC8	0
+171984009	0	Incision of thyroglossal cyst (procedure)	71123	P1-601FA	0
+171988007	0	Excision of lesion of thyroid gland (procedure)	71130	P1-6101B	0
+160560002	0	Presbyterian, follower of religion (person)	135I.	F-024FC	1
+160561003	0	Church of Scotland (religion/philosophy)	135J.	S-40812	1
+102485007	0	Personal risk factor (observable entity)	XU0hf	F-01502	1
+160632008	0	Enjoys moderate exercise (finding)	1384.	F-0A8FD	1
+160633003	0	Enjoys heavy exercise (finding)	1385.	F-0A8FE	1
+160674003	0	Entire posterior branch of superior thyroid artery (body structure)	XS0hz	T-4521D	1
+102490005	0	Hypomobility (finding)	XU0hj	F-01554	1
+160675002	0	Low residue diet (finding)	13B8.	C-F20B8	1
+160726006	0	Lives alone -no help available (finding)	13F3.	S-31223	1
+160727002	0	Lives alone needs housekeeper (finding)	13F31	S-31224	1
+160562005	0	Pentecostalist, follower of religion (person)	135K.	F-0256B	1
+160563000	0	Evangelist, follower of religion (person)	135L.	F-0256C	1
+160634009	0	Competitive athlete (finding)	1386.	F-0A8FF	1
+160635005	0	Exercise grading unknown (finding)	1387.	F-0A901	1
+102949001	0	Excessive masturbation (finding)	X767J	F-9B377	1
+165175000	0	Temperament testing (procedure)	3831.	P9-00002	1
+165176004	0	Attitude testing (procedure)	3833.	P9-01003	1
+165242000	0	Wheelchair mobility (observable entity)	398..	F-03234	1
+165243005	0	Independent in wheelchair (finding)	3981.	F-03235	1
+165244004	0	Minimal help in wheelchair (finding)	3982.	F-03236	1
+102965000	0	Abnormal cerebral evoked potential (finding)	XU0nj	F-A0612	0
+165320004	0	Dementia test (procedure)	3AD..	P9-10201	1
+102983008	0	Brisk tendon reflex (finding)	XU0o1	F-A1613	1
+165498002	0	Red blood cell enzyme test (procedure)	42G..	P3-30045	1
