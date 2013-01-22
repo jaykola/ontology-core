@@ -16,6 +16,7 @@
 		<module>snomed-20120131</module>
 		<module>snomed-20110731</module>
 		<module>snomed-20110731-incremental</module>
+		<module>snomed-db</module>
 	</modules>
 
   <properties>
