@@ -1,5 +1,0 @@
-CONCEPTID	CONCEPTSTATUS	FULLYSPECIFIEDNAME	CTV3ID	SNOMEDID	ISPRIMITIVE
-160941000	0	Telephone in house (finding)	13KB.	F-02822	1
-160942007	0	Public telephone only (finding)	13KC.	F-02824	1
-160521004	0	Far Eastern origin (finding)	1349.	F-024C0	1
-103634004	0	Leukocytic agglutination (morphologic abnormality)	XU0xZ	M-64226	1
